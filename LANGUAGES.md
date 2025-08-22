@@ -75,7 +75,7 @@
 | 科学 | Science | 现代科学方法论 |
 | 哲学框架 | Philosophical Framework | 思考和分析的理论基础 |
 | 创业冷启动 | Startup Cold Start | 创业项目的初始阶段 |
-| 混合授权模式 | Hybrid Licensing Model | 开源和商业授权的结合 |
+| 辩证开放模式 | Dialectical Open Model | 智慧共享与技术保留的辩证统一 |
 
 ### 项目结构 / Project Structure
 | 中文 | English | 说明 |
@@ -118,5 +118,5 @@
 
 ---
 
-**注意**: 本项目的多语言支持遵循项目的混合授权模式，翻译内容同样适用CC BY-NC-SA 4.0许可条款。
-**Note**: The multilingual support of this project follows the project's hybrid licensing model, and translated content is also subject to the CC BY-NC-SA 4.0 license terms.
+**注意**: 本项目的多语言支持遵循项目的辩证开放模式，翻译内容同样适用CC BY-NC-SA 4.0许可条款。
+**Note**: The multilingual support of this project follows the project's dialectical open model, and translated content is also subject to the CC BY-NC-SA 4.0 license terms.

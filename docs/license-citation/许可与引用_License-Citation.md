@@ -16,23 +16,26 @@
 
 - **引用文献 (Referenced Materials)**: 已有文献按原文献版权进行转载引用，遵循原始许可条款 / Existing literature follows original copyright terms for reprint and citation
 
-### 🚨 重要说明：部分开源仓库 / Important Note: Partially Open Source Repository
-**本仓库采用混合授权模式**：
-- **代码部分**：按 MIT 许可证完全开源
-- **内容部分**：按 CC BY-NC-SA 4.0 许可证（非商业使用，允许改编）
-- **商业使用**：需单独授权
+### 🚨 重要说明：智慧共享与技术保留 / Important Note: Wisdom Sharing & Technical Preservation
+**本仓库采用辩证的开放模式**：
+- **技术部分**：保留商业价值，因为技术本身具有商业属性
+- **哲学思辨**：公开共享，因为这是人类智慧的边界拓展
+- **最终目标**：让传统智慧通过技术手段进一步到达人们身边
+- **理想主义**：通过技术的商业获利和通过智慧的公开共享，最终都服务于同一个理想
 
-**This repository adopts a hybrid licensing model**:
-- **Code**: MIT License (fully open source)
-- **Content**: CC BY-NC-SA 4.0 License (non-commercial use, adaptations allowed)
-- **Commercial use**: Requires separate licensing
+**This repository adopts a dialectical open model**:
+- **Technical**: Commercial value preserved as technology has inherent commercial attributes
+- **Philosophical**: Openly shared as this expands the boundaries of human wisdom
+- **Ultimate Goal**: Bringing traditional wisdom closer to people through technological means
+- **Idealism**: Both commercial technology gains and open wisdom sharing ultimately serve the same ideal
 
 ### 💼 商业使用许可通道 / Commercial Use Licensing Channel
-如需商业使用本仓库内容，请联系我们获取**商业使用许可**：
-For commercial use of this repository content, please contact us for **commercial use licensing**:
+**哲学思辨材料完全开放**，但如需商业使用本仓库的技术实现部分，请联系我们获取**商业使用许可**：
+**Philosophical materials are completely open**, but if you need commercial use of the technical implementation parts of this repository, please contact us for **commercial use licensing**:
 - 📧 邮箱：z_zz@u.nus.edu / Email: z_zz@u.nus.edu
 - 💰 费用：根据使用范围和商业价值协商定价 / Fee: Negotiated pricing based on usage scope and commercial value
 - 📋 授权范围：包括商业改编、商业分发、商业应用等 / License Scope: Including commercial adaptation, distribution, application, etc.
+- 🌟 **说明**：技术部分的商业价值保留是为了服务"让传统智慧到达人们身边"的理想 / **Note**: The commercial value preservation of technical parts is to serve the ideal of "bringing traditional wisdom closer to people"
 
 ## 📚 学术引用 / Academic Citation
 仓库根目录提供 `CITATION.cff`，便于学术工具（如 GitHub、Zotero）自动识别引用元数据。
@@ -49,16 +52,16 @@ The repository root provides `CITATION.cff` for automatic recognition by academi
 * 不承诺"灵验率""因果性"与"确定性"；所有方法以**启发式—复盘**方式呈现。
 * 尊重学术资料的版权与署名规范；严格引用来源。
 * **引用文献遵循原文献版权**：转载引用的已有文献按原文献许可条款执行。
-* **内容仅限开源社区传播**：禁止商业使用，但允许社区改编和再整理。
-* **🚨 商业使用需单独授权**：如需商业使用，请联系获取商业使用许可。
+* **哲学思辨材料完全开放**：技术实现部分保留商业价值，但允许社区改编和再整理。
+* **🚨 技术部分商业使用需单独授权**：如需商业使用技术实现部分，请联系获取商业使用许可。
 
 ### English
 * Do not provide **high-risk advice** in medical, legal, securities, etc.; do not replace professional services.
 * Do not promise "accuracy rates," "causality," or "certainty"; all methods are presented in **heuristic-retrospective** manner.
 * Respect copyright and attribution standards for academic materials; strictly cite sources.
 * **Referenced literature follows original copyright**: Reprinted referenced existing literature follows original license terms.
-* **Content distribution limited to open source communities**: Commercial use prohibited, but community adaptation and reorganization allowed.
-* **🚨 Commercial use requires separate licensing**: For commercial use, please contact us for commercial use licensing.
+* **Philosophical materials are completely open**: Technical implementation parts preserve commercial value, but community adaptation and reorganization allowed.
+* **🚨 Technical parts commercial use requires separate licensing**: For commercial use of technical implementation parts, please contact us for commercial use licensing.
 
 ## 📋 引用规范 / Citation Guidelines
 

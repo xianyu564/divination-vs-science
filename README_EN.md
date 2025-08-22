@@ -17,25 +17,26 @@
 
 ## 🎯 Project Positioning
 
-### 🚨 Important Note: Partially Open Source Repository
-**This repository adopts a hybrid licensing model**:
-- **Code**: MIT License (fully open source)
-- **Content**: CC BY-NC-SA 4.0 License (non-commercial use, adaptations allowed)
-- **Commercial use**: Requires separate licensing
+### 🚨 Important Note: Wisdom Sharing & Technical Preservation
+**This repository adopts a dialectical open model**:
+- **Technical**: Commercial value preserved as technology has inherent commercial attributes
+- **Philosophical**: Openly shared as this expands the boundaries of human wisdom
+- **Ultimate Goal**: Bringing traditional wisdom closer to people through technological means
+- **Idealism**: Both commercial technology gains and open wisdom sharing ultimately serve the same ideal
 
-**"Partially Open Source" means**:
-- ✅ **Content Fully Open**: lectures, speaker notes, academic resources and other core content are open to all users
-- 🔒 **Partial Benefits**: Sponsors receive additional benefits like private repository access
-- 💼 **Commercial Use**: Requires separate licensing
+**"Dialectical Openness" means**:
+- ✅ **Philosophical Materials Completely Open**: Lectures, handouts, academic resources and other materials expanding human wisdom boundaries are open to all users
+- 🔒 **Technical Parts Reserved**: Technical implementation and commercial application parts preserve commercial value
+- 🌟 **Idealistic Goal**: Through technical commercialization and wisdom openness, ultimately serving the ideal of bringing traditional wisdom to people
 
 ### Dual Positioning
-1. **Knowledge Community**: Philosophical thinking platform exploring the relationship between divination and science
-2. **Startup Cold Start**: Philosophical framework knowledge repository for the Elephenotype startup project
+1. **Wisdom Sharing Community**: Philosophical thinking platform exploring the relationship between divination and science, open space for expanding human wisdom boundaries
+2. **Technical Startup Project**: Philosophical framework knowledge repository for the Elephenotype startup project, serving ideals through technical commercialization
 
 ### Core Question
 We start with a fundamental question: **"Is Fortune-Telling Science?"**
 
-Through exploring the relationship between divination and science, we gradually delve into the philosophical framework of **Eastern divination systems (numerology, fortune-telling, feng shui)** and discuss their application in modern decision support.
+Through exploring the relationship between divination and science, we gradually delve into the philosophical framework of **Eastern divination systems (numerology, fortune-telling, feng shui)**, exploring the significance of these traditional wisdom systems in contemporary technological society, and discuss their application in modern decision support.
 
 ## 📚 Start Exploring Now
 
@@ -53,19 +54,20 @@ Through exploring the relationship between divination and science, we gradually 
 > 💡 **Tip**: Start with lecture materials to quickly understand core concepts, then dive into FAQ and academic resources.
 
 ### Open Source Shared Components
-- **Philosophical Framework**: Thinking framework about the relationship between divination and science
-- **Methodology**: Methods for applying divination in modern decision-making
-- **Academic Discussion**: Related academic research and discussions
+- **Philosophical Thinking**: Deep thinking about the relationship between divination and science, exploration of expanding human wisdom boundaries
+- **Methodology**: Methods for applying divination in modern decision-making, integration of traditional wisdom with modern technology
+- **Academic Discussion**: Related academic research and discussions, promoting the expansion of human cognitive boundaries
 
 ### Commercial Application Components
-- **Consultation Services**: Fee-based consultation services based on the philosophical framework
-- **APP Development**: Commercial applications based on divination (business secrets)
-- **Startup Projects**: Entrepreneurial practices guided by the philosophical framework
+- **Consultation Services**: Fee-based consultation services based on the philosophical framework, realizing wisdom value through technical means
+- **APP Development**: Commercial applications based on divination (business secrets), preserving technical commercial value
+- **Startup Projects**: Entrepreneurial practices guided by the philosophical framework, serving ideals through technical commercialization
 
 ### 💼 Commercial Use Licensing Channel
-For commercial use of this repository content, please contact us for **commercial use licensing**:
+**Philosophical materials are completely open**, but if you need commercial use of the technical implementation parts of this repository, please contact us for **commercial use licensing**:
 - 📧 Email: z_zz@u.nus.edu
 - 💰 Fee: Negotiated pricing based on usage scope and commercial value
+- 🌟 **Note**: The commercial value preservation of technical parts is to serve the ideal of "bringing traditional wisdom closer to people"
 
 ## 🚀 Quick Start
 
@@ -95,13 +97,13 @@ For commercial use of this repository content, please contact us for **commercia
 
 ```
 .
-├── knowledge/                   # 🧠 Knowledge Content Center
-│   ├── lectures/               # Lecture materials (PPT, speaker notes, transcript, video links)
-│   ├── faq/                    # FAQ (divination vs science boundaries)
-│   ├── resources/              # Academic resources
+├── knowledge/                   # 🧠 Philosophical Materials Center
+│   ├── lectures/               # Lecture materials (exploring the significance of traditional wisdom in contemporary technological society)
+│   ├── faq/                    # FAQ (philosophical exploration of divination vs science boundaries)
+│   ├── resources/              # Academic resources (research materials on expanding human wisdom boundaries)
 │   │   ├── academic/           # Papers, books, links
 │   │   └── readings/           # Extended readings
-│   └── consultation-service/   # Consultation services
+│   └── consultation-service/   # Consultation services (professional guidance based on philosophical framework)
 ├── docs/                       # 📚 Technical documentation
 │   ├── project-overview/       # Project overview
 │   ├── license-citation/       # License & citation
@@ -117,24 +119,24 @@ For commercial use of this repository content, please contact us for **commercia
 
 ## 🌟 Core Features
 
-- **🎯 Philosophical Exploration**: Deep thinking starting from "Is Fortune-Telling Science?"
-- **🔬 Scientific Methods**: Empirical methods for measurable aspects
-- **🚀 Entrepreneurial Application**: Startup methodology based on the philosophical framework
-- **🌍 Multilingual Support**: Bilingual documentation in Chinese and English
-- **💝 Community Support**: Open source community collaboration
-- **🔐 Private Access**: Donors receive access to private repository
+- **🎯 Philosophical Thinking**: Exploration of expanding human wisdom boundaries starting from "Is Fortune-Telling Science?"
+- **🔬 Scientific Methods**: Empirical methods for measurable aspects, integration of traditional wisdom with modern technology
+- **🚀 Entrepreneurial Application**: Startup methodology based on the philosophical framework, serving ideals through technical commercialization
+- **🌍 Multilingual Support**: Bilingual documentation in Chinese and English, promoting global wisdom exchange
+- **💝 Community Support**: Open source community collaboration, jointly promoting the expansion of human cognitive boundaries
+- **🔐 Private Access**: Donors receive access to private repository (will be open to all users in the future)
 
 ## 💝 Sponsorship & Support
 
 > 💡 **Friendly Reminder**: We recommend experiencing the project content first to understand its value before considering sponsorship
 
-**Important Note**: Sponsorship for this project is **NOT for profit**, but rather support and recognition for the author's research work and hope for future startup projects.
+**Important Note**: Sponsorship for this project is **NOT for profit**, but rather support and recognition for the author's research work and hope for future startup projects. **Philosophical materials are completely open**, and the commercial value preservation of technical parts is to serve the ideal of "bringing traditional wisdom closer to people".
 
 ### 🎯 Support Usage
-- 📚 Continuous updates of lecture content and academic materials
-- 🛠️ Development of open source tools and templates
-- 🚀 Supporting startup project development
-- 🌟 Enhancing author's quality of life
+- 📚 Continuous updates of philosophical materials and academic research, promoting the expansion of human wisdom boundaries
+- 🛠️ Development of open source tools and templates, promoting the integration of traditional wisdom with modern technology
+- 🚀 Supporting startup project development, serving ideals through technical commercialization
+- 🌟 Enhancing author's quality of life, providing support for continuous research and development
 
 ### 🌟 Donor Benefits
 - Recognition in new releases
@@ -177,9 +179,9 @@ For commercial use of this repository content, please contact us for **commercia
 
 - Do not provide high-risk advice in medical, legal, securities, etc.
 - Do not promise "accuracy rates" or "certainty"
-- Content limited to open source community distribution, commercial use and derivative works prohibited
+- **Philosophical materials are completely open**, technical implementation parts preserve commercial value
 - Referenced literature follows original copyright
-- **Consultation services are fee-based profitable commercial services**
+- **Consultation services are fee-based profitable commercial services**, realizing wisdom value through technical means
 
 ## 📞 Contact Us
 

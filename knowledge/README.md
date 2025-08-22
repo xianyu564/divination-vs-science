@@ -54,7 +54,7 @@ knowledge/
 
 ### 理念说明 / Philosophical Statement
 
-本项目的部分开源内容属于开发者践行"知识普惠"理想的一部分。我们相信，真正的智慧应该超越商业利益的束缚，为全人类所共享。获取文件与捐赠金额、频率等完全无关，体现了"知识应该为所有人共享"的理想。
+本项目的哲学思辨材料完全开放属于开发者践行"智慧普惠"理想的一部分。我们相信，真正的智慧应该超越商业利益的束缚，为全人类所共享。获取文件与捐赠金额、频率等完全无关，体现了"智慧应该为所有人共享"的理想。
 ```
 
 ## 🎓 讲座材料 / Lecture Materials
@@ -140,5 +140,5 @@ knowledge/
 
 ---
 
-**注意**: 本知识中心的内容遵循项目的混合授权模式，详情请参考[许可说明](../docs/license-citation/许可与引用_License-Citation.md)。
-**Note**: The content in this knowledge center follows the project's hybrid licensing model. For details, please refer to the [License Information](../docs/license-citation/许可与引用_License-Citation.md).
+**注意**: 本知识中心的内容遵循项目的辩证开放模式，详情请参考[许可说明](../docs/license-citation/许可与引用_License-Citation.md)。
+**Note**: The content in this knowledge center follows the project's dialectical open model. For details, please refer to the [License Information](../docs/license-citation/许可与引用_License-Citation.md).

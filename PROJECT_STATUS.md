@@ -40,7 +40,7 @@
   - [x] GitHub配置（.github/）
 
 #### 技术基础设施 / Technical Infrastructure
-- [x] 混合授权模式
+- [x] 辩证开放模式
   - [x] 代码：MIT许可证
   - [x] 内容：CC BY-NC-SA 4.0许可证
   - [x] 商业使用：单独授权通道
