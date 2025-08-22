@@ -47,7 +47,7 @@
 - 🔍 **[常见问题](knowledge/faq/)** - 玄学与科学边界的FAQ
 - 📚 **[学术资源](knowledge/resources/)** - 论文、书籍和链接
 - 💼 **[咨询服务](knowledge/consultation-service/)** - 专业咨询服务
-- 🎯 **[示例文件](share-sample/)** - 框架展示用示例文件
+- 🎯 **[示例文件](knowledge/share-sample/)** - 框架展示用示例文件
 
 > 💡 **提示**：从讲座材料开始快速理解核心概念，然后深入FAQ和学术资源。
 

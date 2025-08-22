@@ -30,7 +30,7 @@
 ## 📁 目录结构 / Directory Structure
 
 ```
-share-sample/
+knowledge/share-sample/
 ├── README.md                    # 本文档 / This document
 ├── lectures/                    # 🎓 讲座示例
 │   └── [待补充]                # 框架展示用讲座文件

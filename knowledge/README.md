@@ -39,8 +39,8 @@ knowledge/
 
 ## 🎯 示例文件 / Sample Files
 
-> 在项目根目录的 `share-sample/` 文件夹中，您可以找到用于展示框架内容的示例文件。
-> In the `share-sample/` folder at the project root, you can find sample files for showcasing framework content.
+> 在 `knowledge/share-sample/` 文件夹中，您可以找到用于展示框架内容的示例文件。
+> In the `knowledge/share-sample/` folder, you can find sample files for showcasing framework content.
 
 ### 获取完整内容 / Accessing Complete Content
 

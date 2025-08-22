@@ -163,11 +163,11 @@ site/
 *.wav
 *.m4a
 
-# 例外：share-sample目录中的示例文件（用于展示框架内容）
-# Exception: Sample files in share-sample directory (for showcasing framework content)
-!share-sample/**/*.pdf
-!share-sample/**/*.mp3
-!share-sample/**/*.mp4
+# 例外：knowledge/share-sample目录中的示例文件（用于展示框架内容）
+# Exception: Sample files in knowledge/share-sample directory (for showcasing framework content)
+!knowledge/share-sample/**/*.pdf
+!knowledge/share-sample/**/*.mp3
+!knowledge/share-sample/**/*.mp4
 
 # 办公文档 / Office documents
 *.doc
