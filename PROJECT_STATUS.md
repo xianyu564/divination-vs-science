@@ -197,5 +197,5 @@
 
 ---
 
-**最后更新**: 2025年1月 / Last Updated: January 2025  
+**最后更新**: 2025年8月 / Last Updated: August 2025  
 **更新频率**: 每季度 / Update Frequency: Quarterly
