@@ -19,10 +19,15 @@
 
 ---
 
-## 🚨 重要说明：智慧共享与技术保留 / Important Note: Wisdom Sharing & Technical Preservation
+## 🚨 重要说明：辩证开放理念与混合授权机制 / Important Note: Dialectical Open Philosophy & Hybrid Licensing Mechanism
 
+#### 🌟 辩证开放理念 / Dialectical Open Philosophy
 **本仓库采用辩证的开放模式**：哲学思辨材料完全开放，技术实现部分保留商业价值。
 **This repository adopts a dialectical open model**: Philosophical materials are completely open, technical implementation parts preserve commercial value.
+
+#### ⚖️ 混合授权机制 / Hybrid Licensing Mechanism
+**具体执行采用混合授权模式**：社区使用遵循CC BY-NC-SA 4.0，商业使用需单独授权。
+**Implementation adopts a hybrid licensing model**: Community use follows CC BY-NC-SA 4.0, commercial use requires separate licensing.
 
 ### 💼 商业使用许可通道 / Commercial Use Licensing Channel
 **哲学思辨材料完全开放**，但如需商业使用本仓库的技术实现部分，请联系我们获取**商业使用许可**：
@@ -130,8 +135,8 @@ We will gradually open some repository privileges and invite beta testing. Howev
 > 权益是"访问与参与"的便利，不改变本仓库内容的**版权许可**。
 > Benefits are conveniences for "access and participation" and do not change the **copyright license** of this repository's content.
 > 
-> **重要提醒：本项目采用辩证的开放模式**
-> **Important Reminder: This project adopts a dialectical open model**
+> **重要提醒：本项目采用辩证开放理念与混合授权机制**
+> **Important Reminder: This project adopts both dialectical open philosophy and hybrid licensing mechanism**
 > - **代码部分**：按 MIT 许可证开源 / **Code**: Open source under MIT license
 > - **内容部分**：按 CC BY-NC-SA 4.0 许可证（非商业使用，允许改编，需相同许可分享） / **Content**: Under CC BY-NC-SA 4.0 license (non-commercial use, adaptations allowed, must share under same license)
 > - **商业使用**：需单独授权，请联系我们获取商业使用许可 / **Commercial Use**: Requires separate licensing, please contact us for commercial use license
@@ -176,7 +181,7 @@ We will gradually open some repository privileges and invite beta testing. Howev
 
 ## 📜 许可与再利用 / License & Reuse
 
-**本项目采用辩证的开放模式** / **This project adopts a dialectical open model**：
+**本项目采用辩证开放理念与混合授权机制** / **This project adopts both dialectical open philosophy and hybrid licensing mechanism**：
 
 - **代码与脚本**：见 `LICENSE-CODE`（MIT 许可） / **Code & Scripts**: See `LICENSE-CODE` (MIT License)
   - 完全开源，允许商业使用 / Fully open source, commercial use allowed
@@ -187,7 +192,7 @@ We will gradually open some repository privileges and invite beta testing. Howev
   - 改编作品需按相同许可分享 / Adapted works must be shared under the same license
   - 禁止商业使用 / Commercial use prohibited
 
-- **商业使用**：如需商业使用许可，请邮件沟通"**辩证开放**"路径（商用单独签约，不影响哲学思辨材料的开放共享） / **Commercial Use**: For commercial use licensing, please email to discuss the "**dialectical openness**" path (commercial use requires separate agreement, does not affect the open sharing of philosophical materials)
+- **商业使用**：如需商业使用许可，请邮件沟通"**混合授权**"路径（商用单独签约，不影响哲学思辨材料的开放共享） / **Commercial Use**: For commercial use licensing, please email to discuss the "**hybrid licensing**" path (commercial use requires separate agreement, does not affect the open sharing of philosophical materials)
 
 ---
 

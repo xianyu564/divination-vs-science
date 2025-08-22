@@ -17,17 +17,30 @@
 
 ## 🎯 Project Positioning
 
-### 🚨 Important Note: Wisdom Sharing & Technical Preservation
+### 🚨 Important Note: Dialectical Open Philosophy & Hybrid Licensing Mechanism
+
+#### 🌟 Dialectical Open Philosophy
 **This repository adopts a dialectical open model**:
 - **Technical**: Commercial value preserved as technology has inherent commercial attributes
 - **Philosophical**: Openly shared as this expands the boundaries of human wisdom
 - **Ultimate Goal**: Bringing traditional wisdom closer to people through technological means
 - **Idealism**: Both commercial technology gains and open wisdom sharing ultimately serve the same ideal
 
+#### ⚖️ Hybrid Licensing Mechanism
+**Implementation adopts a hybrid licensing model**:
+- **Code**: MIT License (fully open source)
+- **Content**: CC BY-NC-SA 4.0 License (non-commercial use, adaptations allowed)
+- **Commercial use**: Requires separate licensing
+
 **"Dialectical Openness" means**:
 - ✅ **Philosophical Materials Completely Open**: Lectures, handouts, academic resources and other materials expanding human wisdom boundaries are open to all users
 - 🔒 **Technical Parts Reserved**: Technical implementation and commercial application parts preserve commercial value
 - 🌟 **Idealistic Goal**: Through technical commercialization and wisdom openness, ultimately serving the ideal of bringing traditional wisdom to people
+
+**"Hybrid Licensing" means**:
+- ✅ **Content Fully Open**: Lectures, handouts, academic resources and other core content are open to all users
+- 🔒 **Partial Benefits**: Sponsors receive additional benefits like private repository access
+- 💼 **Commercial Use**: Requires separate licensing
 
 ### Dual Positioning
 1. **Wisdom Sharing Community**: Philosophical thinking platform exploring the relationship between divination and science, open space for expanding human wisdom boundaries

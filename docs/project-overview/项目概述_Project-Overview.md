@@ -12,8 +12,9 @@ This repository openly compiles my systematic thinking and practical application
 通过探讨玄学与科学的关系，我们逐步深入到**东方术数(命理、占卜、风水)**的哲学框架，并探讨其在现代决策支持中的应用。
 Through exploring the relationship between divination and science, we gradually delve into the philosophical framework of **Eastern divination systems (numerology, fortune-telling, feng shui)** and discuss their application in modern decision support.
 
-## 🚨 重要说明：智慧共享与技术保留 / Important Note: Wisdom Sharing & Technical Preservation
+## 🚨 重要说明：辩证开放理念与混合授权机制 / Important Note: Dialectical Open Philosophy & Hybrid Licensing Mechanism
 
+#### 🌟 辩证开放理念 / Dialectical Open Philosophy
 **本仓库采用辩证的开放模式**：
 - **技术部分**：保留商业价值，因为技术本身具有商业属性
 - **哲学思辨**：公开共享，因为这是人类智慧的边界拓展
@@ -25,6 +26,17 @@ Through exploring the relationship between divination and science, we gradually 
 - **Philosophical**: Openly shared as this expands the boundaries of human wisdom
 - **Ultimate Goal**: Bringing traditional wisdom closer to people through technological means
 - **Idealism**: Both commercial technology gains and open wisdom sharing ultimately serve the same ideal
+
+#### ⚖️ 混合授权机制 / Hybrid Licensing Mechanism
+**具体执行采用混合授权模式**：
+- **代码部分**：按 MIT 许可证完全开源
+- **内容部分**：按 CC BY-NC-SA 4.0 许可证（非商业使用，允许改编）
+- **商业使用**：需单独授权
+
+**Implementation adopts a hybrid licensing model**:
+- **Code**: MIT License (fully open source)
+- **Content**: CC BY-NC-SA 4.0 License (non-commercial use, adaptations allowed)
+- **Commercial use**: Requires separate licensing
 
 ### 💼 商业使用许可通道 / Commercial Use Licensing Channel
 **哲学思辨材料完全开放**，但如需商业使用本仓库的技术实现部分，请联系我们获取**商业使用许可**：
@@ -60,6 +72,7 @@ Through exploring the relationship between divination and science, we gradually 
 4. **可测与不可测**：在可量化维度采用实证方法，在不可量化维度采用启发式建议 / **Measurable vs. Unmeasurable**: Using empirical methods for quantifiable dimensions, heuristic suggestions for unquantifiable dimensions
 5. **伦理边界**：不替代专业服务，不做结果承诺，尊重隐私和学术规范 / **Ethical Boundaries**: Not replacing professional services, making no outcome promises, respecting privacy and academic standards
 6. **辩证开放平衡**：在保持哲学思辨开放性的同时，为技术应用保留商业价值，最终服务理想 / **Dialectical Openness Balance**: Maintaining philosophical openness while preserving commercial value for technical applications, ultimately serving ideals
+7. **混合授权平衡**：在保持学术开放性的同时，为商业应用提供变现路径 / **Hybrid Licensing Balance**: Maintaining academic openness while providing monetization paths for commercial applications
 
 ## 📂 目录结构 / Directory Structure
 

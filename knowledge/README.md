@@ -140,5 +140,5 @@ knowledge/
 
 ---
 
-**注意**: 本知识中心的内容遵循项目的辩证开放模式，详情请参考[许可说明](../docs/license-citation/许可与引用_License-Citation.md)。
-**Note**: The content in this knowledge center follows the project's dialectical open model. For details, please refer to the [License Information](../docs/license-citation/许可与引用_License-Citation.md).
+**注意**: 本知识中心的内容遵循项目的辩证开放理念与混合授权机制，详情请参考[许可说明](../docs/license-citation/许可与引用_License-Citation.md)。
+**Note**: The content in this knowledge center follows the project's dialectical open philosophy and hybrid licensing mechanism. For details, please refer to the [License Information](../docs/license-citation/许可与引用_License-Citation.md).

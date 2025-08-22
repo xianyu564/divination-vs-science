@@ -16,7 +16,9 @@
 
 - **引用文献 (Referenced Materials)**: 已有文献按原文献版权进行转载引用，遵循原始许可条款 / Existing literature follows original copyright terms for reprint and citation
 
-### 🚨 重要说明：智慧共享与技术保留 / Important Note: Wisdom Sharing & Technical Preservation
+### 🚨 重要说明：辩证开放理念与混合授权机制 / Important Note: Dialectical Open Philosophy & Hybrid Licensing Mechanism
+
+#### 🌟 辩证开放理念 / Dialectical Open Philosophy
 **本仓库采用辩证的开放模式**：
 - **技术部分**：保留商业价值，因为技术本身具有商业属性
 - **哲学思辨**：公开共享，因为这是人类智慧的边界拓展
@@ -28,6 +30,17 @@
 - **Philosophical**: Openly shared as this expands the boundaries of human wisdom
 - **Ultimate Goal**: Bringing traditional wisdom closer to people through technological means
 - **Idealism**: Both commercial technology gains and open wisdom sharing ultimately serve the same ideal
+
+#### ⚖️ 混合授权机制 / Hybrid Licensing Mechanism
+**具体执行采用混合授权模式**：
+- **代码部分**：按 MIT 许可证完全开源
+- **内容部分**：按 CC BY-NC-SA 4.0 许可证（非商业使用，允许改编）
+- **商业使用**：需单独授权
+
+**Implementation adopts a hybrid licensing model**:
+- **Code**: MIT License (fully open source)
+- **Content**: CC BY-NC-SA 4.0 License (non-commercial use, adaptations allowed)
+- **Commercial use**: Requires separate licensing
 
 ### 💼 商业使用许可通道 / Commercial Use Licensing Channel
 **哲学思辨材料完全开放**，但如需商业使用本仓库的技术实现部分，请联系我们获取**商业使用许可**：

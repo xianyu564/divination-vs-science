@@ -6,12 +6,20 @@ Welcome to the "Is Fortune-Telling Science?" Project Documentation Center!
 
 ## 🌍 语言版本 / Language Versions
 
-### 🚨 重要说明：智慧共享与技术保留 / Important Note: Wisdom Sharing & Technical Preservation
+### 🚨 重要说明：辩证开放理念与混合授权机制 / Important Note: Dialectical Open Philosophy & Hybrid Licensing Mechanism
+
+#### 🌟 辩证开放理念 / Dialectical Open Philosophy
 **本仓库采用辩证的开放模式** / **This repository adopts a dialectical open model**：
 - **技术部分**：保留商业价值，因为技术本身具有商业属性 / **Technical**: Commercial value preserved as technology has inherent commercial attributes
 - **哲学思辨**：公开共享，因为这是人类智慧的边界拓展 / **Philosophical**: Openly shared as this expands the boundaries of human wisdom
 - **最终目标**：让传统智慧通过技术手段进一步到达人们身边 / **Ultimate Goal**: Bringing traditional wisdom closer to people through technological means
 - **理想主义**：通过技术的商业获利和通过智慧的公开共享，最终都服务于同一个理想 / **Idealism**: Both commercial technology gains and open wisdom sharing ultimately serve the same ideal
+
+#### ⚖️ 混合授权机制 / Hybrid Licensing Mechanism
+**具体执行采用混合授权模式** / **Implementation adopts a hybrid licensing model**：
+- **代码部分**：按 MIT 许可证完全开源 / **Code**: Completely open source under MIT license
+- **内容部分**：按 CC BY-NC-SA 4.0 许可证（非商业使用，允许改编） / **Content**: Under CC BY-NC-SA 4.0 license (non-commercial use, adaptations allowed)
+- **商业使用**：需单独授权 / **Commercial Use**: Requires separate licensing
 
 ## 📚 知识内容中心 / Knowledge Content Center
 
