@@ -138,8 +138,8 @@ For commercial use of this repository content, please contact us for **commercia
 
 ### 🌟 Donor Benefits
 - Recognition in new releases
-- Inclusion in project sponsors list
-- Different benefits based on donation amount
+- Inclusion in project sponsors list (only support frequency recorded)
+- Optional traditional reciprocal gifts (bookmarks, postcards, etc.)
 - **🔐 Core Benefit: Access to private repository `@https://github.com/xianyu564/prediction_Surplus`**
 
 ### 💰 Sponsorship Channels
@@ -162,7 +162,7 @@ For commercial use of this repository content, please contact us for **commercia
   <img src=".github/assets/Start-up Company Code.PNG" alt="Start-up Company Code" width="150" />
 </div>
 
-**Note**: After sponsoring via WeChat/PayNow/Company QR code, please email z_zz@u.nus.edu to get private repository access.
+**Note**: After sponsoring via WeChat/PayNow/Company QR code, please email z_zz@u.nus.edu to get private repository access. If you wish to receive traditional gifts, please include your mailing address in the email.
 
 ## 🔗 Important Links
 

@@ -97,6 +97,7 @@ We will gradually open some repository privileges and invite beta testing. Howev
 1. 完成转账后，发送邮件至 **z_zz@u.nus.edu**（标题：`Sponsor Access`），附：  
    - 你的 **GitHub 用户名**  
    - 付款**截图**（遮盖隐私信息即可）  
+   - （可选）收货地址信息，如希望接受传统回礼  
 2. 我将在收到邮件后**尽快**手动为你开通对应的私密仓库访问（与 GitHub Sponsors 自动开通不同，直接赞助需人工处理）。  
 > 备注：GitHub 平台只对**月度分层**提供"自动授予/收回"权限；一次性打赏/站外渠道需要人工校对。
 
@@ -104,6 +105,7 @@ We will gradually open some repository privileges and invite beta testing. Howev
 1. After completing the transfer, send an email to **z_zz@u.nus.edu** (subject: `Sponsor Access`), including:  
    - Your **GitHub username**  
    - Payment **screenshot** (cover private information)  
+   - (Optional) Mailing address if you wish to receive traditional gifts  
 2. I will manually activate the corresponding private repository access **as soon as possible** after receiving the email (different from GitHub Sponsors automatic activation, direct sponsorship requires manual processing).  
 > Note: GitHub platform only provides "automatic grant/revoke" permissions for **monthly tiers**; one-time tips/off-platform channels require manual verification.
 
@@ -140,9 +142,19 @@ We will gradually open some repository privileges and invite beta testing. Howev
 
 ### B. 署名致谢 / Recognition
 - 可选择 **匿名 / 化名 / 署名（姓名 + @GitHub）** 三种方式；默认**匿名**，需要署名请在赞助备注或邮件中明确写明。  
-- 新版本发布（Release Notes）与 `docs/sponsors-list.md` 滚动致谢；金额不默认公开，仅按**分层**致谢，尊重隐私。
+- 新版本发布（Release Notes）与 `docs/sponsors-list.md` 滚动致谢；**仅记录支持次数**，不公开具体金额，营造温馨和谐的知识社区氛围。
 
-### C. 分层建议 / Suggested Tiers（可在 GitHub Sponsors 配置）
+### C. 传统回礼 / Traditional Reciprocal Gifts
+- **温馨回礼**：开发者会不定期邀请部分赞助者接受带有传统意味的小礼品，如书签、明信片、手写感谢信等，体现知识社区的礼仪文化
+- **私信联系**：如希望接受回礼，可私信开发者（z_zz@u.nus.edu）留下收货地址信息，我们将在合适的时机寄送
+- **轻物质理念**：回礼重在心意而非价值，体现知识社区"轻物质、懂礼节"的温馨和谐共建精神
+
+**Traditional Reciprocal Gifts**
+- **Warm Gifts**: The developer will occasionally invite some sponsors to receive traditional small gifts such as bookmarks, postcards, handwritten thank-you notes, etc., reflecting the etiquette culture of the knowledge community
+- **Private Contact**: If you wish to receive gifts, you can privately contact the developer (z_zz@u.nus.edu) with your mailing address, and we will send them at appropriate times
+- **Light Material Philosophy**: Gifts focus on sentiment rather than value, embodying the "light material, courteous" warm and harmonious community-building spirit
+
+### D. 分层建议 / Suggested Tiers（可在 GitHub Sponsors 配置）
 - **Supporter**：读者层，致谢 + 访问专属仓库  
 - **Contributor**：参与讨论与路演投票  
 - **Partner**：小额"共建"层，优先试用与反馈通道  
@@ -215,5 +227,5 @@ Thank you to all supporters for your trust and support! Every contribution makes
 
 ---
 
-**注意**: 赞助是自愿行为，无论金额大小，我们都深表感谢。您的支持将帮助这个项目持续发展，并为更多人带来价值。
-**Note**: Sponsorship is voluntary, and we are deeply grateful regardless of the amount. Your support will help this project continue to develop and bring value to more people.
+**注意**: 赞助是自愿的支持行为，我们深深感谢每一份真诚的心意。您的支持将帮助这个知识社区持续发展，为更多人带来智慧的启发。
+**Note**: Sponsorship is a voluntary act of support, and we deeply appreciate every sincere gesture. Your support will help this knowledge community continue to develop and bring wisdom and inspiration to more people.
