@@ -152,22 +152,38 @@ site/
 # 项目特定忽略 / Project-specific ignores
 # ========================================
 
-# 可编辑的办公文档（保留PDF讲座文件） / Editable office documents (keep PDF lecture files)
-*.pptx
+# 讲座文件（赞助者专属内容） / Lecture files (sponsor-exclusive content)
+*.pdf
 *.ppt
+*.pptx
+*.mp3
+*.mp4
+*.avi
+*.mov
+*.wav
+*.m4a
+
+# 办公文档 / Office documents
 *.doc
 *.docx
 *.xls
 *.xlsx
 
-# 注意：以下文件类型是项目核心内容，需要版本控制
-# Note: The following file types are core project content and need version control
-# - *.pdf (讲座文件 / Lecture files)
-# - *.mp3, *.mp4, *.wav (讲座录音和视频 / Lecture recordings and videos)
+# Office临时文件 / Office temporary files
+~$*
+*.tmp
+~*.tmp
+*.temp
+~*.temp
+.~lock.*
 
-# 图片文件（保留在assets中的） / Image files (keep those in assets)
-# 注意：.github/assets/中的图片文件应该被版本控制
-# Note: Image files in .github/assets/ should be version controlled
+# PowerPoint临时文件 / PowerPoint temporary files
+~$*.ppt*
+~$*.pps*
+
+# 图片文件（用于markdown制作，需要版本控制） / Image files (for markdown creation, need version control)
+# 注意：所有图片文件都应该被版本控制，用于文档制作
+# Note: All image files should be version controlled for documentation creation
 
 # 压缩文件 / Compressed files
 *.7z
