@@ -21,20 +21,20 @@
 ### 💼 商业使用许可通道 / Commercial Use Licensing Channel
 如需商业使用本仓库内容，请联系我们获取**商业使用许可**：
 For commercial use of this repository content, please contact us for **commercial use licensing**:
-- 📧 邮箱：z_zz@u.nus.edu
-- 💰 费用：根据使用范围和商业价值协商定价
-- 📋 授权范围：包括商业改编、商业分发、商业应用等
+- 📧 邮箱：z_zz@u.nus.edu / Email: z_zz@u.nus.edu
+- 💰 费用：根据使用范围和商业价值协商定价 / Fee: Negotiated pricing based on usage scope and commercial value
+- 📋 授权范围：包括商业改编、商业分发、商业应用等 / License Scope: Including commercial adaptation, distribution, application, etc.
 
 ---
 
 ### 🎯 资金用途 / Use of Funds
 
-- 📚 持续更新讲座与延伸阅读 · Updating slides & readings  
-- 🛠️ 开源工具与模板 · Open tooling & templates  
-- 🎪 线下/线上分享与材料制作 · Events & materials  
-- 🔬 社会科学/人类学相关研究 · Research  
-- 🚀 初创项目验证与试点 · Startup experiments  
-- 🌟 创作者可持续投入（时间/设备）· Creator sustainability
+- 📚 持续更新讲座与延伸阅读 / Continuously updating lectures and extended readings
+- 🛠️ 开源工具与模板开发 / Developing open source tools and templates
+- 🎪 线下/线上分享与材料制作 / Offline/online sharing and material production
+- 🔬 社会科学/人类学相关研究 / Social science/anthropology research
+- 🚀 初创项目验证与试点 / Startup project validation and pilot testing
+- 🌟 创作者可持续投入（时间/设备）/ Creator sustainable input (time/equipment)
 
 ---
 
@@ -52,10 +52,12 @@ We will gradually open some repository privileges and invite beta testing. Howev
 - 入口：<https://github.com/sponsors/xianyu564>  
 - Stripe 审核通过后将启用本地化出入金与月度结算；具体出账节奏由 GitHub/Stripe 侧规则执行。
 
-**自动权益（仅限月度分层）**  
+**自动权益（仅限月度分层） / Automatic Benefits (Monthly Tiers Only)**  
 - 赞助成功后，系统**自动授予**与你的分层对应的**赞助者专属私密仓库**访问权；到期或取消将自动收回，无需人工维护。
+- After successful sponsorship, the system **automatically grants** access to the **sponsor-exclusive private repository** corresponding to your tier; access will be automatically revoked upon expiration or cancellation, requiring no manual maintenance.
 
 > 说明：GitHub 的"赞助者专属仓库"可以直接挂到某一**月度分层**上，由平台自动同步成员，避免手动加协作者的人力开销。
+> Note: GitHub's "sponsor-exclusive repositories" can be directly attached to a specific **monthly tier**, with platform automatic member synchronization, avoiding manual collaborator management overhead.
 
 ---
 
@@ -68,18 +70,28 @@ We will gradually open some repository privileges and invite beta testing. Howev
   <img src="../../.github/assets/SG PayNow Sponsor Code.jpg" alt="PayNow赞助码 PayNow Sponsor Code" width="220" />
 </div>
 
-**开通流程（手动）**  
+**开通流程（手动） / Activation Process (Manual)**  
 1. 完成转账后，发送邮件至 **z_zz@u.nus.edu**（标题：`Sponsor Access`），附：  
    - 你的 **GitHub 用户名**  
    - 付款**截图**（遮盖隐私信息即可）  
 2. 我将在收到邮件后**尽快**手动为你开通对应的私密仓库访问（与 GitHub Sponsors 自动开通不同，直接赞助需人工处理）。  
 > 备注：GitHub 平台只对**月度分层**提供"自动授予/收回"权限；一次性打赏/站外渠道需要人工校对。
 
+**Activation Process (Manual)**  
+1. After completing the transfer, send an email to **z_zz@u.nus.edu** (subject: `Sponsor Access`), including:  
+   - Your **GitHub username**  
+   - Payment **screenshot** (cover private information)  
+2. I will manually activate the corresponding private repository access **as soon as possible** after receiving the email (different from GitHub Sponsors automatic activation, direct sponsorship requires manual processing).  
+> Note: GitHub platform only provides "automatic grant/revoke" permissions for **monthly tiers**; one-time tips/off-platform channels require manual verification.
+
 ---
 
 ### 3) 支持创业小公司 / Sponsor the Start-up（创业公司聚合码）
 - **公司收款聚合码**：用于团队与活动开支（请在备注中写 `Company Support`）。  
 - 企业转账后同样可按"开通流程（手动）"获取访问权限与开具收据。
+
+- **Company Collection QR Code**: For team and activity expenses (please write `Company Support` in the remarks).  
+- Corporate transfers can also follow the "Activation Process (Manual)" to obtain access permissions and invoices.
 
 <div align="center">
   <img src="../../.github/assets/Start-up Company Code.PNG" alt="创业公司聚合码 Start-up Company Code" width="220" />
@@ -90,16 +102,18 @@ We will gradually open some repository privileges and invite beta testing. Howev
 ## 🏆 权益说明 / Benefits
 
 > 权益是"访问与参与"的便利，不改变本仓库内容的**版权许可**。
+> Benefits are conveniences for "access and participation" and do not change the **copyright license** of this repository's content.
 > 
 > **重要提醒：本项目采用混合授权模式**
-> - **代码部分**：按 MIT 许可证开源
-> - **内容部分**：按 CC BY-NC-SA 4.0 许可证（非商业使用，允许改编，需相同许可分享）
-> - **商业使用**：需单独授权，请联系我们获取商业使用许可
+> **Important Reminder: This project adopts a hybrid licensing model**
+> - **代码部分**：按 MIT 许可证开源 / **Code**: Open source under MIT license
+> - **内容部分**：按 CC BY-NC-SA 4.0 许可证（非商业使用，允许改编，需相同许可分享） / **Content**: Under CC BY-NC-SA 4.0 license (non-commercial use, adaptations allowed, must share under same license)
+> - **商业使用**：需单独授权，请联系我们获取商业使用许可 / **Commercial Use**: Requires separate licensing, please contact us for commercial use license
 
-### A. 赞助者专属私密仓库（核心权益）
-- 研究备忘、讲义草稿、方法论实验记录  
-- 赞助者讨论区、路线图草案、早期材料  
-- 平台通过**赞助分层**自动/半自动授予访问（详上）。
+### A. 赞助者专属私密仓库（核心权益） / Sponsor-Exclusive Private Repository (Core Benefit)
+- 研究备忘、讲义草稿、方法论实验记录 / Research memos, lecture drafts, methodology experiment records
+- 赞助者讨论区、路线图草案、早期材料 / Sponsor discussion area, roadmap drafts, early materials
+- 平台通过**赞助分层**自动/半自动授予访问（详上）。/ Platform automatically/semi-automatically grants access through **sponsorship tiers** (see above).
 
 ### B. 署名致谢 / Recognition
 - 可选择 **匿名 / 化名 / 署名（姓名 + @GitHub）** 三种方式；默认**匿名**，需要署名请在赞助备注或邮件中明确写明。  
@@ -110,6 +124,7 @@ We will gradually open some repository privileges and invite beta testing. Howev
 - **Contributor**：参与讨论与路演投票  
 - **Partner**：小额"共建"层，优先试用与反馈通道  
 > 设置分层时，可在 GitHub Sponsors 后台把对应私密仓库挂到该层，支付成功即自动邀请。
+> When setting up tiers, you can attach the corresponding private repository to that tier in the GitHub Sponsors backend, and invitations will be sent automatically upon successful payment.
 
 ---
 
@@ -123,25 +138,25 @@ We will gradually open some repository privileges and invite beta testing. Howev
 
 ## 📜 许可与再利用 / License & Reuse
 
-**本项目采用混合授权模式**：
+**本项目采用混合授权模式** / **This project adopts a hybrid licensing model**：
 
-- **代码与脚本**：见 `LICENSE-CODE`（MIT 许可）
-  - 完全开源，允许商业使用
-  - 需保留版权声明
+- **代码与脚本**：见 `LICENSE-CODE`（MIT 许可） / **Code & Scripts**: See `LICENSE-CODE` (MIT License)
+  - 完全开源，允许商业使用 / Fully open source, commercial use allowed
+  - 需保留版权声明 / Must retain copyright notice
 
-- **内容（slides/notes/readings）**：见根目录 `LICENSE-CONTENT`（CC BY-NC-SA 4.0 许可）
-  - 允许非商业使用和改编
-  - 改编作品需按相同许可分享
-  - 禁止商业使用  
+- **内容（slides/notes/readings）**：见根目录 `LICENSE-CONTENT`（CC BY-NC-SA 4.0 许可） / **Content (slides/notes/readings)**: See root directory `LICENSE-CONTENT` (CC BY-NC-SA 4.0 License)
+  - 允许非商业使用和改编 / Non-commercial use and adaptation allowed
+  - 改编作品需按相同许可分享 / Adapted works must be shared under the same license
+  - 禁止商业使用 / Commercial use prohibited
 
-- **商业使用**：如需商业使用许可，请邮件沟通"**混合授权**"路径（商用单独签约，不影响 CC/开源分享）
+- **商业使用**：如需商业使用许可，请邮件沟通"**混合授权**"路径（商用单独签约，不影响 CC/开源分享） / **Commercial Use**: For commercial use licensing, please email to discuss the "**hybrid licensing**" path (commercial use requires separate agreement, does not affect CC/open source sharing)
 
 ---
 
 ## 🧾 透明度 / Transparency
 
-- 每季度在 `PROJECT_STATUS.md` 披露使用概览与里程碑对账。  
-- 若使用 GitHub Sponsors，将在 Sponsors Dashboard 同步展示赞助概况与分层说明。
+- 每季度在 `PROJECT_STATUS.md` 披露使用概览与里程碑对账。 / Quarterly disclosure of usage overview and milestone reconciliation in `PROJECT_STATUS.md`.
+- 若使用 GitHub Sponsors，将在 Sponsors Dashboard 同步展示赞助概况与分层说明。 / If using GitHub Sponsors, sponsorship overview and tier descriptions will be synchronized in the Sponsors Dashboard.
 
 ---
 
@@ -150,8 +165,8 @@ We will gradually open some repository privileges and invite beta testing. Howev
 如未登记记名，请在支持后在以下渠道留言：
 If you haven't registered your name, please leave a message after support through the following channels:
 
-- **GitHub Issues**: [项目Issues页面](https://github.com/xianyu564/divination-vs-science/issues)
-- **邮箱**: z_zz@u.nus.edu（标题：`Sponsor Recognition`）
+- **GitHub Issues**: [项目Issues页面](https://github.com/xianyu564/divination-vs-science/issues) / [Project Issues Page](https://github.com/xianyu564/divination-vs-science/issues)
+- **邮箱**: z_zz@u.nus.edu（标题：`Sponsor Recognition`） / **Email**: z_zz@u.nus.edu (subject: `Sponsor Recognition`)
 
 ---
 

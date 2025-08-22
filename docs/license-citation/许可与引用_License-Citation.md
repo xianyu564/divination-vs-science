@@ -30,9 +30,9 @@
 ### 💼 商业使用许可通道 / Commercial Use Licensing Channel
 如需商业使用本仓库内容，请联系我们获取**商业使用许可**：
 For commercial use of this repository content, please contact us for **commercial use licensing**:
-- 📧 邮箱：z_zz@u.nus.edu
-- 💰 费用：根据使用范围和商业价值协商定价
-- 📋 授权范围：包括商业改编、商业分发、商业应用等
+- 📧 邮箱：z_zz@u.nus.edu / Email: z_zz@u.nus.edu
+- 💰 费用：根据使用范围和商业价值协商定价 / Fee: Negotiated pricing based on usage scope and commercial value
+- 📋 授权范围：包括商业改编、商业分发、商业应用等 / License Scope: Including commercial adaptation, distribution, application, etc.
 
 ## 📚 学术引用 / Academic Citation
 仓库根目录提供 `CITATION.cff`，便于学术工具（如 GitHub、Zotero）自动识别引用元数据。

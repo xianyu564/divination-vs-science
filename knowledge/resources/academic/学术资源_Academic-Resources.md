@@ -1,7 +1,7 @@
 # 学术资源 / Academic Resources
 
 > 本文件收集与玄学、科学、哲学、人类学等相关的学术资源
-> This document collects academic resources related to divination, science, philosophy, anthropology, etc.
+> This file collects academic resources related to divination, science, philosophy, anthropology, etc.
 
 ## 📚 核心论文 / Core Papers
 
@@ -67,9 +67,10 @@
 ## 🤝 学术合作 / Academic Collaboration
 
 如果您有相关学术资源推荐或希望进行学术合作：
-- 在GitHub Issues中分享
-- 发送邮件至 z_zz@u.nus.edu
-- 参与学术讨论
+If you have recommendations for related academic resources or hope to collaborate academically:
+- 在GitHub Issues中分享 / Share in GitHub Issues
+- 发送邮件至 z_zz@u.nus.edu / Send email to z_zz@u.nus.edu
+- 参与学术讨论 / Participate in academic discussions
 
 ---
 
