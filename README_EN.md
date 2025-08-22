@@ -10,8 +10,8 @@
 ## 🌍 Language Versions
 **[English](README_EN.md)** | **[中文](README.md)** | **[More Languages](LANGUAGES.md)**
 
-> Lecture Slides / Speaker Notes / Extended Readings  
-> Philosophical Discussion Starting from "Is Fortune-Telling Science?"
+> Knowledge Community · Philosophical Framework · Startup Cold Start  
+> 知识社区 · 哲学框架 · 创业冷启动
 
 ## 🎯 Project Positioning
 
@@ -22,9 +22,13 @@
 - **Commercial use**: Requires separate licensing
 
 **"Partially Open Source" means**:
-- ✅ **Content Fully Open**: slides, speaker notes, readings and other core content are open to all users
+- ✅ **Content Fully Open**: lectures, speaker notes, academic resources and other core content are open to all users
 - 🔒 **Partial Benefits**: Sponsors receive additional benefits like private repository access
 - 💼 **Commercial Use**: Requires separate licensing
+
+### Dual Positioning
+1. **Knowledge Community**: Philosophical thinking platform exploring the relationship between divination and science
+2. **Startup Cold Start**: Philosophical framework knowledge repository for the Elephenotype startup project
 
 ### Core Question
 We start with a fundamental question: **"Is Fortune-Telling Science?"**
@@ -35,15 +39,16 @@ Through exploring the relationship between divination and science, we gradually 
 
 ### 🎯 Core Content (Fully Open)
 <div align="center">
-  <img src="assets/Slides Front Page.png" alt="Is Fortune-Telling Science? Lecture Cover" width="400" />
+  <img src=".github/assets/Slides Front Page.png" alt="Is Fortune-Telling Science? Lecture Cover" width="400" />
 </div>
 
 **Core content accessible to all users**:
-- 📖 **[Lecture Slides](slides/)** - Complete PPT presentations
-- 📝 **[Speaker Notes](speaker-notes/)** - Detailed page-by-page explanations and scripts
-- 📚 **[Extended Readings](readings/)** - Academic references and methodologies
+- 📖 **[Lecture Materials](knowledge/lectures/)** - Complete PPT presentations and speaker notes
+- 🔍 **[FAQ](knowledge/faq/)** - Common questions about divination vs science boundaries
+- 📚 **[Academic Resources](knowledge/resources/)** - Papers, books, and links
+- 💼 **[Consultation Services](knowledge/consultation-service/)** - Professional consultation services
 
-> 💡 **Tip**: Start with slides to quickly understand core concepts, then dive into speaker notes for detailed explanations.
+> 💡 **Tip**: Start with lecture materials to quickly understand core concepts, then dive into FAQ and academic resources.
 
 ### Open Source Shared Components
 - **Philosophical Framework**: Thinking framework about the relationship between divination and science
@@ -63,9 +68,9 @@ For commercial use of this repository content, please contact us for **commercia
 ## 🚀 Quick Start
 
 ### 📚 New Users
-1. **Start Immediately**: View [Lecture Slides](slides/) to understand core concepts
-2. **Deep Dive**: Read [Speaker Notes](speaker-notes/) for detailed explanations
-3. **Expand Learning**: Browse [Extended Readings](readings/) for academic materials
+1. **Start Immediately**: View [Lecture Materials](knowledge/lectures/) to understand core concepts
+2. **Deep Dive**: Read [FAQ](knowledge/faq/) to answer questions
+3. **Expand Learning**: Browse [Academic Resources](knowledge/resources/) for academic materials
 4. Learn about [Project Overview](docs/project-overview/项目概述_Project-Overview.md) and [License Information](docs/license-citation/许可与引用_License-Citation.md)
 
 ### 🤝 Contributors
@@ -74,13 +79,13 @@ For commercial use of this repository content, please contact us for **commercia
 3. Participate in community discussion and development
 
 ### 💝 Sponsors
-1. **Experience Content First**: View slides and speaker notes to understand project value
+1. **Experience Content First**: View lecture materials and FAQ to understand project value
 2. **Support Development**: View [Sponsorship & Support](docs/sponsorship/赞助支持_Sponsorship-Support.md) for benefits
 3. Browse [Sponsors List](docs/sponsors-list.md) for records
 4. Learn about fund usage
 
 ### 💼 Business Clients
-1. View [Consultation Service](docs/consultation-service/咨询服务_Consultation-Service.md) for service details
+1. View [Consultation Service](knowledge/consultation-service/) for service details
 2. Understand commercial applications based on the philosophical framework
 3. Explore long-term partnership possibilities
 
@@ -88,19 +93,24 @@ For commercial use of this repository content, please contact us for **commercia
 
 ```
 .
-├── slides/                    # Lecture slides
-├── speaker-notes/             # Speaker notes
-├── readings/                  # Extended readings
-├── templates/                 # Template files
-├── assets/                    # Assets
-├── docs/                      # 📚 Detailed documentation
-│   ├── project-overview/      # Project overview
-│   ├── license-citation/      # License & citation
-│   ├── sponsorship/           # Sponsorship & support
-│   ├── contributing/          # Contributing guide
-│   ├── consultation-service/  # Consultation service
-│   └── sponsors-list.md       # Sponsors list
-└── .github/                   # GitHub configurations
+├── knowledge/                   # 🧠 Knowledge Content Center
+│   ├── lectures/               # Lecture materials (PPT, speaker notes, transcript, video links)
+│   ├── faq/                    # FAQ (divination vs science boundaries)
+│   ├── resources/              # Academic resources
+│   │   ├── academic/           # Papers, books, links
+│   │   └── readings/           # Extended readings
+│   └── consultation-service/   # Consultation services
+├── docs/                       # 📚 Technical documentation
+│   ├── project-overview/       # Project overview
+│   ├── license-citation/       # License & citation
+│   ├── sponsorship/            # Sponsorship & support
+│   ├── contributing/           # Contributing guide
+│   └── sponsors-list.md        # Sponsors list
+├── .github/                    # GitHub configurations
+│   ├── assets/                 # Image assets
+│   ├── templates/              # Template files
+│   └── workflows/              # Workflows
+└── Root files                  # Project foundation files
 ```
 
 ## 🌟 Core Features
@@ -140,14 +150,14 @@ For commercial use of this repository content, please contact us for **commercia
 #### 2️⃣ Personal Sponsorship
 **For individual supporters, supporting the author's research work**
 <div align="center">
-  <img src="assets/WeChat Sponsor Code.jpg" alt="WeChat Sponsor Code" width="150" />
-  <img src="assets/SG PayNow Sponsor Code.jpg" alt="PayNow Sponsor Code" width="150" />
+  <img src=".github/assets/WeChat Sponsor Code.jpg" alt="WeChat Sponsor Code" width="150" />
+  <img src=".github/assets/SG PayNow Sponsor Code.jpg" alt="PayNow Sponsor Code" width="150" />
 </div>
 
 #### 3️⃣ Corporate Sponsorship
 **For businesses/organizations, supporting startup project development**
 <div align="center">
-  <img src="assets/Start-up Company Code.PNG" alt="Start-up Company Code" width="150" />
+  <img src=".github/assets/Start-up Company Code.PNG" alt="Start-up Company Code" width="150" />
 </div>
 
 **Note**: After sponsoring via WeChat/PayNow/Company QR code, please email z_zz@u.nus.edu to get private repository access.
@@ -158,7 +168,7 @@ For commercial use of this repository content, please contact us for **commercia
 - 🤝 [Contributing Guide](docs/contributing/贡献指南_Contributing-Guide.md) - How to participate
 - 📄 [License Information](docs/license-citation/许可与引用_License-Citation.md) - Usage terms and citation
 - 💝 [Sponsorship & Support](docs/sponsorship/赞助支持_Sponsorship-Support.md) - Sponsorship details and benefits
-- 💼 [Consultation Service](docs/consultation-service/咨询服务_Consultation-Service.md) - Business service details
+- 💼 [Consultation Service](knowledge/consultation-service/) - Business service details
 - 📊 [Project Status](PROJECT_STATUS.md) - Current progress and plans
 
 ## 🧩 Disclaimers
@@ -174,7 +184,7 @@ For commercial use of this repository content, please contact us for **commercia
 - **GitHub**: [@xianyu564](https://github.com/xianyu564)
 - **Email**: z_zz@u.nus.edu
 - **Issue Feedback**: [GitHub Issues](https://github.com/xianyu564/divination-vs-science/issues)
-- **Business Consultation**: [Consultation Service](docs/consultation-service/咨询服务_Consultation-Service.md)
+- **Business Consultation**: [Consultation Service](knowledge/consultation-service/)
 
 ---
 

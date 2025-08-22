@@ -12,12 +12,23 @@ Welcome to the "Is Fortune-Telling Science?" Project Documentation Center!
 - **内容部分**：按 CC BY-NC-SA 4.0 许可证（非商业使用，允许改编）
 - **商业使用**：需单独授权
 
+## 📚 知识内容中心 / Knowledge Content Center
+
+> 💡 **注意**：本 `docs/` 文件夹包含**技术文档**，**知识内容**请访问 `knowledge/` 文件夹
+
+### 🧠 知识内容 / Knowledge Content
+- [讲座材料](../knowledge/lectures/) - 讲座PPT、讲者笔记、录音transcript、视频链接
+- [常见问题](../knowledge/faq/) - 玄学与科学边界的FAQ
+- [学术资源](../knowledge/resources/) - 论文、书籍、链接
+- [咨询服务](../knowledge/consultation-service/) - 专业咨询服务
+
+## 📋 技术文档 / Technical Documentation
+
 ### 中英文合并文档 / Bilingual Documents
 - [项目概述](project-overview/项目概述_Project-Overview.md) - 项目简介、指导思想、目录结构
 - [许可与引用](license-citation/许可与引用_License-Citation.md) - 许可证说明、学术引用、免责声明
 - [赞助支持](sponsorship/赞助支持_Sponsorship-Support.md) - 赞助性质、用途、捐赠者权益
 - [贡献指南](contributing/贡献指南_Contributing-Guide.md) - 如何贡献、流程、规范
-- [咨询服务](consultation-service/咨询服务_Consultation-Service.md) - 商业服务内容、收费标准、预约流程
 
 ## 📚 通用文档 / Common Documents
 
@@ -51,17 +62,17 @@ Welcome to the "Is Fortune-Telling Science?" Project Documentation Center!
 
 **个人赞助 / Personal Sponsorship**
 <div align="center">
-  <img src="../assets/WeChat Sponsor Code.jpg" alt="微信赞助码" width="120" />
-  <img src="../assets/SG PayNow Sponsor Code.jpg" alt="PayNow赞助码" width="120" />
+  <img src="../.github/assets/WeChat Sponsor Code.jpg" alt="微信赞助码" width="120" />
+  <img src="../.github/assets/SG PayNow Sponsor Code.jpg" alt="PayNow赞助码" width="120" />
 </div>
 
 **公司赞助 / Corporate Sponsorship**
 <div align="center">
-  <img src="../assets/Start-up Company Code.PNG" alt="创业公司聚合码" width="120" />
+  <img src="../.github/assets/Start-up Company Code.PNG" alt="创业公司聚合码" width="120" />
 </div>
 
 ### 商业客户 / Business Clients
-1. 查看[咨询服务](consultation-service/咨询服务_Consultation-Service.md)了解服务内容
+1. 查看[咨询服务](../knowledge/consultation-service/)了解服务内容
 2. 了解基于哲学框架的商业应用
 3. 探讨长期合作可能性
 
@@ -77,18 +88,8 @@ docs/
 │   └── 许可与引用_License-Citation.md
 ├── sponsorship/                 # 赞助支持 / Sponsorship & support
 │   └── 赞助支持_Sponsorship-Support.md
-├── contributing/                # 贡献指南 / Contributing guide
-│   └── 贡献指南_Contributing-Guide.md
-├── consultation-service/         # 咨询服务 / Consultation service
-│   ├── 咨询服务_Consultation-Service.md
-│   ├── 咨询前协议_中文.md
-│   ├── Term of service.md
-│   └── Private Consultation Price List.png
-└── consultation-service/         # 咨询服务 / Consultation service
-    ├── 咨询服务_Consultation-Service.md
-    ├── 咨询前协议_中文.md
-    ├── Term of service.md
-    └── Private Consultation Price List.png
+└── contributing/                # 贡献指南 / Contributing guide
+    └── 贡献指南_Contributing-Guide.md
 ```
 
 ## 🆘 需要帮助？/ Need Help?
@@ -108,4 +109,8 @@ If you encounter problems while finding documentation:
 
 ---
 
-**注意 / Note**: 建议优先阅读您熟悉的语言版本，然后参考其他语言版本进行对比。/ It's recommended to read the version in your familiar language first, then refer to other language versions for comparison.
+**注意 / Note**: 
+- 建议优先阅读您熟悉的语言版本，然后参考其他语言版本进行对比。
+- 本 `docs/` 文件夹专注于**技术文档**，**知识内容**请访问 `knowledge/` 文件夹。
+- It's recommended to read the version in your familiar language first, then refer to other language versions for comparison.
+- This `docs/` folder focuses on **technical documentation**, for **knowledge content** please visit the `knowledge/` folder.

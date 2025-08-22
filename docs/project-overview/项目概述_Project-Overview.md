@@ -33,6 +33,10 @@ For commercial use of this repository content, please contact us for **commercia
 
 ## 🎯 项目定位 / Project Positioning
 
+### 双重定位 / Dual Positioning
+1. **知识社区**：探讨玄学与科学关系的哲学思考平台
+2. **创业冷启动**：Elephenotype象对论创业项目的哲学框架知识仓库
+
 ### 开源共享部分 / Open Source Shared Components
 - **哲学框架**：关于玄学与科学关系的思考框架 / **Philosophical Framework**: Thinking framework about the relationship between divination and science
 - **方法论**：术数在现代决策中的应用方法 / **Methodology**: Methods for applying divination in modern decision-making
@@ -58,20 +62,23 @@ For commercial use of this repository content, please contact us for **commercia
 
 ```
 .
-├── slides/                    # 讲座幻灯片 / Lecture slides (PDF/PPTX)
-│   └── Is Fortune-Telling Science 玄学是科学吗？20250822.*
-├── speaker-notes/             # 讲者笔记 / Speaker notes (page-by-page prompts/scripts)
-├── readings/                  # 延伸阅读 / Extended readings (academic references, methodologies)
-├── templates/                 # 模板文件 / Template files (.pptx/.md)
-├── assets/                    # 资源文件 / Assets (diagrams, illustrations, vectors)
-├── docs/                      # 📚 详细文档 / Detailed documentation
-│   ├── project-overview/      # 项目概述 / Project overview
-│   ├── license-citation/      # 许可与引用 / License & citation
-│   ├── sponsorship/           # 赞助支持 / Sponsorship & support
-│   ├── contributing/          # 贡献指南 / Contributing guide
-│   ├── consultation-service/  # 咨询服务 / Consultation service
-│   └── sponsors-list.md       # 捐赠者名单 / Sponsors list
-├── .github/                   # GitHub 配置 / GitHub configurations
+├── knowledge/                   # 🧠 知识内容中心
+│   ├── lectures/               # 讲座材料（PPT、讲者笔记、录音transcript、视频链接）
+│   ├── faq/                    # 常见问题（玄学与科学边界）
+│   ├── resources/              # 学术资源
+│   │   ├── academic/           # 论文、书籍、链接
+│   │   └── readings/           # 延伸阅读
+│   └── consultation-service/   # 咨询服务
+├── docs/                       # 📚 技术文档
+│   ├── project-overview/       # 项目概述
+│   ├── license-citation/       # 许可与引用
+│   ├── sponsorship/            # 赞助支持
+│   ├── contributing/           # 贡献指南
+│   └── sponsors-list.md        # 赞助者名单
+├── .github/                    # GitHub配置
+│   ├── assets/                 # 图片资源
+│   ├── templates/              # 模板文件
+│   └── workflows/              # 工作流
 ├── LICENSE-CONTENT           # 内容许可证 / Content license (CC BY-NC-SA 4.0)
 ├── LICENSE-CODE              # 代码许可证 / Code license (MIT)
 ├── CITATION.cff              # 引用元数据 / Citation metadata (for academic citation)
