@@ -1,68 +1,111 @@
-# 安全策略 (Security Policy)
+# 安全策略 / Security Policy
 
-## 支持的版本
+## 支持的版本 / Supported Versions
 
-我们致力于为以下版本提供安全更新：
+| 版本 / Version | 支持状态 / Supported          |
+| ------- | -------------------------- |
+| 1.0.x   | ✅ 支持 / Supported        |
+| < 1.0   | ❌ 不支持 / Not Supported |
 
-| 版本 | 支持状态 |
-| ---- | -------- |
-| 1.0.x | ✅ 支持 |
-| < 1.0  | ❌ 不支持 |
+## 报告漏洞 / Reporting a Vulnerability
 
-## 报告漏洞
+我们非常重视安全问题。如果您发现了安全漏洞，请不要公开报告，而是通过以下方式私下报告：
 
-我们非常重视安全问题。如果您发现了安全漏洞，请：
+We take security issues very seriously. If you discover a security vulnerability, please do not report it publicly. Instead, please report it privately through the following methods:
 
-### 🚨 紧急安全漏洞
-对于严重的安全问题，请：
-1. **不要**在公开的Issues中报告
-2. 发送邮件到 [z_zz@u.nus.edu]
-3. 在邮件主题中使用 `[SECURITY]` 前缀
-4. 提供详细的漏洞描述和复现步骤
+### 🚨 紧急安全漏洞 / Critical Security Vulnerabilities
+- **邮箱**: z_zz@u.nus.edu
+- **主题**: [SECURITY] 安全漏洞报告 / Security Vulnerability Report
+- **响应时间**: 24小时内 / Response Time: Within 24 hours
 
-### 📧 非紧急安全问题
-对于非紧急的安全问题，您可以：
-1. 在Issues中使用 `security` 标签
-2. 或发送邮件到 [z_zz@u.nus.edu]
+### 📧 非紧急安全问题 / Non-Critical Security Issues
+- **GitHub Issues**: 使用 `security` 标签 / Use `security` label
+- **邮箱**: z_zz@u.nus.edu
+- **响应时间**: 72小时内 / Response Time: Within 72 hours
 
-## 安全响应流程
+## 漏洞报告内容 / Vulnerability Report Content
 
-1. **确认**: 我们会在24小时内确认收到您的报告
-2. **评估**: 我们的安全团队将评估漏洞的严重性
-3. **修复**: 对于确认的漏洞，我们将：
-   - 在30天内发布修复版本
-   - 在安全公告中说明修复内容
-4. **披露**: 修复完成后，我们将发布安全公告
+请包含以下信息：/ Please include the following information:
 
-## 安全最佳实践
+### 基本信息 / Basic Information
+- **漏洞类型**: 描述漏洞的性质 / **Vulnerability Type**: Describe the nature of the vulnerability
+- **影响范围**: 说明漏洞可能造成的影响 / **Impact Scope**: Explain the potential impact of the vulnerability
+- **复现步骤**: 详细描述如何复现漏洞 / **Reproduction Steps**: Detailed description of how to reproduce the vulnerability
 
-### 对于用户
-- 定期更新到最新版本
-- 不要运行来源不明的代码
-- 报告可疑的安全问题
+### 技术细节 / Technical Details
+- **受影响的组件**: 列出受影响的代码或功能 / **Affected Components**: List affected code or functionality
+- **环境信息**: 操作系统、浏览器版本等 / **Environment Info**: OS, browser version, etc.
+- **错误日志**: 相关的错误信息或日志 / **Error Logs**: Relevant error messages or logs
 
-### 对于贡献者
-- 遵循安全编码实践
-- 不要提交包含敏感信息的代码
-- 使用安全的依赖包
+### 建议修复 / Suggested Fixes
+- **修复建议**: 如果您有修复建议，请提供 / **Fix Suggestions**: If you have fix suggestions, please provide
+- **临时缓解**: 临时解决方案（如有） / **Temporary Mitigation**: Temporary solutions (if any)
 
-## 安全更新
+## 安全响应流程 / Security Response Process
 
-安全更新将通过以下方式发布：
-- GitHub Releases
-- 安全公告
-- 邮件通知（如果订阅）
+### 1. 接收报告 / Receive Report
+- 确认收到漏洞报告 / Acknowledge receipt of vulnerability report
+- 评估漏洞的严重性 / Assess severity of vulnerability
+- 确定响应优先级 / Determine response priority
 
-## 联系信息
+### 2. 调查分析 / Investigation & Analysis
+- 技术团队分析漏洞 / Technical team analyzes vulnerability
+- 评估潜在影响 / Assess potential impact
+- 制定修复计划 / Develop fix plan
 
-- **安全邮箱**: [安全邮箱地址]
-- **PGP密钥**: [如果使用PGP加密]
-- **紧急联系**: [紧急联系方式]
+### 3. 修复发布 / Fix & Release
+- 开发安全修复 / Develop security fix
+- 测试修复效果 / Test fix effectiveness
+- 发布安全更新 / Release security update
 
-## 致谢
+### 4. 公开披露 / Public Disclosure
+- 发布安全公告 / Publish security advisory
+- 致谢报告者 / Acknowledge reporter
+- 更新安全策略 / Update security policy
 
-我们感谢所有负责任地报告安全问题的研究人员和用户。您的贡献帮助我们保持项目的安全性。
+## 安全最佳实践 / Security Best Practices
+
+### 对于贡献者 / For Contributors
+- 遵循安全编码规范 / Follow secure coding practices
+- 定期更新依赖包 / Regularly update dependencies
+- 使用安全的开发工具 / Use secure development tools
+- 进行代码安全审查 / Conduct code security reviews
+
+### 对于用户 / For Users
+- 及时更新到最新版本 / Update to latest version promptly
+- 报告可疑的安全问题 / Report suspicious security issues
+- 遵循安全使用指南 / Follow security usage guidelines
+- 保护个人隐私信息 / Protect personal privacy information
+
+## 安全更新策略 / Security Update Strategy
+
+### 发布频率 / Release Frequency
+- **紧急修复**: 发现后立即发布 / **Emergency Fixes**: Released immediately upon discovery
+- **重要修复**: 1-2周内发布 / **Important Fixes**: Released within 1-2 weeks
+- **常规修复**: 月度发布 / **Regular Fixes**: Monthly releases
+
+### 更新通知 / Update Notifications
+- GitHub Releases 页面 / GitHub Releases page
+- 项目状态更新 / Project status updates
+- 邮件通知（重要安全更新）/ Email notifications (for critical security updates)
+
+## 安全联系方式 / Security Contact Information
+
+### 主要联系人 / Primary Contact
+- **邮箱**: z_zz@u.nus.edu
+- **响应时间**: 工作日24小时内 / Response Time: Within 24 hours on weekdays
+
+### 备用联系人 / Backup Contact
+- **GitHub Issues**: [安全相关问题](https://github.com/xianyu564/divination-vs-science/issues)
+- **标签**: 使用 `security` 标签 / Use `security` label
+
+## 致谢 / Acknowledgments
+
+我们感谢所有负责任地报告安全漏洞的研究者和贡献者。您的贡献帮助我们保持项目的安全性。
+
+We thank all researchers and contributors who responsibly report security vulnerabilities. Your contributions help us maintain the security of the project.
 
 ---
 
-**重要**: 请负责任地披露安全问题，给我们足够的时间来修复问题，避免过早公开可能被恶意利用的漏洞信息。
+**注意**: 本安全策略旨在保护项目用户和贡献者的安全。我们承诺及时响应和处理所有安全问题。
+**Note**: This security policy is designed to protect the security of project users and contributors. We are committed to responding to and handling all security issues in a timely manner.

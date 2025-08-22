@@ -67,7 +67,7 @@
 
 ## 🚀 快速开始 / Quick Start
 
-### 📚 新用户
+### 📚 新用户 / New Users
 1. **立即开始**：查看[讲座材料](knowledge/lectures/)了解核心概念
 2. **深入探索**：阅读[常见问题](knowledge/faq/)解答疑惑
 3. **扩展学习**：浏览[学术资源](knowledge/resources/)获取学术材料
@@ -147,14 +147,14 @@
 - 自动开通私密仓库访问权限
 - 仍在审核中，敬请期待
 
-#### 2️⃣ 个人赞助
+#### 2️⃣ 个人赞助 / Personal Sponsorship
 **个人支持者，支持作者的科研工作**
 <div align="center">
   <img src=".github/assets/WeChat Sponsor Code.jpg" alt="微信赞助码" width="150" />
   <img src=".github/assets/SG PayNow Sponsor Code.jpg" alt="PayNow赞助码" width="150" />
 </div>
 
-#### 3️⃣ 公司赞助
+#### 3️⃣ 公司赞助 / Corporate Sponsorship
 **企业/组织，支持创业项目发展**
 <div align="center">
   <img src=".github/assets/Start-up Company Code.PNG" alt="创业公司聚合码" width="150" />

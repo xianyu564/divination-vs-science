@@ -13,6 +13,8 @@
 > Knowledge Community · Philosophical Framework · Startup Cold Start  
 > 知识社区 · 哲学框架 · 创业冷启动
 
+> ⚠️ **Important Note**: This English version is for reference only. The Chinese version (README.md) is the core maintained version. In case of any discrepancies, the Chinese version shall prevail.
+
 ## 🎯 Project Positioning
 
 ### 🚨 Important Note: Partially Open Source Repository
@@ -126,13 +128,13 @@ For commercial use of this repository content, please contact us for **commercia
 
 > 💡 **Friendly Reminder**: We recommend experiencing the project content first to understand its value before considering sponsorship
 
-**Important Note**: Sponsorship for this project is **NOT for profit**, but rather support and recognition for the author's research work.
+**Important Note**: Sponsorship for this project is **NOT for profit**, but rather support and recognition for the author's research work and hope for future startup projects.
 
 ### 🎯 Support Usage
 - 📚 Continuous updates of lecture content and academic materials
 - 🛠️ Development of open source tools and templates
-- 🚀 **Supporting startup project development**
-- 🌟 **Enhancing personal quality of life**
+- 🚀 Supporting startup project development
+- 🌟 Enhancing author's quality of life
 
 ### 🌟 Donor Benefits
 - Recognition in new releases

@@ -1,23 +1,25 @@
 cff-version: 1.2.0
 title: "Is Fortune-Telling Science?: Philosophical Framework and Applications / 玄学是科学吗？：哲学框架与应用"
-authors:
-  - family-names: Zhang 张
-    given-names: Ziyang 子阳
-    preferred-name: Xianyu 衔瑜
-    orcid: ""
-    email: z_zz@u.nus.edu
-abstract: "A systematic exploration of Eastern divination (numerology, fortune-telling, feng shui) and its relationship with modern science, presented as slides, speaker notes, and extended readings for academic and startup product design guidance."
-keywords:
-  - divination
-  - science
-  - Chinese philosophy
-  - traditional knowledge
-  - decision making
-  - heuristics
+message: "If you use this software, please cite it using the metadata from this file."
+type: software
+version: 1.0.0
+date-released: 2025-01-01
 license: CC-BY-NC-SA-4.0
-doi: ""
-date-released: "2025-08-22"
-url: "https://github.com/xianyu564/divination-vs-science"
-repository-code: "https://github.com/xianyu564/divination-vs-science"
-type: dataset
-message: "If you use these materials in your research or work, please cite this repository. / 如果您在研究或工作中使用了这些材料，请引用此仓库。"
+license-url: https://creativecommons.org/licenses/by-nc-sa/4.0/
+repository-code: https://github.com/xianyu564/divination-vs-science
+url: https://github.com/xianyu564/divination-vs-science
+abstract: "A philosophical framework exploring the relationship between divination and science, providing methodologies for applying traditional wisdom in modern decision support. This repository serves as both a knowledge community and a startup cold-start platform for the Elephenotype project."
+keywords:
+  - "divination"
+  - "science"
+  - "philosophy"
+  - "decision-support"
+  - "traditional-wisdom"
+  - "startup-methodology"
+authors:
+  - family-names: "Zhang"
+    given-names: "Ziyang"
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+    email: "z_zz@u.nus.edu"
+    affiliation: "National University of Singapore"
+    website: "https://github.com/xianyu564"
