@@ -41,7 +41,7 @@ Through exploring the relationship between divination and science, we gradually 
 
 ### 🎯 Core Content (Fully Open)
 <div align="center">
-  <img src=".github/assets/Slides Front Page.png" alt="Is Fortune-Telling Science? Lecture Cover" width="400" />
+  <img src=".github/assets/Slides Front Page.png" alt="Is Fortune-Telling Science? Lecture Cover" width="600" />
 </div>
 
 **Core content accessible to all users**:

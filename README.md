@@ -39,7 +39,7 @@
 
 ### 🎯 核心内容（完全开放）
 <div align="center">
-  <img src=".github/assets/Slides Front Page.png" alt="玄学是科学吗？讲座封面" width="400" />
+  <img src=".github/assets/Slides Front Page.png" alt="玄学是科学吗？讲座封面" width="600" />
 </div>
 
 **所有用户均可访问的核心内容**：
