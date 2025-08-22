@@ -27,15 +27,14 @@ For commercial use of this repository content, please contact us for **commercia
 
 ---
 
-## 🎯 资金用途 / Use of Funds
+### 🎯 资金用途 / Use of Funds
 
-- 📚 持续更新讲座与延伸阅读  
-- 🛠️ 开源工具与模板开发  
-- 🎪 线下/线上分享与材料制作  
-- 🔬 相关学术研究（社会科学/人类学）  
-- 📖 社区资源维护与文档化  
-- 🚀 初创项目验证与试点  
-- 🌟 创作者可持续投入（时间/设备）
+- 📚 持续更新讲座与延伸阅读 · Updating slides & readings  
+- 🛠️ 开源工具与模板 · Open tooling & templates  
+- 🎪 线下/线上分享与材料制作 · Events & materials  
+- 🔬 社会科学/人类学相关研究 · Research  
+- 🚀 初创项目验证与试点 · Startup experiments  
+- 🌟 创作者可持续投入（时间/设备）· Creator sustainability
 
 ---
 
@@ -60,7 +59,7 @@ We will gradually open some repository privileges and invite beta testing. Howev
 
 ---
 
-### 2) 个人赞助 / Personal Sponsorship（中国大陆/新加坡）
+### 2) 支持作者 / Sponsor the Author（中国大陆 WeChat in Mainland China / 新加坡 SG PayNow ）
 - **微信支付 WeChat Pay**：扫码（见下）  
 - **PayNow（SG）**：本地转账（见下）
 
@@ -78,7 +77,7 @@ We will gradually open some repository privileges and invite beta testing. Howev
 
 ---
 
-### 3) 公司赞助 / Corporate Sponsorship（创业公司聚合码）
+### 3) 支持创业小公司 / Sponsor the Start-up（创业公司聚合码）
 - **公司收款聚合码**：用于团队与活动开支（请在备注中写 `Company Support`）。  
 - 企业转账后同样可按"开通流程（手动）"获取访问权限与开具收据。
 
@@ -126,15 +125,15 @@ We will gradually open some repository privileges and invite beta testing. Howev
 
 **本项目采用混合授权模式**：
 
-- **内容（slides/notes/readings）**：见根目录 `LICENSE-CONTENT`（CC BY-NC-SA 4.0 许可）
-  - 允许非商业使用和改编
-  - 改编作品需按相同许可分享
-  - 禁止商业使用
-  
 - **代码与脚本**：见 `LICENSE-CODE`（MIT 许可）
   - 完全开源，允许商业使用
   - 需保留版权声明
-  
+
+- **内容（slides/notes/readings）**：见根目录 `LICENSE-CONTENT`（CC BY-NC-SA 4.0 许可）
+  - 允许非商业使用和改编
+  - 改编作品需按相同许可分享
+  - 禁止商业使用  
+
 - **商业使用**：如需商业授权，请邮件沟通"**双授权**"路径（商用单独签约，不影响 CC/开源分享）
 
 ---
