@@ -139,13 +139,13 @@
 - 新版本发布中的致谢
 - 列入项目赞助者名单（仅记录支持次数）
 - 可选择接受传统回礼（书签、明信片等）
-- **🔐 核心权益：访问私密仓库 `@https://github.com/xianyu564/prediction_Surplus`**
+- **🔐 核心权益：访问私密仓库 `@https://github.com/xianyu564/prediction_Surplus`**（未来将向所有用户开放）
 
 ### 💰 赞助渠道
 
 #### 1️⃣ GitHub Sponsors（推荐）
 [![GitHub Sponsors](https://img.shields.io/badge/GitHub%20Sponsors-Support%20Me-red?style=for-the-badge&logo=github)](https://github.com/sponsors/xianyu564)
-- 自动开通私密仓库访问权限
+- 获得私密仓库访问权限（手动处理）
 - 仍在审核中，敬请期待
 
 #### 2️⃣ 个人赞助 / Personal Sponsorship
@@ -161,7 +161,7 @@
   <img src=".github/assets/Start-up Company Code.PNG" alt="创业公司聚合码" width="150" />
 </div>
 
-**注意**：通过微信/PayNow/公司二维码赞助后，请发送邮件至 z_zz@u.nus.edu 获取私密仓库访问权限。如希望接受传统回礼，可在邮件中留下收货地址。
+**注意**：通过微信/PayNow/公司二维码赞助后，请发送邮件至 z_zz@u.nus.edu 获取私密仓库访问权限。如希望接受传统回礼，可在邮件中留下收货地址。**未来计划**：当我们获得足够的研究支持后，该社科研究仓库将向所有用户开放。
 
 ## 🔗 重要链接 / Important Links
 

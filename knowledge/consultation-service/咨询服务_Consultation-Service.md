@@ -37,15 +37,15 @@ Based on the philosophical framework of "Is Fortune-Telling Science?", we provid
 
 - [项目概述](../project-overview/项目概述_Project-Overview.md) - 了解哲学框架 / Understand the philosophical framework
 - [赞助支持](../sponsorship/赞助支持_Sponsorship-Support.md) - 支持项目发展 / Support project development
-- [私密仓库访问](https://github.com/xianyu564/prediction_Surplus) - 捐赠者特权 / Donor privileges
+- [私密仓库访问](https://github.com/xianyu564/prediction_Surplus) - 捐赠者特权（未来将向所有用户开放）/ Donor privileges (will be open to all users in the future)
 
 ## 📧 联系方式 / Contact Information
 
 - **邮箱 / Email**: z_zz@u.nus.edu
 - **预约 / Booking**: 请提前1-2周预约 / Please book 1-2 weeks in advance
-- **响应时间 / Response Time**: 工作日24小时内回复 / Within 24 hours on weekdays
+- **响应时间 / Response Time**: 工作日72小时内回复 / Within 72 hours on weekdays
 
 ---
 
-**注意**: 咨询服务是商业服务，与开源项目的哲学框架分享是分开的。我们致力于在保持学术开放性的同时，提供专业的商业服务。
-**Note**: Consultation services are commercial services, separate from the open source project's philosophical framework sharing. We are committed to maintaining academic openness while providing professional commercial services.
+**注意**: 咨询服务是商业服务，与开源项目的哲学框架分享是分开的。我们于在保持学术开放性的同时，偶尔提供专业的商业服务。
+**Note**: Consultation services are commercial services, separate from the open source project's philosophical framework sharing. We are committed to maintaining academic openness while ocassionally providing professional commercial services.

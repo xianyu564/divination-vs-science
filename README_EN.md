@@ -140,13 +140,13 @@ For commercial use of this repository content, please contact us for **commercia
 - Recognition in new releases
 - Inclusion in project sponsors list (only support frequency recorded)
 - Optional traditional reciprocal gifts (bookmarks, postcards, etc.)
-- **🔐 Core Benefit: Access to private repository `@https://github.com/xianyu564/prediction_Surplus`**
+- **🔐 Core Benefit: Access to private repository `@https://github.com/xianyu564/prediction_Surplus`** (will be open to all users in the future)
 
 ### 💰 Sponsorship Channels
 
 #### 1️⃣ GitHub Sponsors (Recommended)
 [![GitHub Sponsors](https://img.shields.io/badge/GitHub%20Sponsors-Support%20Me-red?style=for-the-badge&logo=github)](https://github.com/sponsors/xianyu564)
-- Auto-grant private repository access
+- Access to private repository (manual processing)
 - Still under review, stay tuned
 
 #### 2️⃣ Personal Sponsorship
@@ -162,7 +162,7 @@ For commercial use of this repository content, please contact us for **commercia
   <img src=".github/assets/Start-up Company Code.PNG" alt="Start-up Company Code" width="150" />
 </div>
 
-**Note**: After sponsoring via WeChat/PayNow/Company QR code, please email z_zz@u.nus.edu to get private repository access. If you wish to receive traditional gifts, please include your mailing address in the email.
+**Note**: After sponsoring via WeChat/PayNow/Company QR code, please email z_zz@u.nus.edu to get private repository access. If you wish to receive traditional gifts, please include your mailing address in the email. **Future Plan**: When we receive sufficient research support, this social science research repository will be open to all users.
 
 ## 🔗 Important Links
 

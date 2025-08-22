@@ -51,7 +51,7 @@ Welcome to the "Is Fortune-Telling Science?" Project Documentation Center!
 1. 查看[赞助支持](sponsorship/赞助支持_Sponsorship-Support.md)了解权益
 2. 浏览[捐赠者名单](sponsors-list.md)查看记录
 3. 了解资金使用情况
-4. **获得私密仓库访问权限**
+4. **获得私密仓库访问权限**（未来将向所有用户开放）
 
 ### 💰 快速赞助 / Quick Sponsorship
 

@@ -71,16 +71,16 @@ We will gradually open some repository privileges and invite beta testing. Howev
 
 ## 🌟 赞助渠道 / Channels
 
-### 1) GitHub Sponsors（推荐 | 可自动开通权限）
+### 1) GitHub Sponsors（推荐）
 - 入口：<https://github.com/sponsors/xianyu564>  
 - Stripe 审核通过后将启用本地化出入金与月度结算；具体出账节奏由 GitHub/Stripe 侧规则执行。
 
-**自动权益（仅限月度分层） / Automatic Benefits (Monthly Tiers Only)**  
-- 赞助成功后，系统**自动授予**与你的分层对应的**赞助者专属私密仓库**访问权；到期或取消将自动收回，无需人工维护。
-- After successful sponsorship, the system **automatically grants** access to the **sponsor-exclusive private repository** corresponding to your tier; access will be automatically revoked upon expiration or cancellation, requiring no manual maintenance.
+**权益说明 / Benefits Description**  
+- 赞助成功后，将获得**赞助者专属私密仓库**访问权
+- After successful sponsorship, you will receive access to the **sponsor-exclusive private repository**
 
-> 说明：GitHub 的"赞助者专属仓库"可以直接挂到某一**月度分层**上，由平台自动同步成员，避免手动加协作者的人力开销。
-> Note: GitHub's "sponsor-exclusive repositories" can be directly attached to a specific **monthly tier**, with platform automatic member synchronization, avoiding manual collaborator management overhead.
+> 说明：目前私密仓库访问需要手动处理，我们正在寻找研究机构支持，未来该社科研究仓库将向所有用户开放。
+> Note: Currently, private repository access requires manual processing. We are seeking research institution support, and in the future, this social science research repository will be open to all users.
 
 ---
 
@@ -98,16 +98,16 @@ We will gradually open some repository privileges and invite beta testing. Howev
    - 你的 **GitHub 用户名**  
    - 付款**截图**（遮盖隐私信息即可）  
    - （可选）收货地址信息，如希望接受传统回礼  
-2. 我将在收到邮件后**尽快**手动为你开通对应的私密仓库访问（与 GitHub Sponsors 自动开通不同，直接赞助需人工处理）。  
-> 备注：GitHub 平台只对**月度分层**提供"自动授予/收回"权限；一次性打赏/站外渠道需要人工校对。
+2. 我将在收到邮件后**尽快**手动为你开通对应的私密仓库访问。  
+> 备注：目前所有赞助渠道都需要手动处理私密仓库访问权限。
 
 **Activation Process (Manual)**  
 1. After completing the transfer, send an email to **z_zz@u.nus.edu** (subject: `Sponsor Access`), including:  
    - Your **GitHub username**  
    - Payment **screenshot** (cover private information)  
    - (Optional) Mailing address if you wish to receive traditional gifts  
-2. I will manually activate the corresponding private repository access **as soon as possible** after receiving the email (different from GitHub Sponsors automatic activation, direct sponsorship requires manual processing).  
-> Note: GitHub platform only provides "automatic grant/revoke" permissions for **monthly tiers**; one-time tips/off-platform channels require manual verification.
+2. I will manually activate the corresponding private repository access **as soon as possible** after receiving the email.  
+> Note: Currently, all sponsorship channels require manual processing for private repository access permissions.
 
 ---
 
@@ -138,7 +138,9 @@ We will gradually open some repository privileges and invite beta testing. Howev
 ### A. 赞助者专属私密仓库（核心权益） / Sponsor-Exclusive Private Repository (Core Benefit)
 - 研究备忘、讲义草稿、方法论实验记录 / Research memos, lecture drafts, methodology experiment records
 - 赞助者讨论区、路线图草案、早期材料 / Sponsor discussion area, roadmap drafts, early materials
-- 平台通过**赞助分层**自动/半自动授予访问（详上）。/ Platform automatically/semi-automatically grants access through **sponsorship tiers** (see above).
+- 目前需要手动授予访问权限 / Currently requires manual access permission granting
+- **未来计划**：当我们获得足够的研究支持或找到研究机构赞助后，该社科研究仓库将向所有用户开放
+- **Future Plan**: When we receive sufficient research support or find research institution sponsorship, this social science research repository will be open to all users
 
 ### B. 署名致谢 / Recognition
 - 可选择 **匿名 / 化名 / 署名（姓名 + @GitHub）** 三种方式；默认**匿名**，需要署名请在赞助备注或邮件中明确写明。  
@@ -158,8 +160,8 @@ We will gradually open some repository privileges and invite beta testing. Howev
 - **Supporter**：读者层，致谢 + 访问专属仓库  
 - **Contributor**：参与讨论与路演投票  
 - **Partner**：小额"共建"层，优先试用与反馈通道  
-> 设置分层时，可在 GitHub Sponsors 后台把对应私密仓库挂到该层，支付成功即自动邀请。
-> When setting up tiers, you can attach the corresponding private repository to that tier in the GitHub Sponsors backend, and invitations will be sent automatically upon successful payment.
+> 注意：目前私密仓库访问需要手动处理，分层设置主要用于致谢和社区参与。
+> Note: Currently, private repository access requires manual processing. Tier settings are mainly used for acknowledgments and community participation.
 
 ---
 

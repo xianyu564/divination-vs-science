@@ -122,7 +122,7 @@ For commercial use of this repository content, please contact us for **commercia
 
 ### 版本 2.0.0 / Version 2.0.0
 * [ ] APP开发（商业机密部分） / APP development (business secrets part)
-* [ ] 私密仓库访问权限管理 / Private repository access management
+* [ ] 私密仓库访问权限管理（未来将向所有用户开放）/ Private repository access management (will be open to all users in the future)
 * [ ] 商业化运营 / Commercial operations
 * [ ] 学术成果发布 / Academic achievement publication
 
@@ -145,6 +145,6 @@ For commercial use of this repository content, please contact us for **commercia
 - **长期合作**：建立长期商业合作伙伴关系 / **Long-term Partnerships**: Establishes long-term business partnerships
 
 ### 捐赠者特权 / Donor Privileges
-- 访问私密仓库 `@https://github.com/xianyu564/prediction_Surplus` / Access to private repository
+- 访问私密仓库 `@https://github.com/xianyu564/prediction_Surplus`（未来将向所有用户开放）/ Access to private repository (will be open to all users in the future)
 - 参与社会科学/人类学/民族志研究 / Participation in social science/anthropology/ethnography research
 - 预测过载问题的深度探讨 / In-depth exploration of prediction overload issues
