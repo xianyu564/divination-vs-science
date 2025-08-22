@@ -1,0 +1,72 @@
+name: CI
+
+on:
+  push:
+    branches: [ main, develop ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v3
+
+    - name: 设置 Node.js
+      uses: actions/setup-node@v3
+      with:
+        node-version: '18'
+        cache: 'npm'
+
+    - name: 安装依赖
+      run: |
+        if [ -f package.json ]; then
+          npm ci
+        fi
+
+    - name: 运行测试
+      run: |
+        if [ -f package.json ]; then
+          npm test
+        fi
+
+    - name: 检查 Markdown 文件
+      run: |
+        if command -v markdownlint >/dev/null 2>&1; then
+          find . -name "*.md" -not -path "./node_modules/*" | xargs markdownlint
+        fi
+
+    - name: 检查文件大小
+      run: |
+        echo "检查大文件..."
+        find . -type f -size +10M -not -path "./.git/*" -not -path "./node_modules/*" | head -10
+
+  security:
+    runs-on: ubuntu-latest
+    needs: build
+
+    steps:
+    - uses: actions/checkout@v3
+
+    - name: 运行安全扫描
+      uses: github/codeql-action/init@v2
+      with:
+        languages: javascript, python
+
+    - name: 执行 CodeQL 分析
+      uses: github/codeql-action/analyze@v2
+
+  deploy:
+    runs-on: ubuntu-latest
+    needs: [build, security]
+    if: github.ref == 'refs/heads/main'
+
+    steps:
+    - uses: actions/checkout@v3
+
+    - name: 部署到 GitHub Pages
+      uses: peaceiris/actions-gh-pages@v3
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_dir: ./docs

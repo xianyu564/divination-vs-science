@@ -1,0 +1,51 @@
+{
+  "name": "divination-vs-science",
+  "version": "1.0.0",
+  "description": "象数宇宙观 Playbook - 探索占卜与科学关系的项目",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "echo \"Building project...\"",
+    "docs": "echo \"Generating documentation...\"",
+    "lint": "echo \"Linting files...\"",
+    "format": "echo \"Formatting files...\""
+  },
+  "keywords": [
+    "divination",
+    "science",
+    "philosophy",
+    "traditional-knowledge",
+    "decision-making",
+    "chinese-philosophy",
+    "metaphysics"
+  ],
+  "author": {
+    "name": "Ziyang Zhang",
+    "email": "xianyu564@gmail.com",
+    "url": "https://github.com/xianyu564"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xianyu564/divination-vs-science.git"
+  },
+  "bugs": {
+    "url": "https://github.com/xianyu564/divination-vs-science/issues"
+  },
+  "homepage": "https://github.com/xianyu564/divination-vs-science#readme",
+  "devDependencies": {
+    "markdownlint-cli": "^0.33.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "files": [
+    "slides/",
+    "speaker-notes/",
+    "readings/",
+    "templates/",
+    "assets/",
+    "*.md",
+    "*.cff"
+  ]
+}
