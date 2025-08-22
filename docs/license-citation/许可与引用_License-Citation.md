@@ -17,8 +17,15 @@
 - **引用文献 (Referenced Materials)**: 已有文献按原文献版权进行转载引用，遵循原始许可条款 / Existing literature follows original copyright terms for reprint and citation
 
 ### 🚨 重要说明：部分开源仓库 / Important Note: Partially Open Source Repository
-**本仓库采用双授权模式**：社区使用遵循CC BY-NC-SA 4.0，商业使用需单独授权。
-**This repository adopts a dual-licensing model**: Community use follows CC BY-NC-SA 4.0, commercial use requires separate licensing.
+**本仓库采用混合授权模式**：
+- **代码部分**：按 MIT 许可证完全开源
+- **内容部分**：按 CC BY-NC-SA 4.0 许可证（非商业使用，允许改编）
+- **商业使用**：需单独授权
+
+**This repository adopts a hybrid licensing model**:
+- **Code**: MIT License (fully open source)
+- **Content**: CC BY-NC-SA 4.0 License (non-commercial use, adaptations allowed)
+- **Commercial use**: Requires separate licensing
 
 ### 💼 商业使用许可通道 / Commercial Use Licensing Channel
 如需商业使用本仓库内容，请联系我们获取**商业使用许可**：

@@ -1,4 +1,4 @@
-# Is Divination Science?
+# Is Fortune-Telling Science?
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
@@ -16,7 +16,10 @@
 ## 🎯 Project Positioning
 
 ### 🚨 Important Note: Partially Open Source Repository
-**This repository adopts a dual-licensing model**: Community use follows CC BY-NC-SA 4.0, commercial use requires separate licensing.
+**This repository adopts a hybrid licensing model**:
+- **Code**: MIT License (fully open source)
+- **Content**: CC BY-NC-SA 4.0 License (non-commercial use, adaptations allowed)
+- **Commercial use**: Requires separate licensing
 
 ### Core Question
 We start with a fundamental question: **"Is Divination Science?"**

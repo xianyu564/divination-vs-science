@@ -1,4 +1,4 @@
-# 玄学是科学吗？/ Is Divination Science?
+# 玄学是科学吗？/ Is Fortune-Telling Science?
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
@@ -11,12 +11,15 @@
 **[English](README_EN.md)** | **[中文](README.md)** | **[更多语言 / More Languages](LANGUAGES.md)**
 
 > 演讲幻灯片 / 讲者笔记 / 延伸阅读 | Lecture Slides / Speaker Notes / Extended Readings  
-> 从"玄学是科学吗？"开始的哲学探讨 | Philosophical Discussion Starting from "Is Divination Science?"
+> 从"玄学是科学吗？"开始的哲学探讨 | Philosophical Discussion Starting from "Is Fortune-Telling Science?"
 
 ## 🎯 项目定位
 
 ### 🚨 重要说明：部分开源仓库
-**本仓库采用双授权模式**：社区使用遵循CC BY-NC-SA 4.0，商业使用需单独授权。
+**本仓库采用混合授权模式**：
+- **代码部分**：按 MIT 许可证完全开源
+- **内容部分**：按 CC BY-NC-SA 4.0 许可证（非商业使用，允许改编）
+- **商业使用**：需单独授权
 
 ### 核心问题
 我们从一个根本问题开始：**"玄学是科学吗？"**

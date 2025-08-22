@@ -90,7 +90,12 @@ We will gradually open some repository privileges and invite beta testing. Howev
 
 ## 🏆 权益说明 / Benefits
 
-> 权益是"访问与参与"的便利，不改变本仓库内容的**版权许可**（内容类 CC BY-NC-SA 4.0；代码类 MIT）。
+> 权益是"访问与参与"的便利，不改变本仓库内容的**版权许可**。
+> 
+> **重要提醒：本项目采用混合授权模式**
+> - **代码部分**：按 MIT 许可证开源
+> - **内容部分**：按 CC BY-NC-SA 4.0 许可证（非商业使用，允许改编，需相同许可分享）
+> - **商业使用**：需单独授权，请联系我们获取商业使用许可
 
 ### A. 赞助者专属私密仓库（核心权益）
 - 研究备忘、讲义草稿、方法论实验记录  
@@ -119,9 +124,18 @@ We will gradually open some repository privileges and invite beta testing. Howev
 
 ## 📜 许可与再利用 / License & Reuse
 
-- **内容（slides/notes/readings）**：见根目录 `LICENSE-CONTENT`（CC BY-NC-SA 4.0 许可）。  
-- **代码与脚本**：见 `LICENSE-CODE`（MIT）。  
-- 赞助不改变许可条款；如需商业授权，请邮件沟通"**双授权**"路径（商用单独签约，不影响 CC/开源分享）。
+**本项目采用混合授权模式**：
+
+- **内容（slides/notes/readings）**：见根目录 `LICENSE-CONTENT`（CC BY-NC-SA 4.0 许可）
+  - 允许非商业使用和改编
+  - 改编作品需按相同许可分享
+  - 禁止商业使用
+  
+- **代码与脚本**：见 `LICENSE-CODE`（MIT 许可）
+  - 完全开源，允许商业使用
+  - 需保留版权声明
+  
+- **商业使用**：如需商业授权，请邮件沟通"**双授权**"路径（商用单独签约，不影响 CC/开源分享）
 
 ---
 

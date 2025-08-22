@@ -3,7 +3,7 @@
 ## 🌏 项目简介 / Project Introduction
 
 本仓库公开汇集我关于**"玄学是科学吗？"**这一核心问题的系统化思考与应用实践：  
-This repository openly compiles my systematic thinking and practical applications regarding the core question **"Is Divination Science?"**:
+This repository openly compiles my systematic thinking and practical applications regarding the core question **"Is Fortune-Telling Science?"**:
 
 - 讲座用 **Slides**（PDF/PPTX） / Lecture **Slides** (PDF/PPTX)
 - 对应的 **讲者笔记**（逐页提词/口播稿） / Corresponding **Speaker Notes** (page-by-page prompts/scripts)
@@ -14,8 +14,15 @@ Through exploring the relationship between divination and science, we gradually 
 
 ## 🚨 重要说明：部分开源仓库 / Important Note: Partially Open Source Repository
 
-**本仓库采用双授权模式**：社区使用遵循CC BY-NC-SA 4.0，商业使用需单独授权。
-**This repository adopts a dual-licensing model**: Community use follows CC BY-NC-SA 4.0, commercial use requires separate licensing.
+**本仓库采用混合授权模式**：
+- **代码部分**：按 MIT 许可证完全开源
+- **内容部分**：按 CC BY-NC-SA 4.0 许可证（非商业使用，允许改编）
+- **商业使用**：需单独授权
+
+**This repository adopts a hybrid licensing model**:
+- **Code**: MIT License (fully open source)
+- **Content**: CC BY-NC-SA 4.0 License (non-commercial use, adaptations allowed)
+- **Commercial use**: Requires separate licensing
 
 ### 💼 商业使用许可通道 / Commercial Use Licensing Channel
 如需商业使用本仓库内容，请联系我们获取**商业使用许可**：
@@ -23,11 +30,6 @@ For commercial use of this repository content, please contact us for **commercia
 - 📧 邮箱：z_zz@u.nus.edu
 - 💰 费用：根据使用范围和商业价值协商定价
 - 📋 授权范围：包括商业改编、商业分发、商业应用等
-
-## 🚨 重要说明：部分开源仓库 / Important Note: Partially Open Source Repository
-
-**本仓库采用双授权模式**：社区使用遵循CC BY-NC-SA 4.0，商业使用需单独授权。
-**This repository adopts a dual-licensing model**: Community use follows CC BY-NC-SA 4.0, commercial use requires separate licensing.
 
 ### 💼 商业使用许可通道 / Commercial Use Licensing Channel
 如需商业使用本仓库内容，请联系我们获取**商业使用许可**：
@@ -53,19 +55,19 @@ For commercial use of this repository content, please contact us for **commercia
 
 ## 🧭 指导思想 / Guiding Principles
 
-1. **从问题出发**：以"玄学是科学吗？"为起点，探讨传统智慧与现代科学的关系 / **Question-Driven**: Starting with "Is Divination Science?" to explore the relationship between traditional wisdom and modern science
+1. **从问题出发**：以"玄学是科学吗？"为起点，探讨传统智慧与现代科学的关系 / **Question-Driven**: Starting with "Is Fortune-Telling Science?" to explore the relationship between traditional wisdom and modern science
 2. **哲学框架构建**：建立术数在现代决策中的哲学框架，而非简单的技术应用 / **Philosophical Framework Building**: Establishing a philosophical framework for divination in modern decision-making, not simple technical applications
 3. **启发式思维**：将术数视为启发式工具，用于组织信息和生成行动备选 / **Heuristic Thinking**: Treating divination as a heuristic tool for organizing information and generating action alternatives
 4. **可测与不可测**：在可量化维度采用实证方法，在不可量化维度采用启发式建议 / **Measurable vs. Unmeasurable**: Using empirical methods for quantifiable dimensions, heuristic suggestions for unquantifiable dimensions
 5. **伦理边界**：不替代专业服务，不做结果承诺，尊重隐私和学术规范 / **Ethical Boundaries**: Not replacing professional services, making no outcome promises, respecting privacy and academic standards
-6. **双授权平衡**：在保持学术开放性的同时，为商业应用提供变现路径 / **Dual-Licensing Balance**: Maintaining academic openness while providing monetization paths for commercial applications
+6. **混合授权平衡**：在保持学术开放性的同时，为商业应用提供变现路径 / **Hybrid Licensing Balance**: Maintaining academic openness while providing monetization paths for commercial applications
 
 ## 📂 目录结构 / Directory Structure
 
 ```
 .
 ├── slides/                    # 讲座幻灯片 / Lecture slides (PDF/PPTX)
-│   └── Is Divination Science 玄学是科学吗？20250822.*
+│   └── Is Fortune-Telling Science 玄学是科学吗？20250822.*
 ├── speaker-notes/             # 讲者笔记 / Speaker notes (page-by-page prompts/scripts)
 ├── readings/                  # 延伸阅读 / Extended readings (academic references, methodologies)
 ├── templates/                 # 模板文件 / Template files (.pptx/.md)
