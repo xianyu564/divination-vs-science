@@ -5,9 +5,9 @@
 
 ## 🎯 目录说明 / Directory Description
 
-本目录专门用于维护代码仓库的**完整性和云端可持续性**，与用户捐赠行为大小、金额等并无关系。对此处进行部分开源属于开发者进行命理学革新理想的一部分。
+本目录专门用于维护代码仓库的**完整性和云端可持续性**，与用户捐赠行为大小、金额等并无关系。对此处进行部分开源属于开发者进行命理学/国学革新理想的一部分。
 
-This directory is specifically for maintaining the **integrity and cloud sustainability** of the code repository, and has no relationship with user donation behavior size, amount, etc. Partial open sourcing here is part of the developer's ideal for numerology innovation.
+This directory is specifically for maintaining the **integrity and cloud sustainability** of the code repository, and has no relationship with user donation behavior size, amount, etc. Partial open sourcing here is part of the developer's ideal for numerology and Chinese traditional wisdom innovation.
 
 ## 📁 文件结构 / File Structure
 
@@ -42,7 +42,7 @@ Please specify in Issues or email:
 
 ### 🤝 欢迎捐赠 / Welcome Donations
 
-我们**欢迎捐赠的行为而非实际金额**，这样维护了：
+我们**欢迎捐赠的行为而非待价而沽**，这样维护了：
 We **welcome the act of donation rather than the actual amount**, which maintains:
 
 - 💝 **捐赠行为的纯洁性** / **Purity of donation behavior**
