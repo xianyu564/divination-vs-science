@@ -1,140 +1,222 @@
-# Dependencies
+# ========================================
+# 项目特定的忽略规则 / Project-specific ignore rules
+# ========================================
+
+# 个人笔记和草稿 / Personal notes and drafts
+personal-notes/
+drafts/
+*.draft
+*.personal
+
+# 临时文件和备份 / Temporary files and backups
+*.tmp
+*.temp
+*.bak
+*.backup
+*.old
+*.orig
+
+# 敏感信息 / Sensitive information
+*.key
+*.pem
+*.p12
+*.pfx
+secrets/
+config.local.*
+.env.local
+.env.production
+
+# ========================================
+# 开发环境 / Development Environment
+# ========================================
+
+# 依赖包 / Dependencies
 node_modules/
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+.pnpm-debug.log*
 
-# Runtime data
-pids
-*.pid
-*.seed
-*.pid.lock
-
-# Coverage directory used by tools like istanbul
-coverage/
-*.lcov
-
-# nyc test coverage
-.nyc_output
-
-# Grunt intermediate storage (https://gruntjs.com/creating-plugins#storing-task-files)
-.grunt
-
-# Bower dependency directory (https://bower.io/)
-bower_components
-
-# node-waf configuration
-.lock-wscript
-
-# Compiled binary addons (https://nodejs.org/api/addons.html)
-build/Release
-
-# Dependency directories
-jspm_packages/
-
-# TypeScript v1 declaration files
-typings/
-
-# TypeScript cache
-*.tsbuildinfo
-
-# Optional npm cache directory
+# 包管理器文件 / Package manager files
 .npm
+.yarn-integrity
+yarn.lock
+package-lock.json
+pnpm-lock.yaml
 
-# Optional eslint cache
-.eslintcache
-
-# Microbundle cache
+# 缓存文件 / Cache files
+.cache/
+.parcel-cache/
 .rpt2_cache/
 .rts2_cache_cjs/
 .rts2_cache_es/
 .rts2_cache_umd/
+.eslintcache
+*.tsbuildinfo
 
-# Optional REPL history
-.node_repl_history
+# ========================================
+# 构建输出 / Build Outputs
+# ========================================
 
-# Output of 'npm pack'
-*.tgz
+# 构建目录 / Build directories
+build/
+dist/
+out/
+.next/
+.nuxt/
+public/
 
-# Yarn Integrity file
-.yarn-integrity
-
-# dotenv environment variables file
-.env
-.env.test
-.env.local
-.env.production
-
-# parcel-bundler cache (https://parceljs.org/)
-.cache
-.parcel-cache
-
-# Next.js build output
-.next
-
-# Nuxt.js build / generate output
-.nuxt
-dist
-
-# Gatsby files
-.cache/
-public
-
-# Storybook build outputs
-.out
-.storybook-out
-
-# Temporary folders
-tmp/
-temp/
-
-# Logs
-logs
-*.log
-
-# Runtime data
-pids
-*.pid
-*.seed
-*.pid.lock
-
-# Coverage directory used by tools like istanbul
+# 测试覆盖率 / Test coverage
 coverage/
+*.lcov
+.nyc_output
 
-# IDE files
+# 打包文件 / Package files
+*.tgz
+*.tar.gz
+*.zip
+
+# ========================================
+# 开发工具 / Development Tools
+# ========================================
+
+# IDE和编辑器 / IDEs and editors
 .vscode/
 .idea/
 *.swp
 *.swo
 *~
+.project
+.classpath
+.settings/
 
-# OS generated files
+# 版本控制 / Version control
+.git/
+.svn/
+.hg/
+
+# ========================================
+# 操作系统 / Operating System
+# ========================================
+
+# macOS / macOS
 .DS_Store
 .DS_Store?
 ._*
 .Spotlight-V100
 .Trashes
-ehthumbs.db
+
+# Windows / Windows
 Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.lnk
 
-# Build outputs
-build/
-dist/
-out/
+# Linux / Linux
+*~
+.fuse_hidden*
+.directory
+.Trash-*
 
-# Test outputs
-test-results/
-coverage/
+# ========================================
+# 日志和运行时 / Logs and Runtime
+# ========================================
 
-# Documentation builds
+# 日志文件 / Log files
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+
+# 进程ID文件 / Process ID files
+pids/
+*.pid
+*.seed
+*.pid.lock
+
+# ========================================
+# 文档构建 / Documentation Builds
+# ========================================
+
+# 文档构建输出 / Documentation build outputs
 docs/_build/
 docs/build/
+docs/site/
+_site/
+site/
 
-# Backup files
-*.bak
-*.backup
-*.tmp
+# ========================================
+# 项目特定忽略 / Project-specific ignores
+# ========================================
 
-# Personal notes (if any)
-personal-notes/
-drafts/
+# 讲座录音和视频文件 / Lecture recordings and videos
+*.mp3
+*.mp4
+*.avi
+*.mov
+*.wav
+*.m4a
+
+# 大型二进制文件 / Large binary files
+*.pdf
+*.ppt
+*.pptx
+*.doc
+*.docx
+*.xls
+*.xlsx
+
+# 图片文件（保留在assets中的） / Image files (keep those in assets)
+# 注意：.github/assets/中的图片文件应该被版本控制
+# Note: Image files in .github/assets/ should be version controlled
+
+# 压缩文件 / Compressed files
+*.7z
+*.rar
+*.zip
+*.tar.gz
+
+# ========================================
+# 安全相关 / Security Related
+# ========================================
+
+# 密钥和证书 / Keys and certificates
+*.key
+*.pem
+*.p12
+*.pfx
+*.crt
+*.cer
+
+# 环境变量 / Environment variables
+.env
+.env.*
+!.env.example
+
+# ========================================
+# 其他 / Others
+# ========================================
+
+# 临时目录 / Temporary directories
+tmp/
+temp/
+.tmp/
+
+# 备份目录 / Backup directories
+backup/
+backups/
+
+# 测试输出 / Test outputs
+test-results/
+test-output/
+
+# 性能分析 / Performance profiling
+*.cpuprofile
+*.heapsnapshot
+
+# 本地配置 / Local configuration
+*.local
+local.*
