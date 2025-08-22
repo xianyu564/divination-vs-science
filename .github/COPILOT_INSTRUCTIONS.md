@@ -46,8 +46,9 @@
 - **文档格式**: Markdown (.md)
 - **配置文件**: YAML (.yml), JSON (.json)
 - **许可证**: MIT (代码), CC BY-NC-SA 4.0 (内容)
-- **版本控制**: Git
+- **版本控制**: Git（严格遵循分支管理策略）
 - **平台**: GitHub
+- **分支策略**: feature分支开发，Pull Request合并到master
 
 ### 编码规范 / Coding Standards
 
@@ -100,6 +101,12 @@
 3. **优化性能和资源使用**
 4. **添加清晰的步骤说明**
 
+### 当生成Git操作指导时 / When Generating Git Operation Guidance
+1. **始终建议使用feature分支**: `git checkout -b feature/功能名称`
+2. **强调Pull Request流程**: 通过PR合并而不是直接推送
+3. **包含分支命名规范**: feature分支使用描述性名称
+4. **提醒代码审查**: 合并前必须经过审查
+
 ## 🚫 避免事项 / Things to Avoid
 
 ### 内容方面 / Content
@@ -113,6 +120,8 @@
 - 不要生成不安全的代码
 - 不要违反项目的许可证要求
 - 不要破坏现有的文件结构
+- **不要直接推送到master分支**（必须使用feature分支）
+- 不要跳过Pull Request流程
 
 ## 🔍 上下文理解 / Context Understanding
 
@@ -150,15 +159,26 @@
 3. **审查生成内容**: 检查生成的代码是否符合项目规范
 4. **迭代优化**: 根据反馈不断改进和完善
 
+### 分支管理策略 / Branch Management Strategy
+**重要**: 所有更新改动必须遵循以下分支管理规则：
+- **🚫 禁止直接推送到master分支**: 所有代码更改、文档更新、功能添加都不得直接提交到master分支
+- **✅ 必须使用feature分支**: 所有更改都应该在 `feature/*` 分支上进行开发和测试
+- **🔄 工作流程**:
+  1. 创建新的feature分支：`git checkout -b feature/功能名称`
+  2. 在feature分支上进行所有更改和提交
+  3. 通过Pull Request将feature分支合并到master分支
+  4. 只有经过代码审查和测试验证后才能合并
+
 ### 代码审查要点 / Code Review Points
 - 是否符合项目的多语言要求
 - 是否遵循辩证开放理念
 - 是否包含适当的许可证信息
 - 是否维护了项目的整体结构
+- **是否遵循分支管理策略**（重要检查点）
 
 ---
 
 **注意**: 本指令文件会随着项目发展持续更新，请定期查看最新版本。
 **Note**: This instruction file will be continuously updated as the project develops. Please check for the latest version regularly.
 
-**最后更新**: 2025年1月 / Last Updated: January 2025
+**最后更新**: 2025年8月 / Last Updated August 2025
