@@ -31,6 +31,13 @@ Your support will be used for:
 
 ## 🏆 Donor Benefits
 
+### 🎁 Core Benefit: Access to Private Repository
+**All donors** will receive access to the private repository:
+- 🔐 Access to `@https://github.com/xianyu564/prediction_Surplus`
+- 📊 Participate in social science/anthropology/ethnography research
+- 🧠 Deep exploration of prediction overload issues
+- 💡 Gain insights into cutting-edge research
+
 ### Recognition in New Releases
 - All donors will be specially thanked when new versions of the project are released
 - Donor names will be listed in Release Notes
@@ -42,10 +49,23 @@ Your support will be used for:
 - Categorized display by donation amount and time
 
 ### Special Benefits
-- **Small Donors (≤$10)**: Name listed in donor list
-- **Medium Donors ($11-$50)**: Special thanks in Release Notes
-- **Large Donors ($51+)**: Special acknowledgment on project homepage and documentation
-- **Continuous Donors**: Receive "Continuous Supporter" badge
+- **Small Donors (≤$10)**: Name listed in donor list + Private repository access
+- **Medium Donors ($11-$50)**: Special thanks in Release Notes + Private repository access
+- **Large Donors ($51+)**: Special acknowledgment on project homepage and documentation + Private repository access
+- **Continuous Donors**: Receive "Continuous Supporter" badge + Private repository access
+
+## 🔐 Private Repository Content Description
+
+### Research Areas
+- **Social Science**: Social prediction models and behavioral analysis
+- **Anthropology**: Decision pattern research in cultural contexts
+- **Ethnography**: Field research and on-site study data
+- **Prediction Overload**: Solutions for decision fatigue in the information age
+
+### Access Methods
+1. Automatic access granted after donation through GitHub Sponsors
+2. Manual addition as collaborator after donation through other payment methods
+3. Access rights activated within 24 hours after donation confirmation
 
 ## 📋 Transparency Commitment
 

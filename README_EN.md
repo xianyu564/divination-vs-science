@@ -1,9 +1,9 @@
-# Xiangshu Cosmos Playbook
+# Is Divination Science?
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
-[![GitHub stars](https://img.shields.io/github/stars/xianyu564/divination-vs-science)](https://github.com/xianyu564/divination-vs-science/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/xianyu564/divination-vs-science)](https://github.com/xianyu564/divination-vs-science/network)
+[![GitHub stars](https://img.shields.io/badge/GitHub%20stars-0-brightgreen)](https://github.com/xianyu564/divination-vs-science/stargazers)
+[![GitHub forks](https://img.shields.io/badge/GitHub%20forks-0-brightgreen)](https://github.com/xianyu564/divination-vs-science/network)
 [![GitHub issues](https://img.shields.io/badge/GitHub%20issues-0-brightgreen)](https://github.com/xianyu564/divination-vs-science/issues)
 [![GitHub pull requests](https://img.shields.io/badge/GitHub%20PRs-0-brightgreen)](https://github.com/xianyu564/divination-vs-science/pulls)
 
@@ -11,7 +11,24 @@
 **[English](README_EN.md)** | **[中文](README.md)** | **[More Languages](LANGUAGES.md)**
 
 > Lecture Slides / Speaker Notes / Extended Readings  
-> Guiding Philosophy & Methodology for Startup Product Design
+> Philosophical Discussion Starting from "Is Divination Science?"
+
+## 🎯 Project Positioning
+
+### Core Question
+We start with a fundamental question: **"Is Divination Science?"**
+
+Through exploring the relationship between divination and science, we gradually delve into the philosophical framework of **Eastern divination systems (numerology, fortune-telling, feng shui)** and discuss their application in modern decision support.
+
+### Open Source Shared Components
+- **Philosophical Framework**: Thinking framework about the relationship between divination and science
+- **Methodology**: Methods for applying divination in modern decision-making
+- **Academic Discussion**: Related academic research and discussions
+
+### Commercial Application Components
+- **Consultation Services**: Fee-based consultation services based on the philosophical framework
+- **APP Development**: Commercial applications based on divination (business secrets)
+- **Startup Projects**: Entrepreneurial practices guided by the philosophical framework
 
 ## 🚀 Quick Start
 
@@ -30,6 +47,11 @@
 2. Browse [Sponsors List](docs/sponsors-list.md) for records
 3. Learn about fund usage
 
+### 💼 Business Clients
+1. View [Consultation Service](docs/en/consultation-service.md) for service details
+2. Understand commercial applications based on the philosophical framework
+3. Explore long-term partnership possibilities
+
 ## 📂 Project Structure
 
 ```
@@ -42,17 +64,19 @@
 ├── docs/                      # 📚 Detailed documentation
 │   ├── zh/                    # Chinese documentation
 │   ├── en/                    # English documentation
+│   ├── consultation-service/  # Consultation service
 │   └── sponsors-list.md       # Sponsors list
 └── .github/                   # GitHub configurations
 ```
 
 ## 🌟 Core Features
 
-- **🎯 Heuristic Thinking**: Eastern numerology as decision support tool
+- **🎯 Philosophical Exploration**: Deep thinking starting from "Is Divination Science?"
 - **🔬 Scientific Methods**: Empirical methods for measurable aspects
-- **🚀 Product Application**: Startup project design methodology
+- **🚀 Entrepreneurial Application**: Startup methodology based on the philosophical framework
 - **🌍 Multilingual Support**: Bilingual documentation in Chinese and English
 - **💝 Community Support**: Open source community collaboration
+- **🔐 Private Access**: Donors receive access to private repository
 
 ## 💝 Sponsorship & Support
 
@@ -68,6 +92,7 @@
 - Recognition in new releases
 - Inclusion in project sponsors list
 - Different benefits based on donation amount
+- **🔐 Core Benefit: Access to private repository `@https://github.com/xianyu564/prediction_Surplus`**
 
 [![GitHub Sponsors](https://img.shields.io/badge/GitHub%20Sponsors-Support%20Me-red?style=for-the-badge&logo=github)](https://github.com/sponsors/xianyu564)
 
@@ -77,6 +102,7 @@
 - 🤝 [Contributing Guide](docs/en/contributing.md) - How to participate
 - 📄 [License Information](docs/en/license-citation.md) - Usage terms and citation
 - 💝 [Sponsorship & Support](docs/en/sponsorship.md) - Sponsorship details and benefits
+- 💼 [Consultation Service](docs/en/consultation-service.md) - Business service details
 - 📊 [Project Status](PROJECT_STATUS.md) - Current progress and plans
 
 ## 🧩 Disclaimers
@@ -85,12 +111,14 @@
 - Do not promise "accuracy rates" or "certainty"
 - Content limited to open source community distribution, commercial use and derivative works prohibited
 - Referenced literature follows original copyright
+- **Consultation services are fee-based profitable commercial services**
 
 ## 📞 Contact Us
 
 - **GitHub**: [@xianyu564](https://github.com/xianyu564)
 - **Email**: z_zz@u.nus.edu
 - **Issue Feedback**: [GitHub Issues](https://github.com/xianyu564/divination-vs-science/issues)
+- **Business Consultation**: [Consultation Service](docs/en/consultation-service.md)
 
 ---
 

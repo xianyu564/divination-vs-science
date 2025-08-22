@@ -1,8 +1,8 @@
 # 文档中心 / Documentation Center
 
-欢迎来到象数宇宙观 Playbook 的文档中心！
+欢迎来到"玄学是科学吗？"项目的文档中心！
 
-Welcome to the Xiangshu Cosmos Playbook Documentation Center!
+Welcome to the "Is Divination Science?" Project Documentation Center!
 
 ## 🌍 语言版本 / Language Versions
 
@@ -11,12 +11,14 @@ Welcome to the Xiangshu Cosmos Playbook Documentation Center!
 - [许可与引用](zh/license-citation.md) - 许可证说明、学术引用、免责声明
 - [赞助支持](zh/sponsorship.md) - 赞助性质、用途、捐赠者权益
 - [贡献指南](zh/contributing.md) - 如何贡献、流程、规范
+- [咨询服务](zh/consultation-service.md) - 商业服务内容、收费标准、预约流程
 
 ### English Documentation
 - [Project Overview](en/project-overview.md) - Project introduction, guiding principles, directory structure
 - [License & Citation](en/license-citation.md) - License information, academic citation, disclaimers
 - [Sponsorship & Support](en/sponsorship.md) - Sponsorship nature, usage, donor benefits
 - [Contributing Guide](en/contributing.md) - How to contribute, process, standards
+- [Consultation Service](en/consultation-service.md) - Business service content, pricing, booking process
 
 ## 📚 通用文档 / Common Documents
 
@@ -39,6 +41,12 @@ Welcome to the Xiangshu Cosmos Playbook Documentation Center!
 1. 查看[赞助支持](zh/sponsorship.md)了解权益
 2. 浏览[捐赠者名单](../docs/sponsors-list.md)查看记录
 3. 了解资金使用情况
+4. **获得私密仓库访问权限**
+
+### 商业客户 / Business Clients
+1. 查看[咨询服务](zh/consultation-service.md)了解服务内容
+2. 了解基于哲学框架的商业应用
+3. 探讨长期合作可能性
 
 ## 📖 文档结构 / Documentation Structure
 
@@ -46,16 +54,22 @@ Welcome to the Xiangshu Cosmos Playbook Documentation Center!
 docs/
 ├── README.md              # 本文档 / This document
 ├── sponsors-list.md       # 捐赠者名单 / Sponsors list
+├── consultation-service/  # 咨询服务 / Consultation service
+│   ├── 咨询前协议_中文.md
+│   ├── Term of service.md
+│   └── Private Consultation Price List.png
 ├── zh/                    # 中文文档 / Chinese documentation
 │   ├── project-overview.md
 │   ├── license-citation.md
 │   ├── sponsorship.md
-│   └── contributing.md
+│   ├── contributing.md
+│   └── consultation-service.md
 └── en/                    # 英文文档 / English documentation
     ├── project-overview.md
     ├── license-citation.md
     ├── sponsorship.md
-    └── contributing.md
+    ├── contributing.md
+    └── consultation-service.md
 ```
 
 ## 🆘 需要帮助？/ Need Help?

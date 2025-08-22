@@ -2,20 +2,32 @@
 
 ## 🌏 Project Introduction
 
-This repository openly compiles my systematic thinking and practical applications regarding **Eastern divination systems (numerology, fortune-telling, feng shui)**:
+This repository openly compiles my systematic thinking and practical applications regarding the core question **"Is Divination Science?"**:
 - Lecture **Slides** (PDF/PPTX)
 - Corresponding **Speaker Notes** (page-by-page prompts/scripts)
 - **Extended Readings** for readers and product teams (academic references, methodologies)
 
-This is also my **Product Design Playbook** for startups: using "**numerological heuristics and related cosmological views**" as **situational modeling tools**, embracing evidence in measurable aspects while reducing assertions in unmeasurable aspects, with clear boundaries and review mechanisms.
+Through exploring the relationship between divination and science, we gradually delve into the philosophical framework of **Eastern divination systems (numerology, fortune-telling, feng shui)** and discuss their application in modern decision support.
+
+## 🎯 Project Positioning
+
+### Open Source Shared Components
+- **Philosophical Framework**: Thinking framework about the relationship between divination and science
+- **Methodology**: Methods for applying divination in modern decision-making
+- **Academic Discussion**: Related academic research and discussions
+
+### Commercial Application Components
+- **Consultation Services**: Fee-based consultation services based on the philosophical framework
+- **APP Development**: Commercial applications based on divination (business secrets)
+- **Startup Projects**: Entrepreneurial practices guided by the philosophical framework
 
 ## 🧭 Guiding Principles
 
-1. **Numerology as Technical Language**: Encode "principles/qi, spatiotemporal and resonance relationships" into operational symbol systems using stems-branches, hexagrams, compass, etc., throughout cognitive and decision-making processes.
-2. **Heuristic, Not Natural Causality Claims**: This repository does not package numerology as repeatable natural causal laws; it is a heuristic framework for **organizing information and generating action alternatives**.
-3. **Measure First, Then Heuristics**: For quantifiable dimensions involving space/psychology/behavior, prioritize evidence; present others as heuristic suggestions with **review/retrospective** checkpoints.
-4. **Ethics and Boundaries**: Do not replace medical/legal/financial compliance; make no outcome promises; respect privacy, oppose any "cult-like" exploitation.
-5. **Product as Method**: My startup projects solidify the above principles into **design specifications, interactions, and risk controls**.
+1. **Question-Driven**: Starting with "Is Divination Science?" to explore the relationship between traditional wisdom and modern science
+2. **Philosophical Framework Building**: Establishing a philosophical framework for divination in modern decision-making, not simple technical applications
+3. **Heuristic Thinking**: Treating divination as a heuristic tool for organizing information and generating action alternatives
+4. **Measurable vs. Unmeasurable**: Using empirical methods for quantifiable dimensions, heuristic suggestions for unquantifiable dimensions
+5. **Ethical Boundaries**: Not replacing professional services, making no outcome promises, respecting privacy and academic standards
 
 ## 📂 Directory Structure
 
@@ -27,12 +39,12 @@ This is also my **Product Design Playbook** for startups: using "**numerological
 ├── readings/                  # Extended readings (academic references, methodologies)
 ├── templates/                 # Template files (.pptx/.md)
 ├── assets/                    # Assets (diagrams, illustrations, vectors)
+├── docs/                      # 📚 Detailed documentation
+│   ├── zh/                    # Chinese documentation
+│   ├── en/                    # English documentation
+│   ├── consultation-service/  # Consultation service related
+│   └── sponsors-list.md       # Sponsors list
 ├── .github/                   # GitHub configurations
-│   ├── FUNDING.yml           # Sponsorship configuration
-│   ├── ISSUE_TEMPLATE.md     # Issue template
-│   ├── pull_request_template.md # PR template
-│   ├── WeChat Sponsor Code.jpg  # WeChat sponsor QR code
-│   └── SG PayNow Sponsor Code.jpg # PayNow sponsor QR code
 ├── LICENSE-CONTENT           # Content license (CC BY-NC-ND 4.0)
 ├── LICENSE-CODE              # Code license (MIT)
 ├── CITATION.cff              # Citation metadata (for academic citation)
@@ -43,27 +55,56 @@ This is also my **Product Design Playbook** for startups: using "**numerological
 └── README.md                 # Project documentation
 ```
 
-## 🧪 Product Application Practice
+## 🧪 Application Practice
 
-- **Positioning**: Treat Eastern numerology as a **"numerological situational modeler"** for **decision support and experience design in uncertain contexts** (rather than black-box promises of natural causality).
-- **Design Principles**  
-  - Information Architecture: Organize interfaces and data along **"Time (rhythm) — Position (space) — Symbol (state)"** three axes.
-  - Decision Support: Output **action options** rather than single conclusions; configure **verifiable metrics** and **review timepoints** for each suggestion.
-  - Evidence Layering: Use A/B testing, user research, and observable metrics for quantifiable dimensions; present non-quantifiable dimensions as **heuristics** with uncertainty annotations.
-  - Ethics/Risk Control: Avoid sensitive/high-risk scenarios (medical/legal/securities); display **disclaimers** and help guidance.
-- **Engineering**: Abstract "numerological encoding" into **reusable components** (time coordinates = stems-branches/solar terms models; spatial coordinates = directions/scales; state machines = hexagram transitions), combined with modern data and observable metrics for **calibration and retrospection**.
-- **Team Standards**: README-first and CITATION-first — clarify **vision, scope, and citations** before implementation (README-first helps align goals).
+### Academic Research
+- **Philosophical Exploration**: Research on the relationship between divination and science
+- **Methodology Building**: Framework for applying divination in modern decision-making
+- **Interdisciplinary Research**: Combining psychology, sociology, anthropology, and other disciplines
+
+### Entrepreneurial Application
+- **Product Design**: Product design methodology based on the philosophical framework
+- **Decision Support**: Decision support tools in uncertain contexts
+- **User Experience**: User experience design combining traditional wisdom and modern technology
+
+### Consultation Services
+- **Fee-based Consultation**: Professional consultation services based on the philosophical framework
+- **Corporate Training**: Decision support training for enterprises
+- **Academic Guidance**: Methodological guidance for researchers
 
 ## 🗺️ Roadmap
 
 ### Version 1.0.0
-* [ ] Complete lecture materials for "Is Divination Science?"
-* [ ] Release templates: Slides (Keynote/PowerPoint), Speaker Notes (Markdown)
-* [ ] Establish community contribution process
+* [ ] Complete "Is Divination Science?" lecture materials
+* [ ] Establish philosophical framework documentation
 * [ ] Complete bilingual documentation
+* [ ] Establish community contribution process
 
 ### Version 1.1.0  
-* [ ] Add more lecture content
-* [ ] Develop automation tools
+* [ ] Develop decision support tools
+* [ ] Expand consultation services
 * [ ] Establish academic collaboration network
 * [ ] Expand multilingual support
+
+### Version 2.0.0
+* [ ] APP development (business secrets part)
+* [ ] Private repository access management
+* [ ] Commercial operations
+* [ ] Academic achievement publication
+
+## 🔒 Open Source vs. Commercial Boundaries
+
+### Open Source Shared
+- Philosophical framework and thinking methods
+- Academic discussions and research
+- Basic tools and templates
+
+### Business Secrets
+- APP core algorithms and content
+- Advanced consultation services
+- Commercial application cases
+
+### Donor Privileges
+- Access to private repository `@https://github.com/xianyu564/prediction_Surplus`
+- Participation in social science/anthropology/ethnography research
+- In-depth exploration of prediction overload issues
