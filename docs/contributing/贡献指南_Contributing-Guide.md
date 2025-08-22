@@ -1,7 +1,7 @@
 # 贡献指南 / Contributing Guide
 
 感谢您对"玄学是科学吗？"项目的关注！我们欢迎各种形式的贡献。
-Thank you for your interest in the "Is Divination Science?" project! We welcome contributions of all kinds.
+Thank you for your interest in the "Is Fortune-Telling Science?" project! We welcome contributions of all kinds.
 
 ## 🤝 如何贡献 / How to Contribute
 

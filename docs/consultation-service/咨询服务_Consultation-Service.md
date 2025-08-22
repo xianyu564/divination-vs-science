@@ -3,7 +3,7 @@
 ## 🎯 服务概述 / Service Overview
 
 基于"玄学是科学吗？"的哲学框架，我们提供专业的咨询服务，帮助个人和组织在不确定情境下做出更好的决策。
-Based on the philosophical framework of "Is Divination Science?", we provide professional consultation services to help individuals and organizations make better decisions in uncertain situations.
+Based on the philosophical framework of "Is Fortune-Telling Science?", we provide professional consultation services to help individuals and organizations make better decisions in uncertain situations.
 
 ## 🔒 服务性质 / Service Nature
 

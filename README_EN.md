@@ -11,7 +11,7 @@
 **[English](README_EN.md)** | **[中文](README.md)** | **[More Languages](LANGUAGES.md)**
 
 > Lecture Slides / Speaker Notes / Extended Readings  
-> Philosophical Discussion Starting from "Is Divination Science?"
+> Philosophical Discussion Starting from "Is Fortune-Telling Science?"
 
 ## 🎯 Project Positioning
 
@@ -27,7 +27,7 @@
 - 💼 **Commercial Use**: Requires separate licensing
 
 ### Core Question
-We start with a fundamental question: **"Is Divination Science?"**
+We start with a fundamental question: **"Is Fortune-Telling Science?"**
 
 Through exploring the relationship between divination and science, we gradually delve into the philosophical framework of **Eastern divination systems (numerology, fortune-telling, feng shui)** and discuss their application in modern decision support.
 
@@ -105,7 +105,7 @@ For commercial use of this repository content, please contact us for **commercia
 
 ## 🌟 Core Features
 
-- **🎯 Philosophical Exploration**: Deep thinking starting from "Is Divination Science?"
+- **🎯 Philosophical Exploration**: Deep thinking starting from "Is Fortune-Telling Science?"
 - **🔬 Scientific Methods**: Empirical methods for measurable aspects
 - **🚀 Entrepreneurial Application**: Startup methodology based on the philosophical framework
 - **🌍 Multilingual Support**: Bilingual documentation in Chinese and English

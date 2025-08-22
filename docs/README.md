@@ -2,7 +2,7 @@
 
 欢迎来到"玄学是科学吗？"项目的文档中心！
 
-Welcome to the "Is Divination Science?" Project Documentation Center!
+Welcome to the "Is Fortune-Telling Science?" Project Documentation Center!
 
 ## 🌍 语言版本 / Language Versions
 

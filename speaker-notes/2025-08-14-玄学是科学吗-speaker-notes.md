@@ -1,5 +1,5 @@
 # 《玄学是科学吗？》讲者笔记
-## Speaker Notes for "Is Divination Science?"
+## Speaker Notes for "Is Fortune-Telling Science?"
 
 ### 基本信息
 - **讲座标题**: 玄学是科学吗？

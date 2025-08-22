@@ -31,13 +31,6 @@ For commercial use of this repository content, please contact us for **commercia
 - 💰 费用：根据使用范围和商业价值协商定价
 - 📋 授权范围：包括商业改编、商业分发、商业应用等
 
-### 💼 商业使用许可通道 / Commercial Use Licensing Channel
-如需商业使用本仓库内容，请联系我们获取**商业使用许可**：
-For commercial use of this repository content, please contact us for **commercial use licensing**:
-- 📧 邮箱：z_zz@u.nus.edu
-- 💰 费用：根据使用范围和商业价值协商定价
-- 📋 授权范围：包括商业改编、商业分发、商业应用等
-
 ## 🎯 项目定位 / Project Positioning
 
 ### 开源共享部分 / Open Source Shared Components
@@ -45,13 +38,12 @@ For commercial use of this repository content, please contact us for **commercia
 - **方法论**：术数在现代决策中的应用方法 / **Methodology**: Methods for applying divination in modern decision-making
 - **学术讨论**：相关学术研究和讨论 / **Academic Discussion**: Related academic research and discussions
 - **社区改编权限**：允许翻译、讲义再整理等非商业改编 / **Community Adaptation Rights**: Allows translation, lecture notes reorganization, and other non-commercial adaptations
-- **社区改编**：允许社区进行翻译、讲义再整理等非商业改编 / **Community Adaptation**: Allows community translation, lecture notes reorganization, and other non-commercial adaptations
 
 ### 商业应用部分 / Commercial Application Components
 - **咨询服务**：基于哲学框架的收费咨询服务 / **Consultation Services**: Fee-based consultation services based on the philosophical framework
 - **APP开发**：基于术数的商业应用（商业机密） / **APP Development**: Commercial applications based on divination (business secrets)
 - **创业项目**：按照哲学框架指导的创业实践 / **Startup Projects**: Entrepreneurial practices guided by the philosophical framework
-- **商业授权**：为商业用户提供专门的商业使用许可 / **Commercial Licensing**: Provides specialized commercial use licenses for business users
+- **商业使用许可**：为商业用户提供专门的商业使用许可 / **Commercial Use Licensing**: Provides specialized commercial use licenses for business users
 
 ## 🧭 指导思想 / Guiding Principles
 
@@ -110,7 +102,7 @@ For commercial use of this repository content, please contact us for **commercia
 ## 🗺️ 路线图 / Roadmap
 
 ### 版本 1.0.0 / Version 1.0.0
-* [ ] 完善"玄学是科学吗？"讲座材料 / Complete "Is Divination Science?" lecture materials
+* [ ] 完善"玄学是科学吗？"讲座材料 / Complete "Is Fortune-Telling Science?" lecture materials
 * [ ] 建立哲学框架文档 / Establish philosophical framework documentation
 * [ ] 完善中英双语文档 / Complete bilingual documentation
 * [ ] 建立社区贡献流程 / Establish community contribution process
@@ -140,13 +132,8 @@ For commercial use of this repository content, please contact us for **commercia
 - 高级咨询服务 / Advanced consultation services
 - 商业应用案例 / Commercial application cases
 
-### 商业授权通道 / Commercial Licensing Channel
-- **商业使用许可**：为商业用户提供专门的商业授权 / **Commercial Use Licensing**: Provides specialized commercial licensing for business users
-- **定制化服务**：根据商业需求提供定制化解决方案 / **Customized Services**: Provides customized solutions based on business needs
-- **长期合作**：建立长期商业合作伙伴关系 / **Long-term Partnerships**: Establishes long-term business partnerships
-
-### 商业授权通道 / Commercial Licensing Channel
-- **商业使用许可**：为商业用户提供专门的商业授权 / **Commercial Use Licensing**: Provides specialized commercial licensing for business users
+### 商业使用许可通道 / Commercial Use Licensing Channel
+- **商业使用许可**：为商业用户提供专门的商业使用许可 / **Commercial Use Licensing**: Provides specialized commercial use licenses for business users
 - **定制化服务**：根据商业需求提供定制化解决方案 / **Customized Services**: Provides customized solutions based on business needs
 - **长期合作**：建立长期商业合作伙伴关系 / **Long-term Partnerships**: Establishes long-term business partnerships
 

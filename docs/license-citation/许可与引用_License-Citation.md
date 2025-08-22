@@ -50,7 +50,7 @@ The repository root provides `CITATION.cff` for automatic recognition by academi
 * 尊重学术资料的版权与署名规范；严格引用来源。
 * **引用文献遵循原文献版权**：转载引用的已有文献按原文献许可条款执行。
 * **内容仅限开源社区传播**：禁止商业使用，但允许社区改编和再整理。
-* **🚨 商业使用需单独授权**：如需商业使用，请联系获取商业许可。
+* **🚨 商业使用需单独授权**：如需商业使用，请联系获取商业使用许可。
 
 ### English
 * Do not provide **high-risk advice** in medical, legal, securities, etc.; do not replace professional services.
@@ -58,13 +58,13 @@ The repository root provides `CITATION.cff` for automatic recognition by academi
 * Respect copyright and attribution standards for academic materials; strictly cite sources.
 * **Referenced literature follows original copyright**: Reprinted referenced existing literature follows original license terms.
 * **Content distribution limited to open source communities**: Commercial use prohibited, but community adaptation and reorganization allowed.
-* **🚨 Commercial use requires separate licensing**: For commercial use, please contact us for commercial licensing.
+* **🚨 Commercial use requires separate licensing**: For commercial use, please contact us for commercial use licensing.
 
 ## 📋 引用规范 / Citation Guidelines
 
 ### 学术引用格式 / Academic Citation Format
 ```
-Zhang, Z. (2025). Is Divination Science?: Philosophical Framework and Applications
+Zhang, Z. (2025). Is Fortune-Telling Science?: Philosophical Framework and Applications
 [Computer software]. https://github.com/xianyu564/divination-vs-science
 ```
 

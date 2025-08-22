@@ -15,8 +15,8 @@
 
 ## 🚨 重要说明：部分开源仓库 / Important Note: Partially Open Source Repository
 
-**本仓库采用双授权模式**：社区使用遵循CC BY-NC-SA 4.0，商业使用需单独授权。
-**This repository adopts a dual-licensing model**: Community use follows CC BY-NC-SA 4.0, commercial use requires separate licensing.
+**本仓库采用混合授权模式**：社区使用遵循CC BY-NC-SA 4.0，商业使用需单独授权。
+**This repository adopts a hybrid licensing model**: Community use follows CC BY-NC-SA 4.0, commercial use requires separate licensing.
 
 ### 💼 商业使用许可通道 / Commercial Use Licensing Channel
 如需商业使用本仓库内容，请联系我们获取**商业使用许可**：
@@ -134,7 +134,7 @@ We will gradually open some repository privileges and invite beta testing. Howev
   - 改编作品需按相同许可分享
   - 禁止商业使用  
 
-- **商业使用**：如需商业授权，请邮件沟通"**双授权**"路径（商用单独签约，不影响 CC/开源分享）
+- **商业使用**：如需商业使用许可，请邮件沟通"**混合授权**"路径（商用单独签约，不影响 CC/开源分享）
 
 ---
 
@@ -164,9 +164,9 @@ If you haven't registered your name, please leave a message after support throug
 
 ### 💼 商业合作 / Business Cooperation
 如需商业使用或商业合作：/ For commercial use or business cooperation:
-- 📧 商业许可申请：z_zz@u.nus.edu / Commercial licensing: z_zz@u.nus.edu
+- 📧 商业使用许可申请：z_zz@u.nus.edu / Commercial use licensing: z_zz@u.nus.edu
 - 💼 商业咨询服务：基于哲学框架的专业咨询 / Business consultation services: Professional consultation based on philosophical framework
-- 🤝 长期合作伙伴：优先获得商业授权和定制服务 / Long-term partners: Priority access to commercial licensing and customized services
+- 🤝 长期合作伙伴：优先获得商业使用许可和定制服务 / Long-term partners: Priority access to commercial use licensing and customized services
 
 ---
 
