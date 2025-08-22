@@ -1,5 +1,7 @@
 # 赞助支持 / Sponsorship & Support
 
+> 本仓库面向公共知识分享与产品方法论沉淀。赞助是自愿的“支持”，不是购买服务或股权承诺。
+
 ## 💝 赞助性质声明 / Sponsorship Nature
 
 **重要说明**: 本项目的赞助**并非用作盈利收益**，而是对作者研究工作的支持与认可。支付即表达您对作者学术探索和知识分享的支持。
@@ -53,6 +55,7 @@ We will gradually open some repository privileges and invite beta testing. Howev
 <div align="center">
   <img src="../../.github/WeChat Sponsor Code.jpg" alt="微信赞助码 WeChat Sponsor Code" width="220" />
   <img src="../../.github/SG PayNow Sponsor Code.jpg" alt="PayNow赞助码 PayNow Sponsor Code" width="220" />
+  <img src="../../.github/Start-up Company Code.jpg" alt="创业公司聚合码 Start-up Company Code" width="220" />
 </div>
 
 **开通流程（手动）**  

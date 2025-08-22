@@ -39,6 +39,18 @@ Welcome to the "Is Divination Science?" Project Documentation Center!
 3. 了解资金使用情况
 4. **获得私密仓库访问权限**
 
+### 💰 快速赞助 / Quick Sponsorship
+
+#### GitHub Sponsors（推荐）
+[![GitHub Sponsors](https://img.shields.io/badge/GitHub%20Sponsors-Support%20Me-red?style=for-the-badge&logo=github)](https://github.com/sponsors/xianyu564)
+
+#### 扫码赞助 / QR Code Sponsorship
+<div align="center">
+  <img src="../.github/WeChat Sponsor Code.jpg" alt="微信赞助码" width="120" />
+  <img src="../.github/SG PayNow Sponsor Code.jpg" alt="PayNow赞助码" width="120" />
+  <img src="../.github/Start-up Company Code.jpg" alt="创业公司聚合码" width="120" />
+</div>
+
 ### 商业客户 / Business Clients
 1. 查看[咨询服务](consultation-service/咨询服务_Consultation-Service.md)了解服务内容
 2. 了解基于哲学框架的商业应用

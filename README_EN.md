@@ -104,7 +104,25 @@ For commercial use of this repository content, please contact us for **commercia
 - Different benefits based on donation amount
 - **🔐 Core Benefit: Access to private repository `@https://github.com/xianyu564/prediction_Surplus`**
 
+### 💰 Sponsorship Channels
+
+#### 1️⃣ GitHub Sponsors (Recommended)
 [![GitHub Sponsors](https://img.shields.io/badge/GitHub%20Sponsors-Support%20Me-red?style=for-the-badge&logo=github)](https://github.com/sponsors/xianyu564)
+- Auto-grant private repository access
+- Still under review, stay tuned
+
+#### 2️⃣ Direct Support to Author
+<div align="center">
+  <img src=".github/WeChat Sponsor Code.jpg" alt="WeChat Sponsor Code" width="150" />
+  <img src=".github/SG PayNow Sponsor Code.jpg" alt="PayNow Sponsor Code" width="150" />
+</div>
+
+#### 3️⃣ Support Startup Company
+<div align="center">
+  <img src=".github/Start-up Company Code.jpg" alt="Start-up Company Code" width="150" />
+</div>
+
+**Note**: After sponsoring via WeChat/PayNow/Company QR code, please email z_zz@u.nus.edu to get private repository access.
 
 ## 🔗 Important Links
 

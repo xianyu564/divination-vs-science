@@ -106,7 +106,25 @@
 - 按捐赠金额获得不同权益
 - **🔐 核心权益：访问私密仓库 `@https://github.com/xianyu564/prediction_Surplus`**
 
+### 💰 赞助渠道 / Sponsorship Channels
+
+#### 1️⃣ GitHub Sponsors（推荐）
 [![GitHub Sponsors](https://img.shields.io/badge/GitHub%20Sponsors-Support%20Me-red?style=for-the-badge&logo=github)](https://github.com/sponsors/xianyu564)
+- 自动开通私密仓库访问权限
+- 仍在审核中，敬请期待
+
+#### 2️⃣ 直接支持作者
+<div align="center">
+  <img src=".github/WeChat Sponsor Code.jpg" alt="微信赞助码" width="150" />
+  <img src=".github/SG PayNow Sponsor Code.jpg" alt="PayNow赞助码" width="150" />
+</div>
+
+#### 3️⃣ 支持创业公司
+<div align="center">
+  <img src=".github/Start-up Company Code.jpg" alt="创业公司聚合码" width="150" />
+</div>
+
+**注意**: 使用微信/PayNow/公司聚合码赞助后，请发送邮件至 z_zz@u.nus.edu 获取私密仓库访问权限。
 
 ## 🔗 重要链接 / Important Links
 
