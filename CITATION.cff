@@ -1,11 +1,23 @@
-```yaml
 cff-version: 1.2.0
-title: "Is Divination Science?"
+title: "Xiangshu Cosmos Playbook: Is Divination Science? / 象数宇宙观 Playbook: 玄学是科学吗？"
 authors:
   - family-names: Zhang 张
     given-names: Ziyang 子阳
-    preferred-names: Xianyu 衔瑜
+    preferred-name: Xianyu 衔瑜
+    orcid: ""
+    email: z_zz@u.nus.edu
+abstract: "A systematic exploration of Eastern divination (numerology, fortune-telling, feng shui) and its relationship with modern science, presented as slides, speaker notes, and extended readings for academic and startup product design guidance."
+keywords:
+  - divination
+  - science
+  - Chinese philosophy
+  - traditional knowledge
+  - decision making
+  - heuristics
+license: CC-BY-NC-ND-4.0
 doi: ""
 date-released: "2025-08-22"
-url: "https://github.com/yourname/is-divination-science"
-message: "If you use these slides/notes, please cite this repository."
+url: "https://github.com/xianyu564/divination-vs-science"
+repository-code: "https://github.com/xianyu564/divination-vs-science"
+type: dataset
+message: "If you use these materials in your research or work, please cite this repository. / 如果您在研究或工作中使用了这些材料，请引用此仓库。"

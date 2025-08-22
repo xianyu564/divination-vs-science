@@ -1,33 +1,35 @@
-# 贡献指南 (Contributing Guide)
+# 贡献指南 / Contributing Guide
 
 感谢您对"象数宇宙观 Playbook"项目的关注！我们欢迎各种形式的贡献。
 
+Thank you for your interest in the "Xiangshu Cosmos Playbook" project! We welcome contributions of all kinds.
+
 ## 🤝 如何贡献
 
-### 1. 报告问题 (Report Issues)
-如果您发现了问题或有改进建议，请：
-- 使用 [Issues](https://github.com/xianyu564/divination-vs-science/issues) 页面
-- 选择适当的标签（bug、enhancement、documentation等）
-- 提供详细的问题描述和复现步骤
+### 1. 报告问题 / Report Issues
+如果您发现了问题或有改进建议，请：/ If you find issues or have improvement suggestions, please:
+- 使用 [Issues](https://github.com/xianyu564/divination-vs-science/issues) 页面 / Use the Issues page
+- 选择适当的标签（bug、enhancement、documentation等）/ Select appropriate labels (bug, enhancement, documentation, etc.)
+- 提供详细的问题描述和复现步骤 / Provide detailed problem description and reproduction steps
 
-### 2. 提交代码 (Submit Code)
-如果您想贡献代码或内容：
+### 2. 提交内容 / Submit Content
+如果您想贡献代码或内容：/ If you want to contribute code or content:
 
-#### 内容贡献
-- **幻灯片改进**: 优化现有幻灯片的设计、内容或结构
-- **讲者笔记**: 补充或改进讲者笔记
-- **延伸阅读**: 添加新的学术资料或阅读材料
-- **翻译**: 将内容翻译成其他语言
+#### 内容贡献 / Content Contributions
+- **幻灯片改进 / Slide Improvements**: 优化现有幻灯片的设计、内容或结构 / Optimize design, content, or structure of existing slides
+- **讲者笔记 / Speaker Notes**: 补充或改进讲者笔记 / Supplement or improve speaker notes
+- **延伸阅读 / Extended Readings**: 添加新的学术资料或阅读材料 / Add new academic materials or reading materials
+- **翻译 / Translation**: 将内容翻译成其他语言 / Translate content into other languages
 
-#### 代码贡献
-- **工具开发**: 开发相关的工具或脚本
-- **模板改进**: 优化现有模板
-- **自动化**: 改进工作流程或自动化脚本
+#### 代码贡献 / Code Contributions
+- **工具开发 / Tool Development**: 开发相关的工具或脚本 / Develop related tools or scripts
+- **模板改进 / Template Improvements**: 优化现有模板 / Optimize existing templates
+- **自动化 / Automation**: 改进工作流程或自动化脚本 / Improve workflows or automation scripts
 
-### 3. 文档改进 (Documentation)
-- 改进README文件
-- 添加使用说明
-- 完善注释和文档
+### 3. 文档改进 / Documentation Improvements
+- 改进README文件 / Improve README files
+- 添加使用说明 / Add usage instructions
+- 完善注释和文档 / Improve comments and documentation
 
 ## 📋 贡献流程
 
