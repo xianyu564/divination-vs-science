@@ -21,10 +21,29 @@
 - **内容部分**：按 CC BY-NC-SA 4.0 许可证（非商业使用，允许改编）
 - **商业使用**：需单独授权
 
+**"部分开源"的含义**：
+- ✅ **内容完全开放**：slides、speaker notes、readings等核心内容对所有用户开放
+- 🔒 **部分权益**：赞助者获得私密仓库访问等额外权益
+- 💼 **商业使用**：需要单独授权
+
 ### 核心问题
 我们从一个根本问题开始：**"玄学是科学吗？"**
 
 通过探讨玄学与科学的关系，我们逐步深入到**东方术数(命理、占卜、风水)**的哲学框架，并探讨其在现代决策支持中的应用。
+
+## 📚 立即开始探索 / Start Exploring Now
+
+### 🎯 核心内容（完全开放）
+<div align="center">
+  <img src="assets/Slides Front Page.png" alt="玄学是科学吗？讲座封面" width="400" />
+</div>
+
+**所有用户都可以访问的核心内容**：
+- 📖 **[讲座幻灯片](slides/)** - 完整的PPT演示文稿
+- 📝 **[讲者笔记](speaker-notes/)** - 详细的逐页讲解和脚本
+- 📚 **[延伸阅读](readings/)** - 学术参考资料和方法论
+
+> 💡 **提示**：建议从slides开始，快速了解核心观点，然后深入阅读speaker notes获取详细解释。
 
 ### 开源共享部分
 - **哲学框架**：关于玄学与科学关系的思考框架
@@ -44,9 +63,10 @@
 ## 🚀 快速开始 / Quick Start
 
 ### 📚 新用户 / New Users
-1. 阅读[项目概述](docs/project-overview/项目概述_Project-Overview.md)了解项目
-2. 查看[许可说明](docs/license-citation/许可与引用_License-Citation.md)了解使用条款
-3. 浏览[赞助支持](docs/sponsorship/赞助支持_Sponsorship-Support.md)了解如何支持项目
+1. **立即开始**：查看[讲座幻灯片](slides/)了解核心观点
+2. **深入理解**：阅读[讲者笔记](speaker-notes/)获取详细解释
+3. **扩展学习**：浏览[延伸阅读](readings/)获取学术资料
+4. 了解[项目概述](docs/project-overview/项目概述_Project-Overview.md)和[许可说明](docs/license-citation/许可与引用_License-Citation.md)
 
 ### 🤝 贡献者 / Contributors
 1. 阅读[贡献指南](docs/contributing/贡献指南_Contributing-Guide.md)了解贡献流程
@@ -54,9 +74,10 @@
 3. 参与社区讨论和开发
 
 ### 💝 捐赠者 / Sponsors
-1. 查看[赞助支持](docs/sponsorship/赞助支持_Sponsorship-Support.md)了解权益
-2. 浏览[捐赠者名单](docs/sponsors-list.md)查看记录
-3. 了解资金使用情况
+1. **先体验内容**：查看slides和speaker notes，了解项目价值
+2. **支持发展**：查看[赞助支持](docs/sponsorship/赞助支持_Sponsorship-Support.md)了解权益
+3. 浏览[捐赠者名单](docs/sponsors-list.md)查看记录
+4. 了解资金使用情况
 
 ### 💼 商业客户 / Business Clients
 1. 查看[咨询服务](docs/consultation-service/咨询服务_Consultation-Service.md)了解服务内容
@@ -92,6 +113,8 @@
 - **🔐 私密访问**: 捐赠者获得私密仓库访问权限
 
 ## 💝 赞助支持 / Sponsorship
+
+> 💡 **温馨提示**：建议先体验项目内容，了解价值后再考虑赞助支持
 
 **重要说明**: 本项目的赞助**并非用作盈利收益**，而是对作者研究工作的支持与认可。
 

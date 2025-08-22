@@ -21,10 +21,29 @@
 - **Content**: CC BY-NC-SA 4.0 License (non-commercial use, adaptations allowed)
 - **Commercial use**: Requires separate licensing
 
+**"Partially Open Source" means**:
+- ✅ **Content Fully Open**: slides, speaker notes, readings and other core content are open to all users
+- 🔒 **Partial Benefits**: Sponsors receive additional benefits like private repository access
+- 💼 **Commercial Use**: Requires separate licensing
+
 ### Core Question
 We start with a fundamental question: **"Is Divination Science?"**
 
 Through exploring the relationship between divination and science, we gradually delve into the philosophical framework of **Eastern divination systems (numerology, fortune-telling, feng shui)** and discuss their application in modern decision support.
+
+## 📚 Start Exploring Now
+
+### 🎯 Core Content (Fully Open)
+<div align="center">
+  <img src="assets/Slides Front Page.png" alt="Is Fortune-Telling Science? Lecture Cover" width="400" />
+</div>
+
+**Core content accessible to all users**:
+- 📖 **[Lecture Slides](slides/)** - Complete PPT presentations
+- 📝 **[Speaker Notes](speaker-notes/)** - Detailed page-by-page explanations and scripts
+- 📚 **[Extended Readings](readings/)** - Academic references and methodologies
+
+> 💡 **Tip**: Start with slides to quickly understand core concepts, then dive into speaker notes for detailed explanations.
 
 ### Open Source Shared Components
 - **Philosophical Framework**: Thinking framework about the relationship between divination and science
@@ -44,9 +63,10 @@ For commercial use of this repository content, please contact us for **commercia
 ## 🚀 Quick Start
 
 ### 📚 New Users
-1. Read [Project Overview](docs/project-overview/项目概述_Project-Overview.md) to understand the project
-2. Check [License Information](docs/license-citation/许可与引用_License-Citation.md) for usage terms
-3. Browse [Sponsorship & Support](docs/sponsorship/赞助支持_Sponsorship-Support.md) to learn how to support
+1. **Start Immediately**: View [Lecture Slides](slides/) to understand core concepts
+2. **Deep Dive**: Read [Speaker Notes](speaker-notes/) for detailed explanations
+3. **Expand Learning**: Browse [Extended Readings](readings/) for academic materials
+4. Learn about [Project Overview](docs/project-overview/项目概述_Project-Overview.md) and [License Information](docs/license-citation/许可与引用_License-Citation.md)
 
 ### 🤝 Contributors
 1. Read [Contributing Guide](docs/contributing/贡献指南_Contributing-Guide.md) for contribution process
@@ -54,9 +74,10 @@ For commercial use of this repository content, please contact us for **commercia
 3. Participate in community discussion and development
 
 ### 💝 Sponsors
-1. View [Sponsorship & Support](docs/sponsorship/赞助支持_Sponsorship-Support.md) for benefits
-2. Browse [Sponsors List](docs/sponsors-list.md) for records
-3. Learn about fund usage
+1. **Experience Content First**: View slides and speaker notes to understand project value
+2. **Support Development**: View [Sponsorship & Support](docs/sponsorship/赞助支持_Sponsorship-Support.md) for benefits
+3. Browse [Sponsors List](docs/sponsors-list.md) for records
+4. Learn about fund usage
 
 ### 💼 Business Clients
 1. View [Consultation Service](docs/consultation-service/咨询服务_Consultation-Service.md) for service details
@@ -92,6 +113,8 @@ For commercial use of this repository content, please contact us for **commercia
 - **🔐 Private Access**: Donors receive access to private repository
 
 ## 💝 Sponsorship & Support
+
+> 💡 **Friendly Reminder**: We recommend experiencing the project content first to understand its value before considering sponsorship
 
 **Important Note**: Sponsorship for this project is **NOT for profit**, but rather support and recognition for the author's research work.
 
