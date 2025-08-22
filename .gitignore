@@ -152,7 +152,7 @@ site/
 # 项目特定忽略 / Project-specific ignores
 # ========================================
 
-# 讲座文件（赞助者专属内容） / Lecture files (sponsor-exclusive content)
+# 讲座文件（维护仓库完整性） / Lecture files (maintaining repository integrity)
 *.pdf
 *.ppt
 *.pptx
@@ -162,6 +162,12 @@ site/
 *.mov
 *.wav
 *.m4a
+
+# 例外：share-sample目录中的示例文件（用于展示框架内容）
+# Exception: Sample files in share-sample directory (for showcasing framework content)
+!share-sample/**/*.pdf
+!share-sample/**/*.mp3
+!share-sample/**/*.mp4
 
 # 办公文档 / Office documents
 *.doc

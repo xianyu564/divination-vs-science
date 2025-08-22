@@ -23,6 +23,12 @@ knowledge/
 │       ├── Is Divination Science 玄学是科学吗？20250822.pdf
 │       ├── Is Divination Science 玄学是科学吗？20250822.pptx
 │       └── Is Divination Science 玄学是科学吗？20250822-speaker-notes.md
+├── share-sample/               # 🎯 框架展示样本
+│   ├── README.md               # 获取说明
+│   ├── sample-lecture-excerpt_讲座节选.pdf
+│   ├── sample-framework-demo_框架演示.pdf
+│   ├── sample-audio-intro_音频介绍.mp3
+│   └── sample-video-preview_视频预览.mp4
 ├── faq/                        # ❓ 常见问题
 │   └── 玄学与科学边界常见问题_FAQ.md
 ├── resources/                   # 📚 学术资源
@@ -36,6 +42,31 @@ knowledge/
     ├── Term of service -- English.md
     └── Private Consultation Price List.png
 ```
+
+## 🎯 框架展示样本 / Framework Showcase Samples
+
+### 📋 获取说明 / Access Instructions
+
+**所有用户**（普通用户和捐赠用户）都可以通过以下方式获取完整的讲座文件：
+**All users** (regular users and donors) can obtain complete lecture files through the following methods:
+
+1. **GitHub Issues**: [提交请求](https://github.com/xianyu564/divination-vs-science/issues) / [Submit request](https://github.com/xianyu564/divination-vs-science/issues)
+2. **Pull Request**: 贡献内容后请求访问 / Request access after contributing content  
+3. **邮件联系**: z_zz@u.nus.edu / Email contact: z_zz@u.nus.edu
+
+### 🌟 设计理念 / Design Philosophy
+
+- **维护仓库完整性**：保持GitHub仓库的整洁和云端可持续性 / **Maintain repository integrity**: Keep GitHub repository clean and cloud sustainable
+- **欢迎捐赠行为**：我们欢迎捐赠的**行为**而非实际金额 / **Welcome donation behavior**: We welcome the **act** of donation rather than the actual amount
+- **保持纯洁性**：维护捐赠行为的纯洁性和GitHub社区的整齐 / **Maintain purity**: Preserve the purity of donation behavior and GitHub community tidiness
+- **命理学革新**：部分开源是开发者进行命理学革新理想的一部分 / **Numerology innovation**: Partial open source is part of the developer's ideal for numerology innovation
+
+### 📁 示例文件 / Sample Files
+
+- `sample-lecture-excerpt_讲座节选.pdf` - 讲座内容节选，展示核心思想 / Lecture content excerpt showcasing core ideas
+- `sample-framework-demo_框架演示.pdf` - 哲学框架的可视化演示 / Visual demonstration of philosophical framework
+- `sample-audio-intro_音频介绍.mp3` - 项目音频介绍 / Audio introduction to the project
+- `sample-video-preview_视频预览.mp4` - 讲座内容视频预览 / Video preview of lecture content
 
 ## 🎓 讲座材料 / Lecture Materials
 
