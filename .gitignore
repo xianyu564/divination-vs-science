@@ -153,6 +153,7 @@ site/
 # ========================================
 
 # 讲座文件（维护仓库完整性） / Lecture files (maintaining repository integrity)
+# 所有讲座相关的多媒体文件都不上传到仓库 / All lecture-related multimedia files are not uploaded to repository
 *.pdf
 *.ppt
 *.pptx
@@ -162,12 +163,17 @@ site/
 *.mov
 *.wav
 *.m4a
+*.flac
+*.aac
 
 # 例外：knowledge/share-sample目录中的示例文件（用于展示框架内容）
 # Exception: Sample files in knowledge/share-sample directory (for showcasing framework content)
 !knowledge/share-sample/**/*.pdf
 !knowledge/share-sample/**/*.mp3
 !knowledge/share-sample/**/*.mp4
+
+# 注意：已被Git跟踪的文件需要手动使用 git rm --cached 移除跟踪
+# Note: Files already tracked by Git need to be manually removed from tracking using git rm --cached
 
 # 办公文档 / Office documents
 *.doc
