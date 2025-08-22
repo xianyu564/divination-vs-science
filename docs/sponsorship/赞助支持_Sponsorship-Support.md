@@ -17,87 +17,114 @@ For commercial use of this repository content, please contact us for **commercia
 - 💰 费用：根据使用范围和商业价值协商定价
 - 📋 授权范围：包括商业改编、商业分发、商业应用等
 
-## 🎯 赞助用途 / Support Usage
+## 🎯 资金用途 / Use of Funds
 
-您的支持将用于：/ Your support will be used for:
-- 📚 持续更新讲座内容与学术资料 / Continuous updates of lecture content and academic materials
-- 🛠️ 开发开源工具与模板 / Development of open source tools and templates  
-- 🎪 举办线下/线上分享活动 / Organizing offline/online sharing events
-- 🔬 支持相关学术研究 / Supporting related academic research
-- 📖 维护开源社区资源 / Maintaining open source community resources
-- 🚀 **支持初创项目发展** / **Supporting startup project development**
-- 🌟 **提升个人生活品质** / **Enhancing personal quality of life**
+- 📚 持续更新讲座与延伸阅读  
+- 🛠️ 开源工具与模板开发  
+- 🎪 线下/线上分享与材料制作  
+- 🔬 相关学术研究（社会科学/人类学/自然科学/形式科学）（仓库主要是以人类学为主的）  
+- 📖 社区资源维护与文档化  
+- 🚀 初创项目验证与试点  
+- 🌟 创作者可持续投入（时间/设备）
 
-## 🌟 赞助方式 / Sponsorship Methods
+## ⚠️ 重要声明 / Important Disclaimer
 
-### GitHub Sponsors
-[![GitHub Sponsors](https://img.shields.io/badge/GitHub%20Sponsors-Support%20Me-red?style=for-the-badge&logo=github)](https://github.com/sponsors/xianyu564)
+我们将会分批次开放部分的仓库权益，同时邀请部分内测体验。但是**sponsor并不与除了承认捐赠/捐赠上墙外的任何权益相挂钩**。受限与能力和精力，我将会把主要的精力放在哲学思辨和代码开发上，并不代表有任何强制性的sponsor约束和权益对等。
 
-### 其他支付方式 / Alternative Payment Methods
-- **微信支付 (WeChat Pay)**: 扫描下方二维码 / Scan QR code below
-- **PayNow**: 新加坡本地银行转账 / Singapore local bank transfer
+We will gradually open some repository privileges and invite beta testing. However, **sponsorship is NOT tied to any benefits other than donation acknowledgment/recognition**. Limited by capacity and energy, I will focus mainly on philosophical thinking and code development, and this does not represent any mandatory sponsor constraints or benefit reciprocity.
+
+## 🌟 赞助渠道 / Channels
+
+### 1) GitHub Sponsors（推荐 | 可自动开通权限）
+- 入口：<https://github.com/sponsors/xianyu564>  
+- Stripe 审核通过后将启用本地化出入金与月度结算；具体出账节奏由 GitHub/Stripe 侧规则执行。
+
+**自动权益（仅限月度分层）**  
+- 赞助成功后，系统**自动授予**与你的分层对应的**赞助者专属私密仓库**访问权；到期或取消将自动收回，无需人工维护。
+
+> 说明：GitHub 的"赞助者专属仓库"可以直接挂到某一**月度分层**上，由平台自动同步成员，避免手动加协作者的人力开销。
+
+---
+
+### 2) 直接支持作者（中国大陆/新加坡）
+- **微信支付 WeChat Pay**：扫码（见下）  
+- **PayNow（SG）**：本地转账（见下）
 
 <div align="center">
-  <img src="../../.github/WeChat Sponsor Code.jpg" alt="微信赞助码 WeChat Sponsor Code" width="200" />
-  <img src="../../.github/SG PayNow Sponsor Code.jpg" alt="PayNow赞助码 PayNow Sponsor Code" width="200" />
+  <img src="../../.github/WeChat Sponsor Code.jpg" alt="微信赞助码 WeChat Sponsor Code" width="220" />
+  <img src="../../.github/SG PayNow Sponsor Code.jpg" alt="PayNow赞助码 PayNow Sponsor Code" width="220" />
 </div>
 
-## 🏆 捐赠者权益 / Donor Benefits
+**开通流程（手动）**  
+1. 完成转账后，发送邮件至 **z_zz@u.nus.edu**（标题：`Sponsor Access`），附：  
+   - 你的 **GitHub 用户名**  
+   - 付款**截图**（遮盖隐私信息即可）  
+2. 我将在收到邮件后**尽快**手动为你开通对应的私密仓库访问（与 GitHub Sponsors 自动开通不同，直接赞助需人工处理）。  
+> 备注：GitHub 平台只对**月度分层**提供"自动授予/收回"权限；一次性打赏/站外渠道需要人工校对。
 
-### 🎁 核心权益：访问私密仓库 / Core Benefit: Access to Private Repository
-**所有捐赠者**都将获得访问私密仓库的权限：/ **All donors** will receive access to the private repository:
-- 🔐 访问 `@https://github.com/xianyu564/prediction_Surplus` / Access to `@https://github.com/xianyu564/prediction_Surplus`
-- 📊 参与社会科学/人类学/民族志研究 / Participate in social science/anthropology/ethnography research
-- 🧠 深度探讨预测过载问题 / Deep exploration of prediction overload issues
-- 💡 获得前沿研究洞察 / Gain insights into cutting-edge research
+---
 
-### 在新Release中留下名字 / Recognition in New Releases
-- 所有捐赠者将在项目的新版本发布时被特别感谢 / All donors will be specially thanked when new versions of the project are released
-- 在Release Notes中列出捐赠者名单 / Donor names will be listed in Release Notes
-- 在项目更新日志中记录您的贡献 / Your contributions will be recorded in project update logs
+### 3) 支持我的创业小公司（聚合码）
+- **公司收款聚合码**：用于团队与活动开支（请在备注中写 `Company Support`）。  
+- 企业转账后同样可按"开通流程（手动）"获取访问权限与开具收据。
 
-### 列入项目捐赠者名单 / Inclusion in Project Donor List
-- 在 `docs/sponsors-list.md` 中永久记录您的名字 / Your name will be permanently recorded in `docs/sponsors-list.md`
-- 可选择显示您的GitHub用户名或真实姓名 / You can choose to display your GitHub username or real name
-- 按捐赠金额和时间进行分类展示 / Categorized display by donation amount and time
+---
 
-### 特殊权益 / Special Benefits
-- **小额捐赠者 (≤$10)**: 在捐赠者名单中留下名字 + 私密仓库访问权限 / **Small Donors (≤$10)**: Name listed in donor list + Private repository access
-- **中额捐赠者 ($11-$50)**: Release Notes特别感谢 + 私密仓库访问权限 / **Medium Donors ($11-$50)**: Special thanks in Release Notes + Private repository access
-- **大额捐赠者 ($51+)**: 项目主页和文档特别致谢 + 私密仓库访问权限 / **Large Donors ($51+)**: Special acknowledgment on project homepage and documentation + Private repository access
-- **持续捐赠者**: 获得"持续支持者"徽章 + 私密仓库访问权限 / **Continuous Donors**: Receive "Continuous Supporter" badge + Private repository access
+## 🏆 权益说明 / Benefits
 
-## 🔐 私密仓库内容说明 / Private Repository Content Description
+> 权益是"访问与参与"的便利，不改变本仓库内容的**版权许可**（内容类 CC BY-NC-SA；代码类 MIT）。
 
-### 研究领域 / Research Areas
-- **社会科学**: 社会预测模型和行为分析 / **Social Science**: Social prediction models and behavioral analysis
-- **人类学**: 文化背景下的决策模式研究 / **Anthropology**: Decision pattern research in cultural contexts
-- **民族志**: 田野调查和实地研究数据 / **Ethnography**: Field research and on-site study data
-- **预测过载**: 信息时代决策疲劳的解决方案 / **Prediction Overload**: Solutions for decision fatigue in the information age
+A0. 提出的问题会优先被管理员和维护者看到；可以向管理员索要更为精细的备份及前沿资料
 
-### 访问方式 / Access Methods
-1. 通过GitHub Sponsors捐赠后自动获得访问权限 / Automatic access granted after donation through GitHub Sponsors
-2. 其他支付方式捐赠后，我们将手动添加您为协作者 / Manual addition as collaborator after donation through other payment methods
-3. 访问权限在捐赠确认后24小时内生效 / Access rights activated within 24 hours after donation confirmation
+### A. 赞助者专属私密仓库
+- 研究备忘、讲义草稿、方法论实验记录  
+- 赞助者讨论区、路线图草案、早期材料  
+- 平台通过**赞助分层**自动/半自动授予访问（详上）。
 
-## 📋 透明度承诺 / Transparency Commitment
+### B. 署名致谢 / Recognition
+- 可选择 **匿名 / 化名 / 署名（姓名 + @GitHub）** 三种方式；默认**匿名**，需要署名请在赞助备注或邮件中明确写明。  
+- 新版本发布（Release Notes）与 `docs/sponsors-list.md` 滚动致谢；金额不默认公开，仅按**分层**致谢，尊重隐私。
 
-- 所有赞助资金仅用于上述学术和社区目的 / All sponsorship funds are used only for the above academic and community purposes
-- 定期在项目状态文件中公布资金使用情况 / Regular disclosure of fund usage in project status files
-- 保持项目的非商业性质和开放性 / Maintain the non-commercial nature and openness of the project
-- 每季度发布资金使用报告 / Quarterly financial usage reports
+### C. 分层建议 / Suggested Tiers（可在 GitHub Sponsors 配置）
+- **Supporter**：读者层，致谢 + 访问专属仓库  
+- **Contributor**：参与讨论与路演投票  
+- **Partner**：小额"共建"层，优先试用与反馈通道  
+> 设置分层时，可在 GitHub Sponsors 后台把对应私密仓库挂到该层，支付成功即自动邀请。
 
-## 📊 资金使用报告 / Fund Usage Report
+---
 
-### 2025年Q3 (计划) / 2025 Q3 (Planned)
-- 讲座内容更新: 30% / Lecture content updates: 30%
-- 开源工具开发: 25% / Open source tool development: 25%
-- 初创项目支持: 25% / Startup project support: 25%
-- 个人生活品质提升: 20% / Personal quality of life enhancement: 20%
+## 🔐 访问与合规 / Access & Compliance
 
-### 资金分配原则 / Fund Allocation Principles
-- 70% 用于项目发展和社区建设 / 70% for project development and community building
-- 30% 用于支持个人发展和初创项目 / 30% for supporting personal development and startup projects
+- 访问权与分层绑定，对应**在赞助期内**有效；到期自动失效（GitHub 自动处理）。  
+- 赞助不构成服务承诺、结果承诺或个别咨询的合同关系；不提供医疗/法律/证券等高风险建议。  
+- 平台与条款：赞助人与被赞助人需遵守 GitHub 相关条款与 Sponsors 附加条款；平台保留根据政策中止或调整功能的权利。
+
+---
+
+## 📜 许可与再利用 / License & Reuse
+
+- **内容（slides/notes/readings）**：见根目录 `LICENSE-CONTENT`（CC BY-NC-SA 4.0 许可）。  
+- **代码与脚本**：见 `LICENSE-CODE`（MIT）。  
+- 赞助不改变许可条款；如需商业授权，请邮件沟通"**双授权**"路径（商用单独签约，不影响 CC/开源分享）。
+
+---
+
+## 🧾 透明度 / Transparency
+
+- 每季度在 `PROJECT_STATUS.md` 披露使用概览与里程碑对账。  
+- 若使用 GitHub Sponsors，将在 Sponsors Dashboard 同步展示赞助概况与分层说明。
+
+---
+
+## 📝 未登记记名说明 / Unregistered Recognition
+
+如未登记记名，请在支持后在以下渠道留言：
+If you haven't registered your name, please leave a message after support through the following channels:
+
+- **GitHub Issues**: [项目Issues页面](https://github.com/xianyu564/divination-vs-science/issues)
+- **邮箱**: z_zz@u.nus.edu（标题：`Sponsor Recognition`）
+
+---
 
 ## 🤝 联系信息 / Contact Information
 

@@ -1,7 +1,7 @@
 # 玄学是科学吗？/ Is Divination Science?
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 [![GitHub stars](https://img.shields.io/github/stars/xianyu564/divination-vs-science)](https://github.com/xianyu564/divination-vs-science/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/xianyu564/divination-vs-science)](https://github.com/xianyu564/divination-vs-science/network)
 [![GitHub issues](https://img.shields.io/badge/GitHub%20issues-0-brightgreen)](https://github.com/xianyu564/divination-vs-science/issues)
