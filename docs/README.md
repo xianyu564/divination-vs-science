@@ -6,22 +6,23 @@ Welcome to the "Is Fortune-Telling Science?" Project Documentation Center!
 
 ## 🌍 语言版本 / Language Versions
 
-### 🚨 重要说明：部分开源仓库 / Important Note: Partially Open Source Repository
-**本仓库采用混合授权模式** / **This repository adopts a hybrid licensing model**：
-- **代码部分**：按 MIT 许可证完全开源 / **Code**: Completely open source under MIT license
-- **内容部分**：按 CC BY-NC-SA 4.0 许可证（非商业使用，允许改编） / **Content**: Under CC BY-NC-SA 4.0 license (non-commercial use, adaptations allowed)
-- **商业使用**：需单独授权 / **Commercial Use**: Requires separate licensing
+### 🚨 重要说明：智慧共享与技术保留 / Important Note: Wisdom Sharing & Technical Preservation
+**本仓库采用辩证的开放模式** / **This repository adopts a dialectical open model**：
+- **技术部分**：保留商业价值，因为技术本身具有商业属性 / **Technical**: Commercial value preserved as technology has inherent commercial attributes
+- **哲学思辨**：公开共享，因为这是人类智慧的边界拓展 / **Philosophical**: Openly shared as this expands the boundaries of human wisdom
+- **最终目标**：让传统智慧通过技术手段进一步到达人们身边 / **Ultimate Goal**: Bringing traditional wisdom closer to people through technological means
+- **理想主义**：通过技术的商业获利和通过智慧的公开共享，最终都服务于同一个理想 / **Idealism**: Both commercial technology gains and open wisdom sharing ultimately serve the same ideal
 
 ## 📚 知识内容中心 / Knowledge Content Center
 
-> 💡 **注意**：本 `docs/` 文件夹包含**技术文档**，**知识内容**请访问 `knowledge/` 文件夹
-> 💡 **Note**: This `docs/` folder contains **technical documentation**, for **knowledge content** please visit the `knowledge/` folder
+> 💡 **注意**：本 `docs/` 文件夹包含**技术文档**，**哲学思辨材料**请访问 `knowledge/` 文件夹
+> 💡 **Note**: This `docs/` folder contains **technical documentation**, for **philosophical materials** please visit the `knowledge/` folder
 
-### 🧠 知识内容 / Knowledge Content
-- [讲座材料](../knowledge/lectures/) - 讲座PPT、讲者笔记、录音transcript、视频链接 / Lecture materials, speaker notes, audio transcripts, video links
-- [常见问题](../knowledge/faq/) - 玄学与科学边界的FAQ / FAQ on the boundary between metaphysics and science
-- [学术资源](../knowledge/resources/) - 论文、书籍、链接 / Papers, books, links
-- [咨询服务](../knowledge/consultation-service/) - 专业咨询服务 / Professional consultation services
+### 🧠 哲学思辨材料 / Philosophical Materials
+- [讲座材料](../knowledge/lectures/) - 探索命理、占卜、风水等传统智慧在当代科技社会中的意义 / Exploring the significance of traditional wisdom (divination, fortune-telling, feng shui) in contemporary technological society
+- [常见问题](../knowledge/faq/) - 玄学与科学边界的哲学探讨 / Philosophical exploration of the boundary between metaphysics and science
+- [学术资源](../knowledge/resources/) - 人类智慧边界拓展的研究资料 / Research materials on expanding the boundaries of human wisdom
+- [咨询服务](../knowledge/consultation-service/) - 基于哲学框架的专业指导 / Professional guidance based on philosophical framework
 
 ## 📋 技术文档 / Technical Documentation
 
@@ -112,4 +113,4 @@ If you encounter problems while finding documentation:
 
 **注意 / Note**: 
 - 建议优先阅读您熟悉的语言版本，然后参考其他语言版本进行对比。 / It's recommended to read the version in your familiar language first, then refer to other language versions for comparison.
-- 本 `docs/` 文件夹专注于**技术文档**，**知识内容**请访问 `knowledge/` 文件夹。 / This `docs/` folder focuses on **technical documentation**, for **knowledge content** please visit the `knowledge/` folder.
+- 本 `docs/` 文件夹专注于**技术文档**，**哲学思辨材料**请访问 `knowledge/` 文件夹。 / This `docs/` folder focuses on **technical documentation**, for **philosophical materials** please visit the `knowledge/` folder.
