@@ -45,9 +45,15 @@ Welcome to the "Is Divination Science?" Project Documentation Center!
 [![GitHub Sponsors](https://img.shields.io/badge/GitHub%20Sponsors-Support%20Me-red?style=for-the-badge&logo=github)](https://github.com/sponsors/xianyu564)
 
 #### 扫码赞助 / QR Code Sponsorship
+
+**个人赞助 / Personal Sponsorship**
 <div align="center">
   <img src="../.github/WeChat Sponsor Code.jpg" alt="微信赞助码" width="120" />
   <img src="../.github/SG PayNow Sponsor Code.jpg" alt="PayNow赞助码" width="120" />
+</div>
+
+**公司赞助 / Corporate Sponsorship**
+<div align="center">
   <img src="../.github/Start-up Company Code.jpg" alt="创业公司聚合码" width="120" />
 </div>
 

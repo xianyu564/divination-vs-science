@@ -111,13 +111,15 @@ For commercial use of this repository content, please contact us for **commercia
 - Auto-grant private repository access
 - Still under review, stay tuned
 
-#### 2️⃣ Direct Support to Author
+#### 2️⃣ Personal Sponsorship
+**For individual supporters, supporting the author's research work**
 <div align="center">
   <img src=".github/WeChat Sponsor Code.jpg" alt="WeChat Sponsor Code" width="150" />
   <img src=".github/SG PayNow Sponsor Code.jpg" alt="PayNow Sponsor Code" width="150" />
 </div>
 
-#### 3️⃣ Support Startup Company
+#### 3️⃣ Corporate Sponsorship
+**For businesses/organizations, supporting startup project development**
 <div align="center">
   <img src=".github/Start-up Company Code.jpg" alt="Start-up Company Code" width="150" />
 </div>

@@ -1,11 +1,17 @@
 # 赞助支持 / Sponsorship & Support
 
-> 本仓库面向公共知识分享与产品方法论沉淀。赞助是自愿的“支持”，不是购买服务或股权承诺。
+> 本仓库面向公共知识分享与产品方法论沉淀。赞助是自愿的"支持"，不是购买服务或股权承诺。
 
-## 💝 赞助性质声明 / Sponsorship Nature
+---
 
-**重要说明**: 本项目的赞助**并非用作盈利收益**，而是对作者研究工作的支持与认可。支付即表达您对作者学术探索和知识分享的支持。
-**Important Note**: Sponsorship for this project is **NOT for profit**, but rather support and recognition for the author's research work. Payment expresses your support for the author's academic exploration and knowledge sharing.
+## 💝 赞助性质 / Nature of Sponsorship
+
+- 赞助用于**研究与社区**，非营利分配；不构成雇佣、服务采购或股权/分红权利。  
+- Sponsorship supports **research and community work**. It is **not** a purchase, service contract, or equity/royalty.
+
+> 注：GitHub Sponsors 是原生平台功能；你也可用本页其他渠道支持。GitHub 不向个人赞助收取平台服务费（可能有支付通道成本/组织账户费率）。
+
+---
 
 ## 🚨 重要说明：部分开源仓库 / Important Note: Partially Open Source Repository
 
@@ -19,21 +25,27 @@ For commercial use of this repository content, please contact us for **commercia
 - 💰 费用：根据使用范围和商业价值协商定价
 - 📋 授权范围：包括商业改编、商业分发、商业应用等
 
+---
+
 ## 🎯 资金用途 / Use of Funds
 
 - 📚 持续更新讲座与延伸阅读  
 - 🛠️ 开源工具与模板开发  
 - 🎪 线下/线上分享与材料制作  
-- 🔬 相关学术研究（社会科学/人类学/自然科学/形式科学）（仓库主要是以人类学为主的）  
+- 🔬 相关学术研究（社会科学/人类学）  
 - 📖 社区资源维护与文档化  
 - 🚀 初创项目验证与试点  
 - 🌟 创作者可持续投入（时间/设备）
+
+---
 
 ## ⚠️ 重要声明 / Important Disclaimer
 
 我们将会分批次开放部分的仓库权益，同时邀请部分内测体验。但是**sponsor并不与除了承认捐赠/捐赠上墙外的任何权益相挂钩**。受限与能力和精力，我将会把主要的精力放在哲学思辨和代码开发上，并不代表有任何强制性的sponsor约束和权益对等。
 
 We will gradually open some repository privileges and invite beta testing. However, **sponsorship is NOT tied to any benefits other than donation acknowledgment/recognition**. Limited by capacity and energy, I will focus mainly on philosophical thinking and code development, and this does not represent any mandatory sponsor constraints or benefit reciprocity.
+
+---
 
 ## 🌟 赞助渠道 / Channels
 
@@ -48,14 +60,13 @@ We will gradually open some repository privileges and invite beta testing. Howev
 
 ---
 
-### 2) 直接支持作者（中国大陆/新加坡）
+### 2) 个人赞助 / Personal Sponsorship（中国大陆/新加坡）
 - **微信支付 WeChat Pay**：扫码（见下）  
 - **PayNow（SG）**：本地转账（见下）
 
 <div align="center">
   <img src="../../.github/WeChat Sponsor Code.jpg" alt="微信赞助码 WeChat Sponsor Code" width="220" />
   <img src="../../.github/SG PayNow Sponsor Code.jpg" alt="PayNow赞助码 PayNow Sponsor Code" width="220" />
-  <img src="../../.github/Start-up Company Code.jpg" alt="创业公司聚合码 Start-up Company Code" width="220" />
 </div>
 
 **开通流程（手动）**  
@@ -67,19 +78,21 @@ We will gradually open some repository privileges and invite beta testing. Howev
 
 ---
 
-### 3) 支持我的创业小公司（聚合码）
+### 3) 公司赞助 / Corporate Sponsorship（创业公司聚合码）
 - **公司收款聚合码**：用于团队与活动开支（请在备注中写 `Company Support`）。  
 - 企业转账后同样可按"开通流程（手动）"获取访问权限与开具收据。
+
+<div align="center">
+  <img src="../../.github/Start-up Company Code.jpg" alt="创业公司聚合码 Start-up Company Code" width="220" />
+</div>
 
 ---
 
 ## 🏆 权益说明 / Benefits
 
-> 权益是"访问与参与"的便利，不改变本仓库内容的**版权许可**（内容类 CC BY-NC-SA；代码类 MIT）。
+> 权益是"访问与参与"的便利，不改变本仓库内容的**版权许可**（内容类 CC BY-NC-SA 4.0；代码类 MIT）。
 
-A0. 提出的问题会优先被管理员和维护者看到；可以向管理员索要更为精细的备份及前沿资料
-
-### A. 赞助者专属私密仓库
+### A. 赞助者专属私密仓库（核心权益）
 - 研究备忘、讲义草稿、方法论实验记录  
 - 赞助者讨论区、路线图草案、早期材料  
 - 平台通过**赞助分层**自动/半自动授予访问（详上）。
@@ -141,6 +154,8 @@ If you haven't registered your name, please leave a message after support throug
 - 📧 商业许可申请：z_zz@u.nus.edu / Commercial licensing: z_zz@u.nus.edu
 - 💼 商业咨询服务：基于哲学框架的专业咨询 / Business consultation services: Professional consultation based on philosophical framework
 - 🤝 长期合作伙伴：优先获得商业授权和定制服务 / Long-term partners: Priority access to commercial licensing and customized services
+
+---
 
 ## 🙏 致谢 / Acknowledgments
 
