@@ -1,8 +1,12 @@
-### Is Divination Science?
-### 玄学是科学吗？
+# 象数宇宙观 Playbook（Xiangshu Cosmos Playbook）
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+[![GitHub stars](https://img.shields.io/github/stars/xianyu564/divination-vs-science)](https://github.com/xianyu564/divination-vs-science/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/xianyu564/divination-vs-science)](https://github.com/xianyu564/divination-vs-science/network)
+[![GitHub issues](https://img.shields.io/github/issues/xianyu564/divination-vs-science)](https://github.com/xianyu564/divination-vs-science/issues)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/xianyu564/divination-vs-science)](https://github.com/xianyu564/divination-vs-science/pulls)
 
-# 启发式象数模型 Heuristic Model for I Ching (Pictorial Mathematics)
 > 演讲幻灯片 / 讲者笔记 / 延伸阅读 | Startup 产品设计的指导思想与方法论
 
 本仓库公开汇集我关于**东方术数（命理、占卜、风水）**的系统化思考与应用实践：  
@@ -27,7 +31,7 @@
 
 .
 ├── slides/ # 幻灯片（PDF/PPTX）
-│   └── Is Divination Science? 玄学是科学吗？.pptx | .PDF
+│   └── 2025-08-14-玄学是科学吗/
 ├── speaker-notes/ # 讲者笔记（逐页提词/口播稿）
 ├── readings/ # 延伸阅读（含门牌与注释）
 ├── templates/ # 幻灯片与笔记模版（.pptx/.md）
