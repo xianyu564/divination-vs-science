@@ -1,0 +1,11 @@
+```yaml
+cff-version: 1.2.0
+title: "Is Divination Science?"
+authors:
+  - family-names: Zhang 张
+    given-names: Ziyang 子阳
+    preferred-names: Xianyu 衔瑜
+doi: ""
+date-released: "2025-08-22"
+url: "https://github.com/yourname/is-divination-science"
+message: "If you use these slides/notes, please cite this repository."
