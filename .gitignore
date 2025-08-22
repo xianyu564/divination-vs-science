@@ -152,22 +152,18 @@ site/
 # 项目特定忽略 / Project-specific ignores
 # ========================================
 
-# 讲座录音和视频文件 / Lecture recordings and videos
-*.mp3
-*.mp4
-*.avi
-*.mov
-*.wav
-*.m4a
-
-# 大型二进制文件 / Large binary files
-*.pdf
-*.ppt
+# 可编辑的办公文档（保留PDF讲座文件） / Editable office documents (keep PDF lecture files)
 *.pptx
+*.ppt
 *.doc
 *.docx
 *.xls
 *.xlsx
+
+# 注意：以下文件类型是项目核心内容，需要版本控制
+# Note: The following file types are core project content and need version control
+# - *.pdf (讲座文件 / Lecture files)
+# - *.mp3, *.mp4, *.wav (讲座录音和视频 / Lecture recordings and videos)
 
 # 图片文件（保留在assets中的） / Image files (keep those in assets)
 # 注意：.github/assets/中的图片文件应该被版本控制
