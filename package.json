@@ -1,7 +1,7 @@
 {
   "name": "divination-vs-science",
   "version": "1.0.0",
-  "description": "象数宇宙观 Playbook - 探索占卜与科学关系的项目",
+  "description": "Is Fortune-Telling Science? - Philosophical Framework and Applications / 玄学是科学吗？：哲学框架与应用",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -14,17 +14,19 @@
     "divination",
     "science",
     "philosophy",
-    "traditional-knowledge",
-    "decision-making",
+    "traditional-wisdom",
+    "decision-support",
     "chinese-philosophy",
-    "metaphysics"
+    "metaphysics",
+    "startup-methodology"
   ],
   "author": {
     "name": "Ziyang Zhang",
-    "email": "xianyu564@gmail.com",
+    "email": "z_zz@u.nus.edu",
     "url": "https://github.com/xianyu564"
   },
-  "license": "MIT",
+  "code-license": "MIT",
+  "content-license": "CC-BY-NC-SA-4.0",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/xianyu564/divination-vs-science.git"
@@ -40,12 +42,12 @@
     "node": ">=18.0.0"
   },
   "files": [
-    "slides/",
-    "speaker-notes/",
-    "readings/",
-    "templates/",
-    "assets/",
+    "knowledge/",
+    "docs/",
+    ".github/",
     "*.md",
-    "*.cff"
+    "*.cff",
+    "LICENSE-CODE",
+    "LICENSE-CONTENT"
   ]
 }
