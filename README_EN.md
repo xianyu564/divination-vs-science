@@ -117,14 +117,14 @@ For commercial use of this repository content, please contact us for **commercia
 #### 2️⃣ Personal Sponsorship
 **For individual supporters, supporting the author's research work**
 <div align="center">
-  <img src=".github/WeChat Sponsor Code.jpg" alt="WeChat Sponsor Code" width="150" />
-  <img src=".github/SG PayNow Sponsor Code.jpg" alt="PayNow Sponsor Code" width="150" />
+  <img src="assets/WeChat Sponsor Code.jpg" alt="WeChat Sponsor Code" width="150" />
+  <img src="assets/SG PayNow Sponsor Code.jpg" alt="PayNow Sponsor Code" width="150" />
 </div>
 
 #### 3️⃣ Corporate Sponsorship
 **For businesses/organizations, supporting startup project development**
 <div align="center">
-  <img src=".github/Start-up Company Code.jpg" alt="Start-up Company Code" width="150" />
+  <img src="assets/Start-up Company Code.PNG" alt="Start-up Company Code" width="150" />
 </div>
 
 **Note**: After sponsoring via WeChat/PayNow/Company QR code, please email z_zz@u.nus.edu to get private repository access.

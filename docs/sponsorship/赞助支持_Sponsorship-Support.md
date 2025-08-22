@@ -65,8 +65,8 @@ We will gradually open some repository privileges and invite beta testing. Howev
 - **PayNow（SG）**：本地转账（见下）
 
 <div align="center">
-  <img src="../../.github/WeChat Sponsor Code.jpg" alt="微信赞助码 WeChat Sponsor Code" width="220" />
-  <img src="../../.github/SG PayNow Sponsor Code.jpg" alt="PayNow赞助码 PayNow Sponsor Code" width="220" />
+  <img src="../../assets/WeChat Sponsor Code.jpg" alt="微信赞助码 WeChat Sponsor Code" width="220" />
+  <img src="../../assets/SG PayNow Sponsor Code.jpg" alt="PayNow赞助码 PayNow Sponsor Code" width="220" />
 </div>
 
 **开通流程（手动）**  
@@ -83,7 +83,7 @@ We will gradually open some repository privileges and invite beta testing. Howev
 - 企业转账后同样可按"开通流程（手动）"获取访问权限与开具收据。
 
 <div align="center">
-  <img src="../../.github/Start-up Company Code.jpg" alt="创业公司聚合码 Start-up Company Code" width="220" />
+  <img src="../../assets/Start-up Company Code.PNG" alt="创业公司聚合码 Start-up Company Code" width="220" />
 </div>
 
 ---

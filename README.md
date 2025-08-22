@@ -119,14 +119,14 @@
 #### 2️⃣ 个人赞助 / Personal Sponsorship
 **适用于个人支持者，支持作者的研究工作**
 <div align="center">
-  <img src=".github/WeChat Sponsor Code.jpg" alt="微信赞助码" width="150" />
-  <img src=".github/SG PayNow Sponsor Code.jpg" alt="PayNow赞助码" width="150" />
+  <img src="assets/WeChat Sponsor Code.jpg" alt="微信赞助码" width="150" />
+  <img src="assets/SG PayNow Sponsor Code.jpg" alt="PayNow赞助码" width="150" />
 </div>
 
 #### 3️⃣ 公司赞助 / Corporate Sponsorship
 **适用于企业/组织，支持创业项目发展**
 <div align="center">
-  <img src=".github/Start-up Company Code.jpg" alt="创业公司聚合码" width="150" />
+  <img src="assets/Start-up Company Code.PNG" alt="创业公司聚合码" width="150" />
 </div>
 
 **注意**: 使用微信/PayNow/公司聚合码赞助后，请发送邮件至 z_zz@u.nus.edu 获取私密仓库访问权限。

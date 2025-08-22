@@ -51,13 +51,13 @@ Welcome to the "Is Divination Science?" Project Documentation Center!
 
 **个人赞助 / Personal Sponsorship**
 <div align="center">
-  <img src="../.github/WeChat Sponsor Code.jpg" alt="微信赞助码" width="120" />
-  <img src="../.github/SG PayNow Sponsor Code.jpg" alt="PayNow赞助码" width="120" />
+  <img src="../assets/WeChat Sponsor Code.jpg" alt="微信赞助码" width="120" />
+  <img src="../assets/SG PayNow Sponsor Code.jpg" alt="PayNow赞助码" width="120" />
 </div>
 
 **公司赞助 / Corporate Sponsorship**
 <div align="center">
-  <img src="../.github/Start-up Company Code.jpg" alt="创业公司聚合码" width="120" />
+  <img src="../assets/Start-up Company Code.PNG" alt="创业公司聚合码" width="120" />
 </div>
 
 ### 商业客户 / Business Clients
