@@ -33,22 +33,22 @@
 ## 🚀 快速开始 / Quick Start
 
 ### 📚 新用户 / New Users
-1. 阅读[项目概述](docs/zh/project-overview.md)了解项目
-2. 查看[许可说明](docs/zh/license-citation.md)了解使用条款
-3. 浏览[赞助支持](docs/zh/sponsorship.md)了解如何支持项目
+1. 阅读[项目概述](docs/project-overview/项目概述_Project-Overview.md)了解项目
+2. 查看[许可说明](docs/license-citation/许可与引用_License-Citation.md)了解使用条款
+3. 浏览[赞助支持](docs/sponsorship/赞助支持_Sponsorship-Support.md)了解如何支持项目
 
 ### 🤝 贡献者 / Contributors
-1. 阅读[贡献指南](docs/zh/contributing.md)了解贡献流程
+1. 阅读[贡献指南](docs/contributing/贡献指南_Contributing-Guide.md)了解贡献流程
 2. 查看[项目状态](PROJECT_STATUS.md)了解当前进展
 3. 参与社区讨论和开发
 
 ### 💝 捐赠者 / Sponsors
-1. 查看[赞助支持](docs/zh/sponsorship.md)了解权益
+1. 查看[赞助支持](docs/sponsorship/赞助支持_Sponsorship-Support.md)了解权益
 2. 浏览[捐赠者名单](docs/sponsors-list.md)查看记录
 3. 了解资金使用情况
 
 ### 💼 商业客户 / Business Clients
-1. 查看[咨询服务](docs/zh/consultation-service.md)了解服务内容
+1. 查看[咨询服务](docs/consultation-service/咨询服务_Consultation-Service.md)了解服务内容
 2. 了解基于哲学框架的商业应用
 3. 探讨长期合作可能性
 
@@ -62,8 +62,10 @@
 ├── templates/                 # 模板文件 / Template files
 ├── assets/                    # 资源文件 / Assets
 ├── docs/                      # 📚 详细文档 / Detailed documentation
-│   ├── zh/                    # 中文文档 / Chinese docs
-│   ├── en/                    # 英文文档 / English docs
+│   ├── project-overview/      # 项目概述 / Project overview
+│   ├── license-citation/      # 许可与引用 / License & citation
+│   ├── sponsorship/           # 赞助支持 / Sponsorship & support
+│   ├── contributing/          # 贡献指南 / Contributing guide
 │   ├── consultation-service/  # 咨询服务 / Consultation service
 │   └── sponsors-list.md       # 捐赠者名单 / Sponsors list
 └── .github/                   # GitHub 配置 / GitHub configs
@@ -101,10 +103,10 @@
 ## 🔗 重要链接 / Important Links
 
 - 📚 [详细文档](docs/README.md) - 完整项目文档
-- 🤝 [贡献指南](docs/zh/contributing.md) - 如何参与项目
-- 📄 [许可说明](docs/zh/license-citation.md) - 使用条款和引用
-- 💝 [赞助支持](docs/zh/sponsorship.md) - 赞助详情和权益
-- 💼 [咨询服务](docs/zh/consultation-service.md) - 商业服务详情
+- 🤝 [贡献指南](docs/contributing/贡献指南_Contributing-Guide.md) - 如何参与项目
+- 📄 [许可说明](docs/license-citation/许可与引用_License-Citation.md) - 使用条款和引用
+- 💝 [赞助支持](docs/sponsorship/赞助支持_Sponsorship-Support.md) - 赞助详情和权益
+- 💼 [咨询服务](docs/consultation-service/咨询服务_Consultation-Service.md) - 商业服务详情
 - 📊 [项目状态](PROJECT_STATUS.md) - 当前进展和计划
 
 ## 🧩 免责声明 / Disclaimers
@@ -120,7 +122,7 @@
 - **GitHub**: [@xianyu564](https://github.com/xianyu564)
 - **邮箱**: z_zz@u.nus.edu
 - **问题反馈**: [GitHub Issues](https://github.com/xianyu564/divination-vs-science/issues)
-- **商业咨询**: [咨询服务](docs/zh/consultation-service.md)
+- **商业咨询**: [咨询服务](docs/consultation-service/咨询服务_Consultation-Service.md)
 
 ---
 

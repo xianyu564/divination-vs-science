@@ -6,45 +6,38 @@ Welcome to the "Is Divination Science?" Project Documentation Center!
 
 ## 🌍 语言版本 / Language Versions
 
-### 中文文档 / Chinese Documentation
-- [项目概述](zh/project-overview.md) - 项目简介、指导思想、目录结构
-- [许可与引用](zh/license-citation.md) - 许可证说明、学术引用、免责声明
-- [赞助支持](zh/sponsorship.md) - 赞助性质、用途、捐赠者权益
-- [贡献指南](zh/contributing.md) - 如何贡献、流程、规范
-- [咨询服务](zh/consultation-service.md) - 商业服务内容、收费标准、预约流程
-
-### English Documentation
-- [Project Overview](en/project-overview.md) - Project introduction, guiding principles, directory structure
-- [License & Citation](en/license-citation.md) - License information, academic citation, disclaimers
-- [Sponsorship & Support](en/sponsorship.md) - Sponsorship nature, usage, donor benefits
-- [Contributing Guide](en/contributing.md) - How to contribute, process, standards
-- [Consultation Service](en/consultation-service.md) - Business service content, pricing, booking process
+### 中英文合并文档 / Bilingual Documents
+- [项目概述](project-overview/项目概述_Project-Overview.md) - 项目简介、指导思想、目录结构
+- [许可与引用](license-citation/许可与引用_License-Citation.md) - 许可证说明、学术引用、免责声明
+- [赞助支持](sponsorship/赞助支持_Sponsorship-Support.md) - 赞助性质、用途、捐赠者权益
+- [贡献指南](contributing/贡献指南_Contributing-Guide.md) - 如何贡献、流程、规范
+- [咨询服务](consultation-service/咨询服务_Consultation-Service.md) - 商业服务内容、收费标准、预约流程
 
 ## 📚 通用文档 / Common Documents
 
-- [捐赠者名单](../docs/sponsors-list.md) - 所有捐赠者的记录和统计
+- [捐赠者名单](sponsors-list.md) - 所有捐赠者的记录和统计
 - [多语言支持](../LANGUAGES.md) - 多语言支持说明和翻译指南
 
 ## 🔍 快速导航 / Quick Navigation
 
 ### 新用户 / New Users
-1. 阅读[项目概述](zh/project-overview.md)了解项目
-2. 查看[许可与引用](zh/license-citation.md)了解使用条款
-3. 浏览[赞助支持](zh/sponsorship.md)了解如何支持项目
+1. 阅读[项目概述](project-overview/项目概述_Project-Overview.md)了解项目
+2. 查看[许可与引用](license-citation/许可与引用_License-Citation.md)了解使用条款
+3. 浏览[赞助支持](sponsorship/赞助支持_Sponsorship-Support.md)了解如何支持项目
 
 ### 贡献者 / Contributors
-1. 阅读[贡献指南](zh/contributing.md)了解贡献流程
+1. 阅读[贡献指南](contributing/贡献指南_Contributing-Guide.md)了解贡献流程
 2. 查看项目状态和路线图
 3. 参与社区讨论和开发
 
 ### 捐赠者 / Sponsors
-1. 查看[赞助支持](zh/sponsorship.md)了解权益
-2. 浏览[捐赠者名单](../docs/sponsors-list.md)查看记录
+1. 查看[赞助支持](sponsorship/赞助支持_Sponsorship-Support.md)了解权益
+2. 浏览[捐赠者名单](sponsors-list.md)查看记录
 3. 了解资金使用情况
 4. **获得私密仓库访问权限**
 
 ### 商业客户 / Business Clients
-1. 查看[咨询服务](zh/consultation-service.md)了解服务内容
+1. 查看[咨询服务](consultation-service/咨询服务_Consultation-Service.md)了解服务内容
 2. 了解基于哲学框架的商业应用
 3. 探讨长期合作可能性
 
@@ -52,24 +45,26 @@ Welcome to the "Is Divination Science?" Project Documentation Center!
 
 ```
 docs/
-├── README.md              # 本文档 / This document
-├── sponsors-list.md       # 捐赠者名单 / Sponsors list
-├── consultation-service/  # 咨询服务 / Consultation service
+├── README.md                    # 本文档 / This document
+├── sponsors-list.md             # 捐赠者名单 / Sponsors list
+├── project-overview/            # 项目概述 / Project overview
+│   └── 项目概述_Project-Overview.md
+├── license-citation/            # 许可与引用 / License & citation
+│   └── 许可与引用_License-Citation.md
+├── sponsorship/                 # 赞助支持 / Sponsorship & support
+│   └── 赞助支持_Sponsorship-Support.md
+├── contributing/                # 贡献指南 / Contributing guide
+│   └── 贡献指南_Contributing-Guide.md
+├── consultation-service/         # 咨询服务 / Consultation service
+│   ├── 咨询服务_Consultation-Service.md
 │   ├── 咨询前协议_中文.md
 │   ├── Term of service.md
 │   └── Private Consultation Price List.png
-├── zh/                    # 中文文档 / Chinese documentation
-│   ├── project-overview.md
-│   ├── license-citation.md
-│   ├── sponsorship.md
-│   ├── contributing.md
-│   └── consultation-service.md
-└── en/                    # 英文文档 / English documentation
-    ├── project-overview.md
-    ├── license-citation.md
-    ├── sponsorship.md
-    ├── contributing.md
-    └── consultation-service.md
+└── consultation-service/         # 咨询服务 / Consultation service
+    ├── 咨询服务_Consultation-Service.md
+    ├── 咨询前协议_中文.md
+    ├── Term of service.md
+    └── Private Consultation Price List.png
 ```
 
 ## 🆘 需要帮助？/ Need Help?

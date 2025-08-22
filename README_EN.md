@@ -33,22 +33,22 @@ Through exploring the relationship between divination and science, we gradually 
 ## 🚀 Quick Start
 
 ### 📚 New Users
-1. Read [Project Overview](docs/en/project-overview.md) to understand the project
-2. Check [License Information](docs/en/license-citation.md) for usage terms
-3. Browse [Sponsorship & Support](docs/en/sponsorship.md) to learn how to support
+1. Read [Project Overview](docs/project-overview/项目概述_Project-Overview.md) to understand the project
+2. Check [License Information](docs/license-citation/许可与引用_License-Citation.md) for usage terms
+3. Browse [Sponsorship & Support](docs/sponsorship/赞助支持_Sponsorship-Support.md) to learn how to support
 
 ### 🤝 Contributors
-1. Read [Contributing Guide](docs/en/contributing.md) for contribution process
+1. Read [Contributing Guide](docs/contributing/贡献指南_Contributing-Guide.md) for contribution process
 2. Check [Project Status](PROJECT_STATUS.md) for current progress
 3. Participate in community discussion and development
 
 ### 💝 Sponsors
-1. View [Sponsorship & Support](docs/en/sponsorship.md) for benefits
+1. View [Sponsorship & Support](docs/sponsorship/赞助支持_Sponsorship-Support.md) for benefits
 2. Browse [Sponsors List](docs/sponsors-list.md) for records
 3. Learn about fund usage
 
 ### 💼 Business Clients
-1. View [Consultation Service](docs/en/consultation-service.md) for service details
+1. View [Consultation Service](docs/consultation-service/咨询服务_Consultation-Service.md) for service details
 2. Understand commercial applications based on the philosophical framework
 3. Explore long-term partnership possibilities
 
@@ -62,8 +62,10 @@ Through exploring the relationship between divination and science, we gradually 
 ├── templates/                 # Template files
 ├── assets/                    # Assets
 ├── docs/                      # 📚 Detailed documentation
-│   ├── zh/                    # Chinese documentation
-│   ├── en/                    # English documentation
+│   ├── project-overview/      # Project overview
+│   ├── license-citation/      # License & citation
+│   ├── sponsorship/           # Sponsorship & support
+│   ├── contributing/          # Contributing guide
 │   ├── consultation-service/  # Consultation service
 │   └── sponsors-list.md       # Sponsors list
 └── .github/                   # GitHub configurations
@@ -99,10 +101,10 @@ Through exploring the relationship between divination and science, we gradually 
 ## 🔗 Important Links
 
 - 📚 [Detailed Documentation](docs/README.md) - Complete project documentation
-- 🤝 [Contributing Guide](docs/en/contributing.md) - How to participate
-- 📄 [License Information](docs/en/license-citation.md) - Usage terms and citation
-- 💝 [Sponsorship & Support](docs/en/sponsorship.md) - Sponsorship details and benefits
-- 💼 [Consultation Service](docs/en/consultation-service.md) - Business service details
+- 🤝 [Contributing Guide](docs/contributing/贡献指南_Contributing-Guide.md) - How to participate
+- 📄 [License Information](docs/license-citation/许可与引用_License-Citation.md) - Usage terms and citation
+- 💝 [Sponsorship & Support](docs/sponsorship/赞助支持_Sponsorship-Support.md) - Sponsorship details and benefits
+- 💼 [Consultation Service](docs/consultation-service/咨询服务_Consultation-Service.md) - Business service details
 - 📊 [Project Status](PROJECT_STATUS.md) - Current progress and plans
 
 ## 🧩 Disclaimers
@@ -118,7 +120,7 @@ Through exploring the relationship between divination and science, we gradually 
 - **GitHub**: [@xianyu564](https://github.com/xianyu564)
 - **Email**: z_zz@u.nus.edu
 - **Issue Feedback**: [GitHub Issues](https://github.com/xianyu564/divination-vs-science/issues)
-- **Business Consultation**: [Consultation Service](docs/en/consultation-service.md)
+- **Business Consultation**: [Consultation Service](docs/consultation-service/咨询服务_Consultation-Service.md)
 
 ---
 
