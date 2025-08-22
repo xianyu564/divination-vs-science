@@ -46,24 +46,16 @@ Through exploring the relationship between divination and science, we gradually 
 
 **Core content accessible to all users**:
 - 📖 **[Lecture Materials](knowledge/lectures/)** - Complete PPT presentations and speaker notes
-- 🎯 **[Framework Showcase Samples](knowledge/share-sample/)** - Public example files showcasing framework content
 - 🔍 **[FAQ](knowledge/faq/)** - Common questions about divination vs science boundaries
 - 📚 **[Academic Resources](knowledge/resources/)** - Papers, books, and links
 - 💼 **[Consultation Services](knowledge/consultation-service/)** - Professional consultation services
 
-> 💡 **Tip**: Start with framework showcase samples to understand the project, complete lecture files available via Issues, PR, or email.
-
-### 📋 Obtaining Complete Lecture Files
-
-**重要说明**：此规则仅用于维护本代码仓库的**完整性和云端可持续性**，与用户捐赠行为大小、金额等并无关系。对此处进行部分开源属于开发者进行**命理学革新理想**的一部分。
-
-**Important Note**: This policy is solely for maintaining the **integrity and cloud sustainability** of this code repository, and has no relationship with user donation behavior size, amount, etc. Partial open sourcing here is part of the developer's **ideal for numerology innovation**.
+> 💡 **Tip**: Start with lecture materials to quickly understand core concepts, then dive into FAQ and academic resources.
 
 ### Open Source Shared Components
 - **Philosophical Framework**: Thinking framework about the relationship between divination and science
 - **Methodology**: Methods for applying divination in modern decision-making
 - **Academic Discussion**: Related academic research and discussions
-- **Sample Showcase**: Showcase framework core content through share-sample directory
 
 ### Commercial Application Components
 - **Consultation Services**: Fee-based consultation services based on the philosophical framework
@@ -78,11 +70,10 @@ For commercial use of this repository content, please contact us for **commercia
 ## 🚀 Quick Start
 
 ### 📚 New Users
-1. **Start Immediately**: View [Framework Showcase Samples](knowledge/share-sample/) to quickly understand project content
-2. **Deep Learning**: Browse [Lecture Materials](knowledge/lectures/) to understand core concepts
-3. **Answer Questions**: Read [FAQ](knowledge/faq/) to resolve doubts
-4. **Expand Learning**: Browse [Academic Resources](knowledge/resources/) for academic materials
-5. Learn about [Project Overview](docs/project-overview/项目概述_Project-Overview.md) and [License Information](docs/license-citation/许可与引用_License-Citation.md)
+1. **Start Immediately**: View [Lecture Materials](knowledge/lectures/) to understand core concepts
+2. **Deep Dive**: Read [FAQ](knowledge/faq/) to answer questions
+3. **Expand Learning**: Browse [Academic Resources](knowledge/resources/) for academic materials
+4. Learn about [Project Overview](docs/project-overview/项目概述_Project-Overview.md) and [License Information](docs/license-citation/许可与引用_License-Citation.md)
 
 ### 🤝 Contributors
 1. Read [Contributing Guide](docs/contributing/贡献指南_Contributing-Guide.md) for contribution process
@@ -106,7 +97,6 @@ For commercial use of this repository content, please contact us for **commercia
 .
 ├── knowledge/                   # 🧠 Knowledge Content Center
 │   ├── lectures/               # Lecture materials (PPT, speaker notes, transcript, video links)
-│   ├── share-sample/           # Framework showcase samples (public example files)
 │   ├── faq/                    # FAQ (divination vs science boundaries)
 │   ├── resources/              # Academic resources
 │   │   ├── academic/           # Papers, books, links

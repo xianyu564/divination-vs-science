@@ -44,24 +44,17 @@
 
 **所有用户均可访问的核心内容**：
 - 📖 **[讲座材料](knowledge/lectures/)** - 完整的PPT演示和讲者笔记
-- 🎯 **[框架展示样本](knowledge/share-sample/)** - 公开示例文件，展示框架内容
 - 🔍 **[常见问题](knowledge/faq/)** - 玄学与科学边界的FAQ
 - 📚 **[学术资源](knowledge/resources/)** - 论文、书籍和链接
 - 💼 **[咨询服务](knowledge/consultation-service/)** - 专业咨询服务
+- 🎯 **[示例文件](share-sample/)** - 框架展示用示例文件
 
-> 💡 **提示**：从框架展示样本开始了解项目，完整讲座文件可通过Issues、PR或邮件获取。
-
-### 📋 获取完整讲座文件 / Obtaining Complete Lecture Files
-
-**重要说明**：此规则仅用于维护本代码仓库的**完整性和云端可持续性**，与用户捐赠行为大小、金额等并无关系。对此处进行部分开源属于开发者进行**命理学革新理想**的一部分。
-
-**Important Note**: This policy is solely for maintaining the **integrity and cloud sustainability** of this code repository, and has no relationship with user donation behavior size, amount, etc. Partial open sourcing here is part of the developer's **ideal for numerology innovation**.
+> 💡 **提示**：从讲座材料开始快速理解核心概念，然后深入FAQ和学术资源。
 
 ### 开源共享部分 / Open Source Shared Components
 - **哲学框架**：关于玄学与科学关系的思考框架
 - **方法论**：术数在现代决策中的应用方法
 - **学术讨论**：相关学术研究和讨论
-- **示例展示**：通过share-sample目录展示框架核心内容
 
 ### 商业应用部分 / Commercial Application Components
 - **咨询服务**：基于哲学框架的收费咨询服务
@@ -76,11 +69,10 @@
 ## 🚀 快速开始 / Quick Start
 
 ### 📚 新用户 / New Users
-1. **立即开始**：查看[框架展示样本](knowledge/share-sample/)快速了解项目内容
-2. **深入学习**：浏览[讲座材料](knowledge/lectures/)了解核心概念
-3. **解答疑惑**：阅读[常见问题](knowledge/faq/)解答疑惑
-4. **扩展学习**：浏览[学术资源](knowledge/resources/)获取学术材料
-5. 了解[项目概述](docs/project-overview/项目概述_Project-Overview.md)和[许可信息](docs/license-citation/许可与引用_License-Citation.md)
+1. **立即开始**：查看[讲座材料](knowledge/lectures/)了解核心概念
+2. **深入探索**：阅读[常见问题](knowledge/faq/)解答疑惑
+3. **扩展学习**：浏览[学术资源](knowledge/resources/)获取学术材料
+4. 了解[项目概述](docs/project-overview/项目概述_Project-Overview.md)和[许可信息](docs/license-citation/许可与引用_License-Citation.md)
 
 ### 🤝 贡献者 / Contributors
 1. 阅读[贡献指南](docs/contributing/贡献指南_Contributing-Guide.md)了解贡献流程
@@ -104,7 +96,6 @@
 .
 ├── knowledge/                   # 🧠 知识内容中心
 │   ├── lectures/               # 讲座材料（PPT、讲者笔记、录音transcript、视频链接）
-│   ├── share-sample/           # 框架展示样本（公开示例文件）
 │   ├── faq/                    # 常见问题（玄学与科学边界）
 │   ├── resources/              # 学术资源
 │   │   ├── academic/           # 论文、书籍、链接

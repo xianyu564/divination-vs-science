@@ -64,7 +64,6 @@ For commercial use of this repository content, please contact us for **commercia
 .
 ├── knowledge/                   # 🧠 知识内容中心
 │   ├── lectures/               # 讲座材料（PPT、讲者笔记、录音transcript、视频链接）
-│   ├── share-sample/           # 框架展示样本（公开示例文件）
 │   ├── faq/                    # 常见问题（玄学与科学边界）
 │   ├── resources/              # 学术资源
 │   │   ├── academic/           # 论文、书籍、链接

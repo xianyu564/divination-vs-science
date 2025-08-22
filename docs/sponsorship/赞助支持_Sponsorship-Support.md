@@ -1,6 +1,6 @@
 # 赞助支持 / Sponsorship & Support
 
-> 本仓库面向公共知识分享与产品方法论沉淀。赞助是自愿的"支持"，不是购买服务或股权承诺。
+> 本仓库面向公共知识分享与产品方法论沉淀。赞助是自愿的"支持"，体现了对知识普惠理想的认同，而非购买服务或股权承诺。
 
 ---
 
@@ -8,6 +8,12 @@
 
 - 赞助用于**研究与社区**，非营利分配；不构成雇佣、服务采购或股权/分红权利。  
 - Sponsorship supports **research and community work**. It is **not** a purchase, service contract, or equity/royalty.
+
+### 🌟 理想主义理念 / Idealistic Philosophy
+
+我们相信，在科技迸发的时代，传统的命理学和国学智慧正迎来前所未有的革新机遇。赞助行为本身体现了对"知识普惠"理想的认同，而非对具体金额的追求。通过GitHub这样的开放平台，我们践行着让智慧超越商业利益束缚，为全人类所共享的理想。
+
+**We believe that in this era of technological explosion, traditional numerology and Chinese classical wisdom are encountering unprecedented opportunities for innovation. Sponsorship itself reflects recognition of the ideal of "knowledge accessibility for all," rather than pursuit of specific amounts. Through open platforms like GitHub, we practice the ideal of letting wisdom transcend commercial interests and be shared by all humanity.**
 
 > 注：GitHub Sponsors 是原生平台功能；你也可用本页其他渠道支持。GitHub 不向个人赞助收取平台服务费（可能有支付通道成本/组织账户费率）。
 
@@ -43,6 +49,23 @@ For commercial use of this repository content, please contact us for **commercia
 我们将会分批次开放部分的仓库权益，同时邀请部分内测体验。但是**sponsor并不与除了承认捐赠/捐赠上墙外的任何权益相挂钩**。受限与能力和精力，我将会把主要的精力放在哲学思辨和代码开发上，并不代表有任何强制性的sponsor约束和权益对等。
 
 We will gradually open some repository privileges and invite beta testing. However, **sponsorship is NOT tied to any benefits other than donation acknowledgment/recognition**. Limited by capacity and energy, I will focus mainly on philosophical thinking and code development, and this does not represent any mandatory sponsor constraints or benefit reciprocity.
+
+### 🔗 获取完整内容 / Accessing Complete Content
+
+无论您是普通用户还是捐赠者，都可以通过以下方式获取完整的讲座文件：
+
+**Regardless of whether you are a regular user or a donor, you can access complete lecture files through the following methods:**
+
+1. **GitHub Issues**：在项目Issues中提出请求
+2. **Pull Request**：贡献代码或内容，建立合作关系
+3. **邮件联系**：发送邮件至 z_zz@u.nus.edu
+
+### 💡 理念说明 / Philosophical Notes
+
+- **与捐赠行为无关**：获取文件与捐赠金额、频率等完全无关
+- **维护纯洁性**：我们欢迎捐赠行为本身，而非具体的金额数字
+- **社区和谐**：这样的安排维护了GitHub社区的整齐和和谐
+- **知识普惠**：体现了"知识应该为所有人共享"的理想
 
 ---
 

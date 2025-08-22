@@ -18,7 +18,6 @@ Welcome to the "Is Fortune-Telling Science?" Project Documentation Center!
 
 ### 🧠 知识内容 / Knowledge Content
 - [讲座材料](../knowledge/lectures/) - 讲座PPT、讲者笔记、录音transcript、视频链接
-- [框架展示样本](../knowledge/share-sample/) - 公开示例文件，展示框架内容
 - [常见问题](../knowledge/faq/) - 玄学与科学边界的FAQ
 - [学术资源](../knowledge/resources/) - 论文、书籍、链接
 - [咨询服务](../knowledge/consultation-service/) - 专业咨询服务

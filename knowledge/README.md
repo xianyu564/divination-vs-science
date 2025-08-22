@@ -12,6 +12,7 @@ This knowledge center is the core content area of the project, containing:
 - **学术资源**：相关论文、书籍和研究资料 / **Academic Resources**: Related papers, books, and research materials
 - **实践应用**：基于哲学框架的咨询服务和创业指导 / **Practical Application**: Consultation services and entrepreneurial guidance based on philosophical framework
 - **社区互动**：常见问题解答和知识分享 / **Community Interaction**: FAQ and knowledge sharing
+- **示例展示**：框架内容的结构化展示 / **Sample Showcase**: Structured display of framework content
 
 ## 📂 内容结构 / Content Structure
 
@@ -23,12 +24,6 @@ knowledge/
 │       ├── Is Divination Science 玄学是科学吗？20250822.pdf
 │       ├── Is Divination Science 玄学是科学吗？20250822.pptx
 │       └── Is Divination Science 玄学是科学吗？20250822-speaker-notes.md
-├── share-sample/               # 🎯 框架展示样本
-│   ├── README.md               # 获取说明
-│   ├── sample-lecture-excerpt_讲座节选.pdf
-│   ├── sample-framework-demo_框架演示.pdf
-│   ├── sample-audio-intro_音频介绍.mp3
-│   └── sample-video-preview_视频预览.mp4
 ├── faq/                        # ❓ 常见问题
 │   └── 玄学与科学边界常见问题_FAQ.md
 ├── resources/                   # 📚 学术资源
@@ -41,32 +36,26 @@ knowledge/
     ├── 咨询前协议-中文.md
     ├── Term of service -- English.md
     └── Private Consultation Price List.png
+
+## 🎯 示例文件 / Sample Files
+
+> 在项目根目录的 `share-sample/` 文件夹中，您可以找到用于展示框架内容的示例文件。
+> In the `share-sample/` folder at the project root, you can find sample files for showcasing framework content.
+
+### 获取完整内容 / Accessing Complete Content
+
+无论您是普通用户还是捐赠者，都可以通过以下方式获取完整的讲座文件：
+
+**Regardless of whether you are a regular user or a donor, you can access complete lecture files through the following methods:**
+
+1. **GitHub Issues**：在项目Issues中提出请求
+2. **Pull Request**：贡献代码或内容，建立合作关系  
+3. **邮件联系**：发送邮件至 z_zz@u.nus.edu
+
+### 理念说明 / Philosophical Statement
+
+本项目的部分开源内容属于开发者践行"知识普惠"理想的一部分。我们相信，真正的智慧应该超越商业利益的束缚，为全人类所共享。获取文件与捐赠金额、频率等完全无关，体现了"知识应该为所有人共享"的理想。
 ```
-
-## 🎯 框架展示样本 / Framework Showcase Samples
-
-### 📋 获取说明 / Access Instructions
-
-**所有用户**（普通用户和捐赠用户）都可以通过以下方式获取完整的讲座文件：
-**All users** (regular users and donors) can obtain complete lecture files through the following methods:
-
-1. **GitHub Issues**: [提交请求](https://github.com/xianyu564/divination-vs-science/issues) / [Submit request](https://github.com/xianyu564/divination-vs-science/issues)
-2. **Pull Request**: 贡献内容后请求访问 / Request access after contributing content  
-3. **邮件联系**: z_zz@u.nus.edu / Email contact: z_zz@u.nus.edu
-
-### 🌟 设计理念 / Design Philosophy
-
-- **维护仓库完整性**：保持GitHub仓库的整洁和云端可持续性 / **Maintain repository integrity**: Keep GitHub repository clean and cloud sustainable
-- **欢迎捐赠行为**：我们欢迎捐赠的**行为**而非实际金额 / **Welcome donation behavior**: We welcome the **act** of donation rather than the actual amount
-- **保持纯洁性**：维护捐赠行为的纯洁性和GitHub社区的整齐 / **Maintain purity**: Preserve the purity of donation behavior and GitHub community tidiness
-- **命理学革新**：部分开源是开发者进行命理学革新理想的一部分 / **Numerology innovation**: Partial open source is part of the developer's ideal for numerology innovation
-
-### 📁 示例文件 / Sample Files
-
-- `sample-lecture-excerpt_讲座节选.pdf` - 讲座内容节选，展示核心思想 / Lecture content excerpt showcasing core ideas
-- `sample-framework-demo_框架演示.pdf` - 哲学框架的可视化演示 / Visual demonstration of philosophical framework
-- `sample-audio-intro_音频介绍.mp3` - 项目音频介绍 / Audio introduction to the project
-- `sample-video-preview_视频预览.mp4` - 讲座内容视频预览 / Video preview of lecture content
 
 ## 🎓 讲座材料 / Lecture Materials
 
