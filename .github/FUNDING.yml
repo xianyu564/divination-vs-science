@@ -1,33 +1,18 @@
 ﻿# These are supported funding model platforms
 
 github: [xianyu564]
-# GitHub Sponsors (仍在审核中 | Still under review)
-# 入口：https://github.com/sponsors/xianyu564
 
-# 直接支持作者 / Direct support to author
-# 微信支付 WeChat Pay
-# 扫码支持，完成后请发送邮件至 z_zz@u.nus.edu
-# Scan QR code to support, then email z_zz@u.nus.edu
-
-# PayNow (新加坡本地银行转账 | Singapore local bank transfer)
-# 转账完成后请发送邮件至 z_zz@u.nus.edu
-# After transfer, please email z_zz@u.nus.edu
-
-# 支持创业小公司 / Support startup company
-# 公司聚合码 Company QR code
-# 请在备注中写 Company Support
-# Please write "Company Support" in the remarks
-
-# 赞助说明 / Sponsorship Notes:
-# 1. GitHub Sponsors: 自动开通私密仓库访问权限 / Auto-grant private repository access
-# 2. 直接支持: 手动开通私密仓库访问权限 / Manual grant private repository access
-# 3. 所有赞助者都将获得访问 @https://github.com/xianyu564/prediction_Surplus 的权限
-#    All sponsors will receive access to @https://github.com/xianyu564/prediction_Surplus
-# 4. 赞助不构成服务承诺，主要精力放在哲学思辨和代码开发上
-#    Sponsorship does not constitute service commitment, main focus is on philosophical thinking and code development
+# 其他赞助方式 / Other sponsorship methods:
+# 详见项目文档 / See project documentation for details:
+# https://github.com/xianyu564/divination-vs-science/blob/master/docs/sponsorship/赞助支持_Sponsorship-Support.md
 
 # 赞助渠道 / Sponsorship Channels:
-# - GitHub Sponsors: https://github.com/sponsors/xianyu564
-# - 微信支付: 扫描 assets/WeChat Sponsor Code.jpg
-# - PayNow: 扫描 assets/SG PayNow Sponsor Code.jpg  
-# - 公司聚合码: 扫描 assets/Start-up Company Code.PNG
+# 1. GitHub Sponsors: https://github.com/sponsors/xianyu564 (仍在审核中 | Still under review)
+# 2. 微信支付 WeChat Pay: 扫描 .github/assets/WeChat Sponsor Code.jpg
+# 3. PayNow (SG): 扫描 .github/assets/SG PayNow Sponsor Code.jpg  
+# 4. 公司聚合码 Company QR: 扫描 .github/assets/Start-up Company Code.PNG
+
+# 赞助说明 / Sponsorship Notes:
+# - 所有赞助者获得私密仓库访问权限 / All sponsors get private repository access
+# - 详细权益说明见项目文档 / Detailed benefits in project documentation
+# - 联系邮箱: z_zz@u.nus.edu / Contact: z_zz@u.nus.edu
