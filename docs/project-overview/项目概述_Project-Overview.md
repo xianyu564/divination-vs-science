@@ -12,17 +12,44 @@ This repository openly compiles my systematic thinking and practical application
 通过探讨玄学与科学的关系，我们逐步深入到**东方术数(命理、占卜、风水)**的哲学框架，并探讨其在现代决策支持中的应用。
 Through exploring the relationship between divination and science, we gradually delve into the philosophical framework of **Eastern divination systems (numerology, fortune-telling, feng shui)** and discuss their application in modern decision support.
 
+## 🚨 重要说明：部分开源仓库 / Important Note: Partially Open Source Repository
+
+**本仓库采用双授权模式**：社区使用遵循CC BY-NC-SA 4.0，商业使用需单独授权。
+**This repository adopts a dual-licensing model**: Community use follows CC BY-NC-SA 4.0, commercial use requires separate licensing.
+
+### 💼 商业使用许可通道 / Commercial Use Licensing Channel
+如需商业使用本仓库内容，请联系我们获取**商业使用许可**：
+For commercial use of this repository content, please contact us for **commercial use licensing**:
+- 📧 邮箱：z_zz@u.nus.edu
+- 💰 费用：根据使用范围和商业价值协商定价
+- 📋 授权范围：包括商业改编、商业分发、商业应用等
+
+## 🚨 重要说明：部分开源仓库 / Important Note: Partially Open Source Repository
+
+**本仓库采用双授权模式**：社区使用遵循CC BY-NC-SA 4.0，商业使用需单独授权。
+**This repository adopts a dual-licensing model**: Community use follows CC BY-NC-SA 4.0, commercial use requires separate licensing.
+
+### 💼 商业使用许可通道 / Commercial Use Licensing Channel
+如需商业使用本仓库内容，请联系我们获取**商业使用许可**：
+For commercial use of this repository content, please contact us for **commercial use licensing**:
+- 📧 邮箱：z_zz@u.nus.edu
+- 💰 费用：根据使用范围和商业价值协商定价
+- 📋 授权范围：包括商业改编、商业分发、商业应用等
+
 ## 🎯 项目定位 / Project Positioning
 
 ### 开源共享部分 / Open Source Shared Components
 - **哲学框架**：关于玄学与科学关系的思考框架 / **Philosophical Framework**: Thinking framework about the relationship between divination and science
 - **方法论**：术数在现代决策中的应用方法 / **Methodology**: Methods for applying divination in modern decision-making
 - **学术讨论**：相关学术研究和讨论 / **Academic Discussion**: Related academic research and discussions
+- **社区改编权限**：允许翻译、讲义再整理等非商业改编 / **Community Adaptation Rights**: Allows translation, lecture notes reorganization, and other non-commercial adaptations
+- **社区改编**：允许社区进行翻译、讲义再整理等非商业改编 / **Community Adaptation**: Allows community translation, lecture notes reorganization, and other non-commercial adaptations
 
 ### 商业应用部分 / Commercial Application Components
 - **咨询服务**：基于哲学框架的收费咨询服务 / **Consultation Services**: Fee-based consultation services based on the philosophical framework
 - **APP开发**：基于术数的商业应用（商业机密） / **APP Development**: Commercial applications based on divination (business secrets)
 - **创业项目**：按照哲学框架指导的创业实践 / **Startup Projects**: Entrepreneurial practices guided by the philosophical framework
+- **商业授权**：为商业用户提供专门的商业使用许可 / **Commercial Licensing**: Provides specialized commercial use licenses for business users
 
 ## 🧭 指导思想 / Guiding Principles
 
@@ -31,6 +58,7 @@ Through exploring the relationship between divination and science, we gradually 
 3. **启发式思维**：将术数视为启发式工具，用于组织信息和生成行动备选 / **Heuristic Thinking**: Treating divination as a heuristic tool for organizing information and generating action alternatives
 4. **可测与不可测**：在可量化维度采用实证方法，在不可量化维度采用启发式建议 / **Measurable vs. Unmeasurable**: Using empirical methods for quantifiable dimensions, heuristic suggestions for unquantifiable dimensions
 5. **伦理边界**：不替代专业服务，不做结果承诺，尊重隐私和学术规范 / **Ethical Boundaries**: Not replacing professional services, making no outcome promises, respecting privacy and academic standards
+6. **双授权平衡**：在保持学术开放性的同时，为商业应用提供变现路径 / **Dual-Licensing Balance**: Maintaining academic openness while providing monetization paths for commercial applications
 
 ## 📂 目录结构 / Directory Structure
 
@@ -50,7 +78,7 @@ Through exploring the relationship between divination and science, we gradually 
 │   ├── consultation-service/  # 咨询服务 / Consultation service
 │   └── sponsors-list.md       # 捐赠者名单 / Sponsors list
 ├── .github/                   # GitHub 配置 / GitHub configurations
-├── LICENSE-CONTENT           # 内容许可证 / Content license (CC BY-NC-ND 4.0)
+├── LICENSE-CONTENT           # 内容许可证 / Content license (CC BY-NC-SA 4.0)
 ├── LICENSE-CODE              # 代码许可证 / Code license (MIT)
 ├── CITATION.cff              # 引用元数据 / Citation metadata (for academic citation)
 ├── CONTRIBUTING.md           # 贡献指南 / Contributing guide
@@ -103,11 +131,22 @@ Through exploring the relationship between divination and science, we gradually 
 - 哲学框架和思考方法 / Philosophical framework and thinking methods
 - 学术讨论和研究 / Academic discussions and research
 - 基础工具和模板 / Basic tools and templates
+- **社区改编权限**：允许翻译、讲义再整理等非商业改编 / **Community Adaptation Rights**: Allows translation, lecture notes reorganization, and other non-commercial adaptations
 
 ### 商业机密 / Business Secrets
 - APP核心算法和内容 / APP core algorithms and content
 - 高级咨询服务 / Advanced consultation services
 - 商业应用案例 / Commercial application cases
+
+### 商业授权通道 / Commercial Licensing Channel
+- **商业使用许可**：为商业用户提供专门的商业授权 / **Commercial Use Licensing**: Provides specialized commercial licensing for business users
+- **定制化服务**：根据商业需求提供定制化解决方案 / **Customized Services**: Provides customized solutions based on business needs
+- **长期合作**：建立长期商业合作伙伴关系 / **Long-term Partnerships**: Establishes long-term business partnerships
+
+### 商业授权通道 / Commercial Licensing Channel
+- **商业使用许可**：为商业用户提供专门的商业授权 / **Commercial Use Licensing**: Provides specialized commercial licensing for business users
+- **定制化服务**：根据商业需求提供定制化解决方案 / **Customized Services**: Provides customized solutions based on business needs
+- **长期合作**：建立长期商业合作伙伴关系 / **Long-term Partnerships**: Establishes long-term business partnerships
 
 ### 捐赠者特权 / Donor Privileges
 - 访问私密仓库 `@https://github.com/xianyu564/prediction_Surplus` / Access to private repository

@@ -6,6 +6,9 @@ Welcome to the "Is Divination Science?" Project Documentation Center!
 
 ## 🌍 语言版本 / Language Versions
 
+### 🚨 重要说明：部分开源仓库
+**本仓库采用双授权模式**：社区使用遵循CC BY-NC-SA 4.0，商业使用需单独授权。
+
 ### 中英文合并文档 / Bilingual Documents
 - [项目概述](project-overview/项目概述_Project-Overview.md) - 项目简介、指导思想、目录结构
 - [许可与引用](license-citation/许可与引用_License-Citation.md) - 许可证说明、学术引用、免责声明

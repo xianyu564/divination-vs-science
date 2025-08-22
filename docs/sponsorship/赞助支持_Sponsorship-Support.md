@@ -5,6 +5,18 @@
 **重要说明**: 本项目的赞助**并非用作盈利收益**，而是对作者研究工作的支持与认可。支付即表达您对作者学术探索和知识分享的支持。
 **Important Note**: Sponsorship for this project is **NOT for profit**, but rather support and recognition for the author's research work. Payment expresses your support for the author's academic exploration and knowledge sharing.
 
+## 🚨 重要说明：部分开源仓库 / Important Note: Partially Open Source Repository
+
+**本仓库采用双授权模式**：社区使用遵循CC BY-NC-SA 4.0，商业使用需单独授权。
+**This repository adopts a dual-licensing model**: Community use follows CC BY-NC-SA 4.0, commercial use requires separate licensing.
+
+### 💼 商业使用许可通道 / Commercial Use Licensing Channel
+如需商业使用本仓库内容，请联系我们获取**商业使用许可**：
+For commercial use of this repository content, please contact us for **commercial use licensing**:
+- 📧 邮箱：z_zz@u.nus.edu
+- 💰 费用：根据使用范围和商业价值协商定价
+- 📋 授权范围：包括商业改编、商业分发、商业应用等
+
 ## 🎯 赞助用途 / Support Usage
 
 您的支持将用于：/ Your support will be used for:
@@ -93,6 +105,12 @@
 - 在GitHub Issues中提问 / Ask in GitHub Issues
 - 发送邮件至 z_zz@u.nus.edu / Send email to z_zz@u.nus.edu
 - 通过GitHub Sponsors留言 / Leave messages through GitHub Sponsors
+
+### 💼 商业合作 / Business Cooperation
+如需商业使用或商业合作：/ For commercial use or business cooperation:
+- 📧 商业许可申请：z_zz@u.nus.edu / Commercial licensing: z_zz@u.nus.edu
+- 💼 商业咨询服务：基于哲学框架的专业咨询 / Business consultation services: Professional consultation based on philosophical framework
+- 🤝 长期合作伙伴：优先获得商业授权和定制服务 / Long-term partners: Priority access to commercial licensing and customized services
 
 ## 🙏 致谢 / Acknowledgments
 

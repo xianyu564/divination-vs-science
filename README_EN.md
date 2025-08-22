@@ -15,6 +15,9 @@
 
 ## 🎯 Project Positioning
 
+### 🚨 Important Note: Partially Open Source Repository
+**This repository adopts a dual-licensing model**: Community use follows CC BY-NC-SA 4.0, commercial use requires separate licensing.
+
 ### Core Question
 We start with a fundamental question: **"Is Divination Science?"**
 
@@ -29,6 +32,11 @@ Through exploring the relationship between divination and science, we gradually 
 - **Consultation Services**: Fee-based consultation services based on the philosophical framework
 - **APP Development**: Commercial applications based on divination (business secrets)
 - **Startup Projects**: Entrepreneurial practices guided by the philosophical framework
+
+### 💼 Commercial Use Licensing Channel
+For commercial use of this repository content, please contact us for **commercial use licensing**:
+- 📧 Email: z_zz@u.nus.edu
+- 💰 Fee: Negotiated pricing based on usage scope and commercial value
 
 ## 🚀 Quick Start
 
