@@ -120,3 +120,7 @@
 
 **注意**: 本项目的多语言支持遵循项目的辩证开放理念与混合授权机制，翻译内容同样适用CC BY-NC-SA 4.0许可条款。
 **Note**: The multilingual support of this project follows the project's dialectical open philosophy and hybrid licensing mechanism, and translated content is also subject to the CC BY-NC-SA 4.0 license terms.
+
+---
+
+**最后更新**: 2025年8月 / Last Updated: August 2025

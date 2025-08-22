@@ -237,3 +237,7 @@ Thank you to all supporters for your trust and support! Every contribution makes
 
 **注意**: 赞助是自愿的支持行为，我们深深感谢每一份真诚的心意。您的支持将帮助这个知识社区持续发展，为更多人带来智慧的启发。
 **Note**: Sponsorship is a voluntary act of support, and we deeply appreciate every sincere gesture. Your support will help this knowledge community continue to develop and bring wisdom and inspiration to more people.
+
+---
+
+**最后更新**: 2025年8月 / Last Updated: August 2025

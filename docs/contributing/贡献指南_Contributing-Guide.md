@@ -108,3 +108,7 @@ Thank you to all friends who contribute to this project! Every contribution make
 
 **注意**: 请确保您的贡献符合项目的[指导思想](../project-overview/项目概述_Project-Overview.md#指导思想)和[伦理边界](../project-overview/项目概述_Project-Overview.md#伦理边界)。
 **Note**: Please ensure your contributions comply with the project's [Guiding Principles](../project-overview/项目概述_Project-Overview.md#指导思想) and [Ethical Boundaries](../project-overview/项目概述_Project-Overview.md#伦理边界).
+
+---
+
+**最后更新**: 2025年8月 / Last Updated: August 2025

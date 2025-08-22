@@ -96,3 +96,7 @@ Zhang, Z. (2025). Is Fortune-Telling Science?: Philosophical Framework and Appli
 - [MIT License](https://opensource.org/licenses/MIT) - MIT许可证 / MIT license
 - [GitHub Citation Files](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-citation-files) - GitHub引用文件规范 / GitHub citation file standards
 - [商业使用许可申请](mailto:z_zz@u.nus.edu?subject=商业使用许可申请%20Commercial%20Use%20License%20Request) - 申请商业使用许可 / Apply for commercial use license
+
+---
+
+**最后更新**: 2025年8月 / Last Updated: August 2025

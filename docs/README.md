@@ -122,3 +122,7 @@ If you encounter problems while finding documentation:
 **注意 / Note**: 
 - 建议优先阅读您熟悉的语言版本，然后参考其他语言版本进行对比。 / It's recommended to read the version in your familiar language first, then refer to other language versions for comparison.
 - 本 `docs/` 文件夹专注于**技术文档**，**哲学思辨材料**请访问 `knowledge/` 文件夹。 / This `docs/` folder focuses on **technical documentation**, for **philosophical materials** please visit the `knowledge/` folder.
+
+---
+
+**最后更新**: 2025年8月 / Last Updated: August 2025

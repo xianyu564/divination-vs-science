@@ -164,3 +164,7 @@ Through exploring the relationship between divination and science, we gradually 
 - 访问私密仓库 `@https://github.com/xianyu564/prediction_Surplus`（未来将向所有用户开放）/ Access to private repository (will be open to all users in the future)
 - 参与社会科学/人类学/民族志研究 / Participation in social science/anthropology/ethnography research
 - 预测过载问题的深度探讨 / In-depth exploration of prediction overload issues
+
+---
+
+**最后更新**: 2025年8月 / Last Updated: August 2025

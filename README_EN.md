@@ -206,3 +206,7 @@ Through exploring the relationship between divination and science, we gradually 
 ---
 
 **Thank you for your attention and support!** 🙏
+
+---
+
+**Last Updated**: August 2025 / **最后更新**: 2025年8月

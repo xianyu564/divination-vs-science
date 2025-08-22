@@ -97,3 +97,7 @@ knowledge/share-sample/
 
 **注意**：本目录的内容仅用于展示项目框架，完整内容请通过上述方式获取。
 **Note**: Content in this directory is for showcasing the project framework only. For complete content, please use the methods mentioned above.
+
+---
+
+**最后更新**: 2025年8月 / Last Updated: August 2025
