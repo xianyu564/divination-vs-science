@@ -319,6 +319,380 @@ body.zh-cn, body.zh-tw {
   }
 }
 
+/* Academic resource styles */
+.resource-item,
+.book-item,
+.institution-item,
+.journal-item {
+  margin: 1.5rem 0;
+  padding: 1.5rem;
+  background: #fff;
+  border: 1px solid #e1e5e9;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+}
+
+.resource-meta,
+.book-meta,
+.journal-meta {
+  display: flex;
+  gap: 1rem;
+  margin: 0.5rem 0;
+  font-size: 0.9rem;
+}
+
+.resource-type,
+.resource-year {
+  background: #f8f9fa;
+  padding: 0.25rem 0.5rem;
+  border-radius: 4px;
+  font-size: 0.8rem;
+}
+
+.resource-keywords {
+  margin-top: 1rem;
+}
+
+.keyword {
+  display: inline-block;
+  background: #e7f3ff;
+  color: #0366d6;
+  padding: 0.25rem 0.5rem;
+  margin: 0.25rem 0.5rem 0.25rem 0;
+  border-radius: 4px;
+  font-size: 0.8rem;
+}
+
+.book-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 1.5rem;
+  margin: 2rem 0;
+}
+
+.book-relevance {
+  margin-top: 1rem;
+  padding: 1rem;
+  background: #f8f9fa;
+  border-left: 3px solid #28a745;
+  border-radius: 0 4px 4px 0;
+}
+
+/* Event styles */
+.event-item {
+  margin: 2rem 0;
+  padding: 2rem;
+  background: #fff;
+  border: 1px solid #e1e5e9;
+  border-radius: 12px;
+  box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+}
+
+.event-item.completed {
+  border-left: 5px solid #28a745;
+}
+
+.event-header {
+  margin-bottom: 1.5rem;
+}
+
+.event-meta {
+  display: flex;
+  gap: 1rem;
+  margin-top: 0.5rem;
+  flex-wrap: wrap;
+}
+
+.event-date,
+.event-type,
+.event-status {
+  padding: 0.25rem 0.75rem;
+  border-radius: 6px;
+  font-size: 0.85rem;
+  font-weight: 500;
+}
+
+.event-date {
+  background: #e7f3ff;
+  color: #0366d6;
+}
+
+.event-type {
+  background: #f0f6ff;
+  color: #586069;
+}
+
+.event-status.completed {
+  background: #dcffe4;
+  color: #28a745;
+}
+
+.event-details {
+  margin: 1.5rem 0;
+}
+
+.event-details > div {
+  margin: 0.75rem 0;
+}
+
+.event-resources {
+  margin-top: 1.5rem;
+  padding: 1.5rem;
+  background: #f6f8fa;
+  border-radius: 8px;
+}
+
+.event-types {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 1.5rem;
+  margin: 2rem 0;
+}
+
+.event-type-card {
+  padding: 1.5rem;
+  background: #fff;
+  border: 1px solid #e1e5e9;
+  border-radius: 8px;
+  text-align: center;
+}
+
+.type-features {
+  display: flex;
+  gap: 0.5rem;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin-top: 1rem;
+}
+
+.feature {
+  background: #f1f3f4;
+  padding: 0.25rem 0.5rem;
+  border-radius: 4px;
+  font-size: 0.8rem;
+}
+
+/* Lecture material styles */
+.lecture-main {
+  margin: 2rem 0;
+  padding: 2rem;
+  background: #fff;
+  border: 1px solid #e1e5e9;
+  border-radius: 12px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+.lecture-image {
+  text-align: center;
+  margin: 1.5rem 0;
+}
+
+.material-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 1.5rem;
+  margin: 1.5rem 0;
+}
+
+.material-item {
+  display: flex;
+  align-items: flex-start;
+  gap: 1rem;
+  padding: 1.5rem;
+  background: #f8f9fa;
+  border: 1px solid #e1e5e9;
+  border-radius: 8px;
+}
+
+.material-icon {
+  font-size: 2rem;
+  flex-shrink: 0;
+}
+
+.material-info {
+  flex: 1;
+}
+
+.material-meta {
+  display: flex;
+  gap: 1rem;
+  margin: 0.5rem 0;
+  font-size: 0.85rem;
+  color: #586069;
+}
+
+.material-links {
+  margin-top: 1rem;
+}
+
+.btn-download,
+.btn-view {
+  display: inline-block;
+  padding: 0.5rem 1rem;
+  background: #0366d6;
+  color: white;
+  text-decoration: none;
+  border-radius: 6px;
+  font-size: 0.9rem;
+  transition: background-color 0.2s;
+}
+
+.btn-download:hover,
+.btn-view:hover {
+  background: #0256cc;
+  color: white;
+}
+
+.btn-view {
+  background: #28a745;
+}
+
+.btn-view:hover {
+  background: #218838;
+}
+
+.outline-sections {
+  margin: 1rem 0;
+}
+
+.outline-section {
+  margin: 1.5rem 0;
+  padding: 1rem;
+  background: #f6f8fa;
+  border-left: 4px solid #0366d6;
+  border-radius: 0 6px 6px 0;
+}
+
+.outline-section h5 {
+  margin-top: 0;
+  color: #24292e;
+}
+
+.keyword-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin-top: 0.5rem;
+}
+
+/* License and guide styles */
+.license-info,
+.usage-guide {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 1.5rem;
+  margin: 2rem 0;
+}
+
+.license-card,
+.guide-section {
+  padding: 1.5rem;
+  background: #fff;
+  border: 1px solid #e1e5e9;
+  border-radius: 8px;
+}
+
+.license-card h3,
+.guide-section h3 {
+  margin-top: 0;
+  color: #24292e;
+}
+
+.citation-example {
+  margin: 1rem 0;
+  padding: 1rem;
+  background: #f6f8fa;
+  border-radius: 6px;
+}
+
+.citation-example blockquote {
+  margin: 0.5rem 0;
+  padding: 0.5rem;
+  background: #fff;
+  border-left: 3px solid #0366d6;
+  font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace;
+  font-size: 0.9rem;
+}
+
+/* Future plans */
+.future-plans {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 1.5rem;
+  margin: 2rem 0;
+}
+
+.plan-item {
+  padding: 1.5rem;
+  background: #fff;
+  border: 1px solid #e1e5e9;
+  border-radius: 8px;
+  position: relative;
+}
+
+.plan-status {
+  position: absolute;
+  top: 1rem;
+  right: 1rem;
+  padding: 0.25rem 0.5rem;
+  background: #fff3cd;
+  color: #856404;
+  border-radius: 4px;
+  font-size: 0.8rem;
+}
+
+/* Participation guide */
+.participation-guide,
+.guidelines {
+  margin: 2rem 0;
+}
+
+.guideline-item {
+  margin: 1rem 0;
+  padding: 1rem;
+  background: #f8f9fa;
+  border-left: 4px solid #17a2b8;
+  border-radius: 0 6px 6px 0;
+}
+
+/* Contact info */
+.contact-info {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 1.5rem;
+  margin: 2rem 0;
+}
+
+.contact-method {
+  padding: 1.5rem;
+  background: #fff;
+  border: 1px solid #e1e5e9;
+  border-radius: 8px;
+  text-align: center;
+}
+
+/* Responsive improvements */
+@media (max-width: 768px) {
+  .event-meta,
+  .resource-meta,
+  .book-meta,
+  .material-meta {
+    flex-direction: column;
+    gap: 0.5rem;
+  }
+  
+  .material-item {
+    flex-direction: column;
+  }
+  
+  .license-info,
+  .usage-guide,
+  .future-plans,
+  .contact-info {
+    grid-template-columns: 1fr;
+  }
+}
+
 /* Print styles */
 @media print {
   .site-header,
@@ -335,5 +709,10 @@ body.zh-cn, body.zh-tw {
   
   .main-title {
     font-size: 18pt;
+  }
+  
+  .btn-download,
+  .btn-view {
+    display: none;
   }
 }
