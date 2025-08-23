@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" 
+        xmlns:xhtml="http://www.w3.org/1999/xhtml"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <!-- Main Web Portal Pages -->
   <url>
     <loc>https://xianyu564.github.io/divination-vs-science/web/</loc>
     <lastmod>2025-01-14</lastmod>
@@ -9,6 +12,11 @@
     <xhtml:link rel="alternate" hreflang="zh-TW" href="https://xianyu564.github.io/divination-vs-science/web/zh-tw/" />
     <xhtml:link rel="alternate" hreflang="en" href="https://xianyu564.github.io/divination-vs-science/web/en/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://xianyu564.github.io/divination-vs-science/web/" />
+    <image:image>
+      <image:loc>https://xianyu564.github.io/divination-vs-science/.github/assets/Slides%20Front%20Page.png</image:loc>
+      <image:title>玄学是科学吗？Is Divination Science?</image:title>
+      <image:caption>探讨玄学与科学关系的哲学思辨平台</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://xianyu564.github.io/divination-vs-science/web/zh-tw/</loc>
@@ -30,6 +38,8 @@
     <xhtml:link rel="alternate" hreflang="en" href="https://xianyu564.github.io/divination-vs-science/web/en/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://xianyu564.github.io/divination-vs-science/web/" />
   </url>
+  
+  <!-- Core Content Pages -->
   <url>
     <loc>https://xianyu564.github.io/divination-vs-science/knowledge/lectures/</loc>
     <lastmod>2025-01-14</lastmod>
@@ -43,15 +53,79 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://xianyu564.github.io/divination-vs-science/knowledge/consultation-service/</loc>
+    <lastmod>2025-01-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://xianyu564.github.io/divination-vs-science/knowledge/resources/</loc>
+    <lastmod>2025-01-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://xianyu564.github.io/divination-vs-science/knowledge/resources/academic/</loc>
     <lastmod>2025-01-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://xianyu564.github.io/divination-vs-science/knowledge/consultation-service/</loc>
+    <loc>https://xianyu564.github.io/divination-vs-science/knowledge/share-sample/</loc>
     <lastmod>2025-01-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+  </url>
+  
+  <!-- Documentation Pages -->
+  <url>
+    <loc>https://xianyu564.github.io/divination-vs-science/docs/</loc>
+    <lastmod>2025-01-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://xianyu564.github.io/divination-vs-science/docs/GLOSSARY.md</loc>
+    <lastmod>2025-01-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://xianyu564.github.io/divination-vs-science/docs/contributing/</loc>
+    <lastmod>2025-01-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://xianyu564.github.io/divination-vs-science/docs/project-overview/</loc>
+    <lastmod>2025-01-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://xianyu564.github.io/divination-vs-science/docs/sponsorship/</loc>
+    <lastmod>2025-01-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <!-- Root Documentation -->
+  <url>
+    <loc>https://xianyu564.github.io/divination-vs-science/README.md</loc>
+    <lastmod>2025-01-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://xianyu564.github.io/divination-vs-science/README_EN.md</loc>
+    <lastmod>2025-01-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://xianyu564.github.io/divination-vs-science/CITATION.cff</loc>
+    <lastmod>2025-01-14</lastmod>
+    <changefreq>quarterly</changefreq>
+    <priority>0.4</priority>
   </url>
 </urlset>

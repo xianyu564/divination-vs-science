@@ -1,31 +1,98 @@
 # Robots.txt for Divination vs Science Web Portal
+# Enhanced for operational SEO optimization
+
 User-agent: *
 Allow: /
 
-# Web portal - main content
+# Web portal - main content (high priority)
 Allow: /web/
 Allow: /web/index.html
 Allow: /web/zh-tw/
 Allow: /web/en/
+Allow: /web/sitemap.xml
+Allow: /web/robots.txt
 
-# Knowledge base - open content
+# Knowledge base - core content (high priority)
 Allow: /knowledge/
-Allow: /docs/
-Allow: /.github/assets/
+Allow: /knowledge/lectures/
+Allow: /knowledge/faq/
+Allow: /knowledge/consultation-service/
+Allow: /knowledge/resources/
+Allow: /knowledge/share-sample/
 
-# Repository files
+# Documentation - supporting content (medium priority)
+Allow: /docs/
+Allow: /docs/GLOSSARY.md
+Allow: /docs/contributing/
+Allow: /docs/project-overview/
+Allow: /docs/sponsorship/
+
+# Assets and media
+Allow: /.github/assets/
+Allow: /.github/assets/icon/
+Allow: /.github/assets/Slides*
+
+# Root documentation files
 Allow: /README.md
 Allow: /README_EN.md
 Allow: /CITATION.cff
 Allow: /LICENSE
+Allow: /CODE_OF_CONDUCT.md
+Allow: /CONTRIBUTING.md
+Allow: /SECURITY.md
+Allow: /PROJECT_STATUS.md
 
-# Block sensitive directories
+# Block sensitive and technical directories
 Disallow: /.git/
 Disallow: /.github/workflows/
+Disallow: /.github/ISSUE_TEMPLATE/
+Disallow: /.github/PULL_REQUEST_TEMPLATE/
 Disallow: /node_modules/
+Disallow: /.vscode/
+Disallow: /.idea/
+Disallow: /dist/
+Disallow: /build/
 
-# Sitemap
+# Search engine specific optimizations
+User-agent: Googlebot
+Allow: /
+Crawl-delay: 1
+
+User-agent: Bingbot
+Allow: /
+Crawl-delay: 1
+
+User-agent: Slurp
+Allow: /
+Crawl-delay: 2
+
+User-agent: DuckDuckBot
+Allow: /
+Crawl-delay: 1
+
+User-agent: Baiduspider
+Allow: /
+Crawl-delay: 2
+
+User-agent: YandexBot
+Allow: /
+Crawl-delay: 2
+
+# Block aggressive crawlers
+User-agent: AhrefsBot
+Disallow: /
+
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: SemrushBot
+Disallow: /
+
+# Sitemap locations
 Sitemap: https://xianyu564.github.io/divination-vs-science/web/sitemap.xml
 
-# Crawl delay for respectful crawling
+# Global crawl delay for respectful crawling
 Crawl-delay: 1
+
+# Host declaration for canonical domain
+Host: xianyu564.github.io
