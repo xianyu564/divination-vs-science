@@ -23,9 +23,16 @@
   - 💰 费用：根据使用范围和商业价值确定 / Fee: Based on usage scope and commercial value
 
 #### 📋 详细许可证文件
-- [代码许可证](CODE-LICENSE.md) - 开源工具和脚本的MIT许可条款
-- [内容许可证](CONTENT-LICENSE.md) - 哲学思辨材料的CC BY-NC-SA 4.0许可条款  
-- [商业许可证](COMMERCIAL-LICENSE.md) - 技术实现和咨询服务的商业许可条款
+
+##### 🔓 开放部分（哲学思辨材料）
+- [CC BY-NC-SA 4.0 许可证](CC-BY-NC-SA-LICENSE.md) - 英文版本（主要维护）
+- [CC BY-NC-SA 4.0 许可证（中文版）](CC-BY-NC-SA-LICENSE-中文.md) - 中文版本（参考）
+
+##### 🔒 保留部分（技术实现）
+- [MIT 许可证](MIT-LICENSE.md) - 英文版本（主要维护）
+- [MIT 许可证（中文版）](MIT-LICENSE-中文.md) - 中文版本（参考）
+- [商业许可证（中文版）](COMMERCIAL-LICENSE-中文.md) - 中文版本（主要维护）
+- [Commercial License (English)](COMMERCIAL-LICENSE-EN.md) - 英文版本（参考）
 
 - **引用文献 (Referenced Materials)**: 已有文献按原文献版权进行转载引用，遵循原始许可条款 / Existing literature follows original copyright terms for reprint and citation
 
@@ -68,8 +75,15 @@
 The repository root provides `CITATION.cff` for automatic recognition by academic tools (such as GitHub, Zotero).
 
 ### 🌍 多语言说明 / Multilingual Information
-- 中文版许可证说明：见 `LICENSE-CONTENT` / Chinese license information: See `LICENSE-CONTENT`
-- English license information: See `LICENSE-CONTENT`
+
+#### 许可证文件语言分布
+- **MIT 许可证**: [英文版本](MIT-LICENSE.md)（主要维护） | [中文版本](MIT-LICENSE-中文.md)（参考）
+- **CC BY-NC-SA 4.0 许可证**: [英文版本](CC-BY-NC-SA-LICENSE.md)（主要维护） | [中文版本](CC-BY-NC-SA-LICENSE-中文.md)（参考）
+- **商业许可证**: [中文版本](COMMERCIAL-LICENSE-中文.md)（主要维护） | [英文版本](COMMERCIAL-LICENSE-EN.md)（参考）
+
+#### 维护优先级说明
+- **MIT 和 CC 许可证**: 以英文版本为主要维护版本，中文版本为参考
+- **商业许可证**: 以中文版本为主要维护版本，英文版本为参考
 
 ## 🧩 免责声明与边界 / Disclaimers & Boundaries
 

@@ -21,15 +21,18 @@ This project adopts the **Dialectical Open Philosophy & Hybrid Licensing Mechani
 ## 📁 详细许可证文件 / Detailed License Files
 
 ### 代码许可 / Code License
-- 位置: `docs/license-citation/CODE-LICENSE.md`
+- **英文版本（主要维护）**: `docs/license-citation/MIT-LICENSE.md`
+- **中文版本（参考）**: `docs/license-citation/MIT-LICENSE-中文.md`
 - 内容: 详细的代码使用条款和MIT许可说明
 
 ### 内容许可 / Content License  
-- 位置: `docs/license-citation/CONTENT-LICENSE.md`
+- **英文版本（主要维护）**: `docs/license-citation/CC-BY-NC-SA-LICENSE.md`
+- **中文版本（参考）**: `docs/license-citation/CC-BY-NC-SA-LICENSE-中文.md`
 - 内容: 详细的CC BY-NC-SA 4.0许可条款和引用规范
 
 ### 商业许可 / Commercial License
-- 位置: `docs/license-citation/COMMERCIAL-LICENSE.md`
+- **中文版本（主要维护）**: `docs/license-citation/COMMERCIAL-LICENSE-中文.md`
+- **英文版本（参考）**: `docs/license-citation/COMMERCIAL-LICENSE-EN.md`
 - 内容: 商业使用条款和咨询服务许可
 
 ### 综合说明 / Comprehensive Guide
