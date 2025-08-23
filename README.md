@@ -2,10 +2,15 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
-[![GitHub stars](https://img.shields.io/badge/GitHub%20stars-0-brightgreen)](https://github.com/xianyu564/divination-vs-science/stargazers)
-[![GitHub forks](https://img.shields.io/badge/GitHub%20forks-0-brightgreen)](https://github.com/xianyu564/divination-vs-science/network)
-[![GitHub issues](https://img.shields.io/badge/GitHub%20issues-0-brightgreen)](https://github.com/xianyu564/divination-vs-science/issues)
-[![GitHub pull requests](https://img.shields.io/badge/GitHub%20PRs-0-brightgreen)](https://github.com/xianyu564/divination-vs-science/pulls)
+[![GitHub stars](https://img.shields.io/github/stars/xianyu564/divination-vs-science?style=social&label=Star)](https://github.com/xianyu564/divination-vs-science)
+[![GitHub forks](https://img.shields.io/github/forks/xianyu564/divination-vs-science?style=social&label=Fork)](https://github.com/xianyu564/divination-vs-science)
+[![GitHub issues](https://img.shields.io/github/issues/xianyu564/divination-vs-science)](https://github.com/xianyu564/divination-vs-science/issues)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/xianyu564/divination-vs-science)](https://github.com/xianyu564/divination-vs-science/pulls)
+[![GitHub last commit](https://img.shields.io/github/last-commit/xianyu564/divination-vs-science)](https://github.com/xianyu564/divination-vs-science/commits/main)
+[![GitHub contributors](https://img.shields.io/github/contributors/xianyu564/divination-vs-science)](https://github.com/xianyu564/divination-vs-science/graphs/contributors)
+[![GitHub repo size](https://img.shields.io/github/repo-size/xianyu564/divination-vs-science)](https://github.com/xianyu564/divination-vs-science)
+[![GitHub language count](https://img.shields.io/github/languages/count/xianyu564/divination-vs-science)](https://github.com/xianyu564/divination-vs-science)
+[![GitHub top language](https://img.shields.io/github/languages/top/xianyu564/divination-vs-science)](https://github.com/xianyu564/divination-vs-science)
 
 ## 🌍 语言版本 / Language Versions
 **[中文](README.md)** | **[English](README_EN.md)** | **[更多语言](docs/LANGUAGES.md)**

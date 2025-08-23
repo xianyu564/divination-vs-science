@@ -2,6 +2,12 @@
 
 欢迎来到"玄学是科学吗？"项目的文档中心！
 
+[![GitHub stars](https://img.shields.io/github/stars/xianyu564/divination-vs-science?style=social&label=Star)](https://github.com/xianyu564/divination-vs-science)
+[![GitHub forks](https://img.shields.io/github/forks/xianyu564/divination-vs-science?style=social&label=Fork)](https://github.com/xianyu564/divination-vs-science)
+[![GitHub issues](https://img.shields.io/github/issues/xianyu564/divination-vs-science)](https://github.com/xianyu564/divination-vs-science/issues)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/xianyu564/divination-vs-science)](https://github.com/xianyu564/divination-vs-science/pulls)
+[![GitHub last commit](https://img.shields.io/github/last-commit/xianyu564/divination-vs-science)](https://github.com/xianyu564/divination-vs-science/commits/main)
+
 Welcome to the "Is Fortune-Telling Science?" Project Documentation Center!
 
 ## 🌍 语言版本 / Language Versions
