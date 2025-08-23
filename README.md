@@ -1,7 +1,9 @@
 <div align="center">
-  <img src=".github/assets/icon/抽象.jpg" alt="象对论 LOGO" width="120" style="border-radius: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
+  <span>
+    <img src=".github/assets/icon/抽象.jpg" alt="象对论 LOGO" width="120" style="vertical-align: middle; border-radius: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
+    <img src=".github/assets/icon/象画蚂.jpg" alt="象对论 LOGO" width="120" style="vertical-align: middle; border-radius: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
+  </span>
   <h1>玄学是科学吗？/ Is Fortune-Telling Science?</h1>
-  <img src=".github/assets/icon/象画蚂.jpg" alt="象对论 LOGO" width="120" style="border-radius: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
 </div>
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
