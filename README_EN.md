@@ -8,7 +8,7 @@
 [![GitHub pull requests](https://img.shields.io/badge/GitHub%20PRs-0-brightgreen)](https://github.com/xianyu564/divination-vs-science/pulls)
 
 ## 🌍 Language Versions
-**[English](README_EN.md)** | **[中文](README.md)** | **[More Languages](LANGUAGES.md)**
+**[English](README_EN.md)** | **[中文](README.md)** | **[More Languages](docs/LANGUAGES.md)**
 
 > Knowledge Community · Philosophical Framework · Startup Cold Start  
 > 知识社区 · 哲学框架 · 创业冷启动
