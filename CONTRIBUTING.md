@@ -97,6 +97,7 @@ git push origin feature/your-feature-name
 - [项目指导思想](docs/project-overview/项目概述_Project-Overview.md#指导思想) / [Project Guiding Principles](docs/project-overview/项目概述_Project-Overview.md#指导思想)
 - [多语言支持](docs/LANGUAGES.md) / [Multilingual Support](docs/LANGUAGES.md)
 - [术语词汇库](docs/GLOSSARY.md) / [Terminology Glossary](docs/GLOSSARY.md)
+- [许可证说明](docs/license-citation/README.md) / [License Information](docs/license-citation/README.md)
 
 ## 🆘 需要帮助？/ Need Help?
 

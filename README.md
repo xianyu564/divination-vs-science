@@ -172,8 +172,8 @@
 ## 🔗 重要链接 / Important Links
 
 - 📚 [详细文档](docs/README.md) - 完整项目文档
+- 📖 [许可证说明](docs/license-citation/README.md) - 完整的许可证说明和引用规范
 - 🤝 [贡献指南](docs/contributing/贡献指南_Contributing-Guide.md) - 如何参与
-- 📄 [许可信息](docs/license-citation/许可与引用_License-Citation.md) - 使用条款和引用
 - 📖 [术语词汇库](docs/GLOSSARY.md) - 核心术语的专业定义与辨析
 - 💝 [赞助支持](docs/sponsorship/赞助支持_Sponsorship-Support.md) - 赞助详情和权益
 - 💼 [咨询服务](knowledge/consultation-service/) - 商业服务详情

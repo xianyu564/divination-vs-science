@@ -36,7 +36,7 @@ Welcome to the "Is Fortune-Telling Science?" Project Documentation Center!
 
 ### 中英文合并文档 / Bilingual Documents
 - [项目概述](project-overview/项目概述_Project-Overview.md) - 项目简介、指导思想、目录结构 / Project introduction, guiding principles, directory structure
-- [许可与引用](license-citation/许可与引用_License-Citation.md) - 许可证说明、学术引用、免责声明 / License information, academic citations, disclaimers
+- [许可与引用](license-citation/README.md) - 许可证说明、学术引用、免责声明 / License information, academic citations, disclaimers
 - [MIT 许可证](license-citation/MIT-LICENSE.md) - 开源工具的MIT许可条款（英文版） / MIT license terms for open source tools (English)
 - [MIT 许可证（中文版）](license-citation/MIT-LICENSE-中文.md) - 开源工具的MIT许可条款（中文版） / MIT license terms for open source tools (Chinese)
 - [CC BY-NC-SA 许可证](license-citation/CC-BY-NC-SA-LICENSE.md) - 哲学思辨材料的CC许可条款（英文版） / CC license terms for philosophical materials (English)

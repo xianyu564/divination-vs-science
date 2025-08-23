@@ -182,8 +182,8 @@ Through exploring the relationship between divination and science, we gradually 
 ## 🔗 Important Links
 
 - 📚 [Detailed Documentation](docs/README.md) - Complete project documentation
+- 📖 [License Information](docs/license-citation/README.md) - Complete license information and citation guidelines
 - 🤝 [Contributing Guide](docs/contributing/贡献指南_Contributing-Guide.md) - How to participate
-- 📄 [License Information](docs/license-citation/许可与引用_License-Citation.md) - Usage terms and citation
 - 📖 [Terminology Glossary](docs/GLOSSARY.md) - Professional definitions and analysis of core terminology
 - 💝 [Sponsorship & Support](docs/sponsorship/赞助支持_Sponsorship-Support.md) - Sponsorship details and benefits
 - 💼 [Consultation Service](knowledge/consultation-service/) - Business service details
