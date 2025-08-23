@@ -43,7 +43,7 @@ Welcome to the "Is Fortune-Telling Science?" Project Documentation Center!
 ## 📚 通用文档 / Common Documents
 
 - [捐赠者名单](sponsors-list.md) - 所有捐赠者的记录和统计 / Records and statistics of all donors
-- [多语言支持](../LANGUAGES.md) - 多语言支持说明和翻译指南 / Multi-language support description and translation guide
+- [多语言支持](LANGUAGES.md) - 多语言支持说明和翻译指南 / Multi-language support description and translation guide
 
 ## 🔍 快速导航 / Quick Navigation
 

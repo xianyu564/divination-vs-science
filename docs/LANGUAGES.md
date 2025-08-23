@@ -23,7 +23,7 @@
 - `README.md` - 中文版本（核心维护版本）
 - `README_EN.md` - 英文版本（参考版本）
 - `PROJECT_STATUS.md` - 中英文对照
-- `LANGUAGES.md` - 中英文对照
+- `docs/LANGUAGES.md` - 中英文对照
 
 ### 知识内容中心 / Knowledge Content Center
 - `knowledge/README.md` - 中英文对照
