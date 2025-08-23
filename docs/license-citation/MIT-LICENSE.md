@@ -1,4 +1,4 @@
-MIT License
+# MIT License
 
 Copyright (c) 2025 Ziyang (Xianyu) Zhang 
 
@@ -22,18 +22,27 @@ SOFTWARE.
 
 ---
 
-# MIT许可证（中译本）
+## Project-Specific Notes
 
-**注意：本中译本仅供参考，法律效力以英文版本为准。**
+### Scope of Application
+This MIT License applies to **open source tools, templates, and scripts** in this project, but **does NOT apply to**:
 
-版权所有 (c) 2025 张子阳（衔瑜）
+- Consultation service content
+- Commercialized technical implementations
+- Proprietary code in private repositories
+- Other parts explicitly marked as commercial license
 
-特此免费授予任何获得本软件副本和相关文档文件（"软件"）的人，无限制地处理本软件，包括但不限于使用、复制、修改、合并、发布、分发、再许可和/或销售软件副本的权利，并允许向其提供软件的人这样做，但须符合以下条件：
-
-上述版权声明和本许可声明应包含在软件的所有副本或主要部分中。
-
-本软件按"原样"提供，不提供任何明示或暗示的保证，包括但不限于对适销性、特定用途适用性和非侵权性的保证。在任何情况下，作者或版权持有人均不对因软件或软件使用或其他交易而产生的任何索赔、损害或其他责任承担责任，无论是在合同诉讼、侵权诉讼或其他诉讼中。
+### Commercial License
+For commercial use of the restricted parts mentioned above, please contact the project maintainer to obtain a commercial license.
 
 ---
 
-**Note: This Chinese translation is for reference only. The English version shall prevail for legal purposes.**
+## Contact Information
+
+For code license questions, please contact:
+- **Email**: z_zz@u.nus.edu
+- **Subject**: Code License Consultation
+
+---
+
+**Last Updated**: August 2025

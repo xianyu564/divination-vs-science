@@ -1,20 +1,70 @@
+# 许可证文件索引 / License Files Index
+
+本目录包含项目的所有许可证文件，按中英文和用途分类组织。
+
+This directory contains all license files for the project, organized by language and purpose.
+
+## 📁 文件结构 / File Structure
+
+### 🔓 开放部分（哲学思辨材料）/ Open Parts (Philosophical Materials)
+
+#### CC BY-NC-SA 4.0 许可证
+- **[CC-BY-NC-SA-LICENSE.md](CC-BY-NC-SA-LICENSE.md)** - **英文版本（主要维护）** / English version (Primary maintenance)
+- **[CC-BY-NC-SA-LICENSE-中文.md](CC-BY-NC-SA-LICENSE-中文.md)** - 中文版本（参考） / Chinese version (Reference)
+
+**适用范围**: 讲座材料、FAQ、学术资源、项目概述等哲学思辨内容
+
+### 🔒 保留部分（技术实现）/ Reserved Parts (Technical Implementation)
+
+#### MIT 许可证
+- **[MIT-LICENSE.md](MIT-LICENSE.md)** - **英文版本（主要维护）** / English version (Primary maintenance)
+- **[MIT-LICENSE-中文.md](MIT-LICENSE-中文.md)** - 中文版本（参考） / Chinese version (Reference)
+
+**适用范围**: 开源工具、模板、脚本等代码内容
+
+#### 商业许可证
+- **[COMMERCIAL-LICENSE-中文.md](COMMERCIAL-LICENSE-中文.md)** - **中文版本（主要维护）** / Chinese version (Primary maintenance)
+- **[COMMERCIAL-LICENSE-EN.md](COMMERCIAL-LICENSE-EN.md)** - 英文版本（参考） / English version (Reference)
+
+**适用范围**: 专有技术、咨询服务、私密内容等商业价值部分
+
+## 🎯 维护优先级 / Maintenance Priority
+
+### 主要维护版本（Primary Maintenance）
+- **MIT 许可证**: 英文版本
+- **CC BY-NC-SA 许可证**: 英文版本  
+- **商业许可证**: 中文版本
+
+### 参考版本（Reference）
+- **MIT 许可证**: 中文版本
+- **CC BY-NC-SA 许可证**: 中文版本
+- **商业许可证**: 英文版本
+
+---
+
 # 许可与引用 / License & Citation
 
 ## 🧾 许可证说明 / License Information
 
 ### 📄 许可证信息 / License Details
+
+#### 🔓 开放部分（哲学思辨材料）
 - **内容许可 (Content License)**: 文字、图片、幻灯片与讲义采用 **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)** 许可
   - ✅ 允许：署名后分享、教育使用、学术引用、翻译改编、讲义再整理 / Allowed: Attribution-based sharing, educational use, academic citation, translation adaptation, lecture notes reorganization
   - ✅ 改编要求：必须以相同许可条款分享改编作品 / Adaptation requirement: Must share adaptations under the same license terms
   - ❌ 禁止：商业使用 / Prohibited: Commercial use
   - 🔗 许可证详情：/ License details: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
-- **代码许可 (Code License)**: 脚本、工具和技术实现采用 **MIT License**，遵循开源社区标准
+#### 🔒 保留部分（技术实现）
+- **代码许可 (Code License)**: 开源工具和脚本采用 **MIT License**，遵循开源社区标准
   - ✅ 允许：商业使用、修改、分发、私人使用 / Allowed: Commercial use, modification, distribution, private use
   - 📋 要求：保留版权声明和许可证声明 / Required: Retain copyright notice and license statement
   - 🔗 许可证详情：/ License details: [MIT License](https://opensource.org/licenses/MIT)
 
-- **引用文献 (Referenced Materials)**: 已有文献按原文献版权进行转载引用，遵循原始许可条款 / Existing literature follows original copyright terms for reprint and citation
+- **商业许可 (Commercial License)**: 专有技术和咨询服务采用**商业许可**
+  - ❌ 禁止：未经授权的商业使用 / Prohibited: Unauthorized commercial use
+  - 🔒 要求：获得商业许可证 / Required: Obtain commercial license
+  - 💰 费用：根据使用范围和商业价值确定 / Fee: Based on usage scope and commercial value
 
 ### 🚨 重要说明：辩证开放理念与混合授权机制 / Important Note: Dialectical Open Philosophy & Hybrid Licensing Mechanism
 
@@ -55,8 +105,15 @@
 The repository root provides `CITATION.cff` for automatic recognition by academic tools (such as GitHub, Zotero).
 
 ### 🌍 多语言说明 / Multilingual Information
-- 中文版许可证说明：见 `LICENSE-CONTENT` / Chinese license information: See `LICENSE-CONTENT`
-- English license information: See `LICENSE-CONTENT`
+
+#### 许可证文件语言分布
+- **MIT 许可证**: [英文版本](MIT-LICENSE.md)（主要维护） | [中文版本](MIT-LICENSE-中文.md)（参考）
+- **CC BY-NC-SA 4.0 许可证**: [英文版本](CC-BY-NC-SA-LICENSE.md)（主要维护） | [中文版本](CC-BY-NC-SA-LICENSE-中文.md)（参考）
+- **商业许可证**: [中文版本](COMMERCIAL-LICENSE-中文.md)（主要维护） | [英文版本](COMMERCIAL-LICENSE-EN.md)（参考）
+
+#### 维护优先级说明
+- **MIT 和 CC 许可证**: 以英文版本为主要维护版本，中文版本为参考
+- **商业许可证**: 以中文版本为主要维护版本，英文版本为参考
 
 ## 🧩 免责声明与边界 / Disclaimers & Boundaries
 
@@ -96,6 +153,19 @@ Zhang, Z. (2025). Is Fortune-Telling Science?: Philosophical Framework and Appli
 - [MIT License](https://opensource.org/licenses/MIT) - MIT许可证 / MIT license
 - [GitHub Citation Files](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-citation-files) - GitHub引用文件规范 / GitHub citation file standards
 - [商业使用许可申请](mailto:z_zz@u.nus.edu?subject=商业使用许可申请%20Commercial%20Use%20License%20Request) - 申请商业使用许可 / Apply for commercial use license
+
+## 🔄 更新流程 / Update Process
+
+1. **主要维护版本**: 优先更新主要维护版本
+2. **参考版本**: 同步更新参考版本，保持一致性
+3. **版本控制**: 使用Git标签标记许可证版本更新
+4. **通知机制**: 重要更新时通知项目维护者和贡献者
+
+## 📞 许可证咨询 / License Consultation
+
+如有许可证相关问题，请联系：
+- **邮箱**: z_zz@u.nus.edu
+- **主题**: License Consultation
 
 ---
 

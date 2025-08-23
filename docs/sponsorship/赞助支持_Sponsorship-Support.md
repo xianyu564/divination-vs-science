@@ -1,5 +1,9 @@
 # 赞助支持 / Sponsorship & Support
 
+<div align="center">
+  <img src="../../.github/assets/icon/Front Bag.PNG" alt="象对论 Front Bag" width="250" style="border-radius: 15px; box-shadow: 0 6px 12px rgba(0,0,0,0.15);" />
+</div>
+
 > 本仓库面向公共知识分享与产品方法论沉淀。赞助是自愿的"支持"，体现了对知识普惠理想的认同，而非购买服务或股权承诺。
 
 ---
@@ -95,8 +99,8 @@ We will gradually open some repository privileges and invite beta testing. Howev
 - **PayNow（SG）**：本地转账（见下）
 
 <div align="center">
-  <img src="../../.github/assets/WeChat Sponsor Code.jpg" alt="微信赞助码 WeChat Sponsor Code" width="220" />
-  <img src="../../.github/assets/SG PayNow Sponsor Code.jpg" alt="PayNow赞助码 PayNow Sponsor Code" width="220" />
+  <img src="../../.github/assets/sponsor-qr-code/WeChat Sponsor Code.jpg" alt="微信赞助码 WeChat Sponsor Code" width="220" />
+<img src="../../.github/assets/sponsor-qr-code/SG PayNow Sponsor Code.jpg" alt="PayNow赞助码 PayNow Sponsor Code" width="220" />
 </div>
 
 **开通流程（手动） / Activation Process (Manual)**  
@@ -125,12 +129,16 @@ We will gradually open some repository privileges and invite beta testing. Howev
 - Corporate transfers can also follow the "Activation Process (Manual)" to obtain access permissions and invoices.
 
 <div align="center">
-  <img src="../../.github/assets/Start-up Company Code.PNG" alt="创业公司聚合码 Start-up Company Code" width="220" />
+  <img src="../../.github/assets/sponsor-qr-code/Start-up Company Code.PNG" alt="创业公司聚合码 Start-up Company Code" width="220" />
 </div>
 
 ---
 
 ## 🏆 权益说明 / Benefits
+
+<div align="center">
+  <img src="../../.github/assets/icon/Back Bag.PNG" alt="象对论 Back Bag" width="250" style="border-radius: 15px; box-shadow: 0 6px 12px rgba(0,0,0,0.15);" />
+</div>
 
 > 权益是"访问与参与"的便利，不改变本仓库内容的**版权许可**。
 > Benefits are conveniences for "access and participation" and do not change the **copyright license** of this repository's content.

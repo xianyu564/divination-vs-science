@@ -1,14 +1,25 @@
-# Is Fortune-Telling Science?
+<div align="center">
+  <span>
+    <img src=".github/assets/icon/抽象.jpg" alt="Elephenotype LOGO" width="120" style="vertical-align: middle; border-radius: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
+    <img src=".github/assets/icon/象画蚂.jpg" alt="Elephenotype LOGO" width="120" style="vertical-align: middle; border-radius: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
+  </span>
+  <h1>Is Fortune-Telling Science?: Philosophical Framework and Applications</h1>
+</div>
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
-[![GitHub stars](https://img.shields.io/badge/GitHub%20stars-0-brightgreen)](https://github.com/xianyu564/divination-vs-science/stargazers)
-[![GitHub forks](https://img.shields.io/badge/GitHub%20forks-0-brightgreen)](https://github.com/xianyu564/divination-vs-science/network)
-[![GitHub issues](https://img.shields.io/badge/GitHub%20issues-0-brightgreen)](https://github.com/xianyu564/divination-vs-science/issues)
-[![GitHub pull requests](https://img.shields.io/badge/GitHub%20PRs-0-brightgreen)](https://github.com/xianyu564/divination-vs-science/pulls)
+[![GitHub stars](https://img.shields.io/github/stars/xianyu564/divination-vs-science?style=social&label=Star)](https://github.com/xianyu564/divination-vs-science)
+[![GitHub forks](https://img.shields.io/github/forks/xianyu564/divination-vs-science?style=social&label=Fork)](https://github.com/xianyu564/divination-vs-science)
+[![GitHub issues](https://img.shields.io/github/issues/xianyu564/divination-vs-science)](https://github.com/xianyu564/divination-vs-science/issues)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/xianyu564/divination-vs-science)](https://github.com/xianyu564/divination-vs-science/pulls)
+[![GitHub last commit](https://img.shields.io/github/last-commit/xianyu564/divination-vs-science)](https://github.com/xianyu564/divination-vs-science/commits/main)
+[![GitHub contributors](https://img.shields.io/github/contributors/xianyu564/divination-vs-science)](https://github.com/xianyu564/divination-vs-science/graphs/contributors)
+[![GitHub repo size](https://img.shields.io/github/repo-size/xianyu564/divination-vs-science)](https://github.com/xianyu564/divination-vs-science)
+[![GitHub language count](https://img.shields.io/github/languages/count/xianyu564/divination-vs-science)](https://github.com/xianyu564/divination-vs-science)
+[![GitHub top language](https://img.shields.io/github/languages/top/xianyu564/divination-vs-science)](https://github.com/xianyu564/divination-vs-science)
 
 ## 🌍 Language Versions
-**[English](README_EN.md)** | **[中文](README.md)** | **[More Languages](LANGUAGES.md)**
+**[English](README_EN.md)** | **[中文](README.md)** | **[More Languages](docs/LANGUAGES.md)**
 
 > Knowledge Community · Philosophical Framework · Startup Cold Start  
 > 知识社区 · 哲学框架 · 创业冷启动
@@ -16,6 +27,10 @@
 > ⚠️ **Important Note**: This English version is for reference only. The Chinese version (README.md) is the core maintained version. In case of any discrepancies, the Chinese version shall prevail.
 
 ## 🎯 Project Positioning
+
+<div align="center">
+  <img src=".github/assets/icon/Front Bag.PNG" alt="Elephenotype Front Bag" width="300" style="border-radius: 15px; box-shadow: 0 6px 12px rgba(0,0,0,0.15);" />
+</div>
 
 ### 🚨 Important Note: Dialectical Open Philosophy & Hybrid Licensing Mechanism
 
@@ -55,7 +70,7 @@ Through exploring the relationship between divination and science, we gradually 
 
 ### 🎯 Core Content (Fully Open)
 <div align="center">
-  <img src=".github/assets/Slides Front Page.png" alt="Is Fortune-Telling Science? Lecture Cover" width="600" />
+  <img src=".github/assets/Slides Front Page.png" alt="Is Fortune-Telling Science? Lecture Cover" width="600" style="border-radius: 15px; box-shadow: 0 8px 16px rgba(0,0,0,0.2);" />
 </div>
 
 **Core content accessible to all users**:
@@ -107,6 +122,10 @@ Through exploring the relationship between divination and science, we gradually 
 3. Explore long-term partnership possibilities
 
 ## 📂 Project Structure
+
+<div align="center">
+  <img src=".github/assets/icon/Back Bag.PNG" alt="Elephenotype Back Bag" width="300" style="border-radius: 15px; box-shadow: 0 6px 12px rgba(0,0,0,0.15);" />
+</div>
 
 ```
 .
@@ -167,14 +186,14 @@ Through exploring the relationship between divination and science, we gradually 
 #### 2️⃣ Personal Sponsorship
 **For individual supporters, supporting the author's research work**
 <div align="center">
-  <img src=".github/assets/WeChat Sponsor Code.jpg" alt="WeChat Sponsor Code" width="150" />
-  <img src=".github/assets/SG PayNow Sponsor Code.jpg" alt="PayNow Sponsor Code" width="150" />
+  <img src=".github/assets/sponsor-qr-code/WeChat Sponsor Code.jpg" alt="WeChat Sponsor Code" width="150" />
+<img src=".github/assets/sponsor-qr-code/SG PayNow Sponsor Code.jpg" alt="PayNow Sponsor Code" width="150" />
 </div>
 
 #### 3️⃣ Corporate Sponsorship
 **For businesses/organizations, supporting startup project development**
 <div align="center">
-  <img src=".github/assets/Start-up Company Code.PNG" alt="Start-up Company Code" width="150" />
+  <img src=".github/assets/sponsor-qr-code/Start-up Company Code.PNG" alt="Start-up Company Code" width="150" />
 </div>
 
 **Note**: After sponsoring via WeChat/PayNow/Company QR code, please email z_zz@u.nus.edu to get private repository access. If you wish to receive traditional gifts, please include your mailing address in the email. **Future Plan**: When we receive sufficient research support, this social science research repository will be open to all users.
@@ -182,8 +201,9 @@ Through exploring the relationship between divination and science, we gradually 
 ## 🔗 Important Links
 
 - 📚 [Detailed Documentation](docs/README.md) - Complete project documentation
+- 📖 [License Information](docs/license-citation/README.md) - Complete license information and citation guidelines
 - 🤝 [Contributing Guide](docs/contributing/贡献指南_Contributing-Guide.md) - How to participate
-- 📄 [License Information](docs/license-citation/许可与引用_License-Citation.md) - Usage terms and citation
+- 📖 [Terminology Glossary](docs/GLOSSARY.md) - Professional definitions and analysis of core terminology
 - 💝 [Sponsorship & Support](docs/sponsorship/赞助支持_Sponsorship-Support.md) - Sponsorship details and benefits
 - 💼 [Consultation Service](knowledge/consultation-service/) - Business service details
 - 📊 [Project Status](PROJECT_STATUS.md) - Current progress and plans
