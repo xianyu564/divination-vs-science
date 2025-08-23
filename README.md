@@ -1,4 +1,8 @@
-# 玄学是科学吗？/ Is Fortune-Telling Science?
+<div align="center">
+  <img src=".github/assets/icon/抽象.jpg" alt="象对论 LOGO" width="120" style="border-radius: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
+  <h1>玄学是科学吗？/ Is Fortune-Telling Science?</h1>
+  <img src=".github/assets/icon/象画蚂.jpg" alt="象对论 LOGO" width="120" style="border-radius: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
+</div>
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
@@ -19,6 +23,10 @@
 > Knowledge Community · Philosophical Framework · Startup Cold Start
 
 ## 🎯 项目定位 / Project Positioning
+
+<div align="center">
+  <img src=".github/assets/icon/Front Bag.PNG" alt="象对论 Front Bag" width="300" style="border-radius: 15px; box-shadow: 0 6px 12px rgba(0,0,0,0.15);" />
+</div>
 
 ### 🚨 重要说明：部分开源仓库 / Important Note: Partially Open Source Repository
 **本仓库采用混合授权模式**：
@@ -49,7 +57,7 @@
 
 ### 🎯 核心内容（完全开放）
 <div align="center">
-  <img src=".github/assets/Slides Front Page.png" alt="玄学是科学吗？讲座封面" width="600" />
+  <img src=".github/assets/Slides Front Page.png" alt="玄学是科学吗？讲座封面" width="600" style="border-radius: 15px; box-shadow: 0 8px 16px rgba(0,0,0,0.2);" />
 </div>
 
 **所有用户均可访问的核心内容**：
@@ -102,6 +110,10 @@
 3. 探讨长期合作可能性
 
 ## 📂 项目结构 / Project Structure
+
+<div align="center">
+  <img src=".github/assets/icon/Back Bag.PNG" alt="象对论 Back Bag" width="300" style="border-radius: 15px; box-shadow: 0 6px 12px rgba(0,0,0,0.15);" />
+</div>
 
 ```
 .

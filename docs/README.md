@@ -1,6 +1,10 @@
 # 文档中心 / Documentation Center
 
-欢迎来到"玄学是科学吗？"项目的文档中心！
+<div align="center">
+  <img src="../.github/assets/icon/抽象.jpg" alt="象对论 LOGO" width="100" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
+  <h2>欢迎来到"玄学是科学吗？"项目的文档中心！</h2>
+  <img src="../.github/assets/icon/象画蚂.jpg" alt="象对论 LOGO" width="100" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
+</div>
 
 [![GitHub stars](https://img.shields.io/github/stars/xianyu564/divination-vs-science?style=social&label=Star)](https://github.com/xianyu564/divination-vs-science)
 [![GitHub forks](https://img.shields.io/github/forks/xianyu564/divination-vs-science?style=social&label=Fork)](https://github.com/xianyu564/divination-vs-science)
@@ -77,6 +81,10 @@ Welcome to the "Is Fortune-Telling Science?" Project Documentation Center!
 4. **获得私密仓库访问权限**（未来将向所有用户开放）/ **Access to private repository** (will be open to all users in the future)
 
 ### 💰 快速赞助 / Quick Sponsorship
+
+<div align="center">
+  <img src="../.github/assets/icon/Front Bag.PNG" alt="象对论 Front Bag" width="200" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
+</div>
 
 #### GitHub Sponsors（推荐 / Recommended）
 [![GitHub Sponsors](https://img.shields.io/badge/GitHub%20Sponsors-Support%20Me-red?style=for-the-badge&logo=github)](https://github.com/sponsors/xianyu564)

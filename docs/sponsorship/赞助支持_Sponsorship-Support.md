@@ -1,5 +1,9 @@
 # 赞助支持 / Sponsorship & Support
 
+<div align="center">
+  <img src="../../.github/assets/icon/Front Bag.PNG" alt="象对论 Front Bag" width="250" style="border-radius: 15px; box-shadow: 0 6px 12px rgba(0,0,0,0.15);" />
+</div>
+
 > 本仓库面向公共知识分享与产品方法论沉淀。赞助是自愿的"支持"，体现了对知识普惠理想的认同，而非购买服务或股权承诺。
 
 ---
@@ -131,6 +135,10 @@ We will gradually open some repository privileges and invite beta testing. Howev
 ---
 
 ## 🏆 权益说明 / Benefits
+
+<div align="center">
+  <img src="../../.github/assets/icon/Back Bag.PNG" alt="象对论 Back Bag" width="250" style="border-radius: 15px; box-shadow: 0 6px 12px rgba(0,0,0,0.15);" />
+</div>
 
 > 权益是"访问与参与"的便利，不改变本仓库内容的**版权许可**。
 > Benefits are conveniences for "access and participation" and do not change the **copyright license** of this repository's content.

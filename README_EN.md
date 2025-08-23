@@ -1,4 +1,8 @@
-# Is Fortune-Telling Science?
+<div align="center">
+  <img src=".github/assets/icon/抽象.jpg" alt="Elephenotype LOGO" width="120" style="border-radius: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
+  <h1>Is Fortune-Telling Science?: Philosophical Framework and Applications</h1>
+  <img src=".github/assets/icon/象画蚂.jpg" alt="Elephenotype LOGO" width="120" style="border-radius: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
+</div>
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
@@ -21,6 +25,10 @@
 > ⚠️ **Important Note**: This English version is for reference only. The Chinese version (README.md) is the core maintained version. In case of any discrepancies, the Chinese version shall prevail.
 
 ## 🎯 Project Positioning
+
+<div align="center">
+  <img src=".github/assets/icon/Front Bag.PNG" alt="Elephenotype Front Bag" width="300" style="border-radius: 15px; box-shadow: 0 6px 12px rgba(0,0,0,0.15);" />
+</div>
 
 ### 🚨 Important Note: Dialectical Open Philosophy & Hybrid Licensing Mechanism
 
@@ -60,7 +68,7 @@ Through exploring the relationship between divination and science, we gradually 
 
 ### 🎯 Core Content (Fully Open)
 <div align="center">
-  <img src=".github/assets/Slides Front Page.png" alt="Is Fortune-Telling Science? Lecture Cover" width="600" />
+  <img src=".github/assets/Slides Front Page.png" alt="Is Fortune-Telling Science? Lecture Cover" width="600" style="border-radius: 15px; box-shadow: 0 8px 16px rgba(0,0,0,0.2);" />
 </div>
 
 **Core content accessible to all users**:
@@ -112,6 +120,10 @@ Through exploring the relationship between divination and science, we gradually 
 3. Explore long-term partnership possibilities
 
 ## 📂 Project Structure
+
+<div align="center">
+  <img src=".github/assets/icon/Back Bag.PNG" alt="Elephenotype Back Bag" width="300" style="border-radius: 15px; box-shadow: 0 6px 12px rgba(0,0,0,0.15);" />
+</div>
 
 ```
 .
