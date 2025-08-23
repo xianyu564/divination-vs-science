@@ -162,14 +162,14 @@
 #### 2️⃣ 个人赞助 / Personal Sponsorship
 **个人支持者，支持作者的科研工作**
 <div align="center">
-  <img src=".github/assets/WeChat Sponsor Code.jpg" alt="微信赞助码" width="150" />
-  <img src=".github/assets/SG PayNow Sponsor Code.jpg" alt="PayNow赞助码" width="150" />
+  <img src=".github/assets/sponsor-qr-code/WeChat Sponsor Code.jpg" alt="微信赞助码" width="150" />
+<img src=".github/assets/sponsor-qr-code/SG PayNow Sponsor Code.jpg" alt="PayNow赞助码" width="150" />
 </div>
 
 #### 3️⃣ 公司赞助 / Corporate Sponsorship
 **企业/组织，支持创业项目发展**
 <div align="center">
-  <img src=".github/assets/Start-up Company Code.PNG" alt="创业公司聚合码" width="150" />
+  <img src=".github/assets/sponsor-qr-code/Start-up Company Code.PNG" alt="创业公司聚合码" width="150" />
 </div>
 
 **注意**：通过微信/PayNow/公司二维码赞助后，请发送邮件至 z_zz@u.nus.edu 获取私密仓库访问权限。如希望接受传统回礼，可在邮件中留下收货地址。**未来计划**：当我们获得足够的研究支持后，该社科研究仓库将向所有用户开放。

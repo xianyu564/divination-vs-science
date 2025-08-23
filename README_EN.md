@@ -172,14 +172,14 @@ Through exploring the relationship between divination and science, we gradually 
 #### 2️⃣ Personal Sponsorship
 **For individual supporters, supporting the author's research work**
 <div align="center">
-  <img src=".github/assets/WeChat Sponsor Code.jpg" alt="WeChat Sponsor Code" width="150" />
-  <img src=".github/assets/SG PayNow Sponsor Code.jpg" alt="PayNow Sponsor Code" width="150" />
+  <img src=".github/assets/sponsor-qr-code/WeChat Sponsor Code.jpg" alt="WeChat Sponsor Code" width="150" />
+<img src=".github/assets/sponsor-qr-code/SG PayNow Sponsor Code.jpg" alt="PayNow Sponsor Code" width="150" />
 </div>
 
 #### 3️⃣ Corporate Sponsorship
 **For businesses/organizations, supporting startup project development**
 <div align="center">
-  <img src=".github/assets/Start-up Company Code.PNG" alt="Start-up Company Code" width="150" />
+  <img src=".github/assets/sponsor-qr-code/Start-up Company Code.PNG" alt="Start-up Company Code" width="150" />
 </div>
 
 **Note**: After sponsoring via WeChat/PayNow/Company QR code, please email z_zz@u.nus.edu to get private repository access. If you wish to receive traditional gifts, please include your mailing address in the email. **Future Plan**: When we receive sufficient research support, this social science research repository will be open to all users.

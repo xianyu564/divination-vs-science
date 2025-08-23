@@ -85,13 +85,13 @@ Welcome to the "Is Fortune-Telling Science?" Project Documentation Center!
 
 **个人赞助 / Personal Sponsorship**
 <div align="center">
-  <img src="../.github/assets/WeChat Sponsor Code.jpg" alt="微信赞助码" width="120" />
-  <img src="../.github/assets/SG PayNow Sponsor Code.jpg" alt="PayNow赞助码" width="120" />
+  <img src="../.github/assets/sponsor-qr-code/WeChat Sponsor Code.jpg" alt="微信赞助码" width="120" />
+<img src="../.github/assets/sponsor-qr-code/SG PayNow Sponsor Code.jpg" alt="PayNow赞助码" width="120" />
 </div>
 
 **公司赞助 / Corporate Sponsorship**
 <div align="center">
-  <img src="../.github/assets/Start-up Company Code.PNG" alt="创业公司聚合码" width="120" />
+  <img src="../.github/assets/sponsor-qr-code/Start-up Company Code.PNG" alt="创业公司聚合码" width="120" />
 </div>
 
 ### 商业客户 / Business Clients
