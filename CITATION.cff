@@ -9,8 +9,8 @@ content-license-url: https://creativecommons.org/licenses/by-nc-sa/4.0/
 code-license: MIT
 code-license-url: https://opensource.org/licenses/MIT
 repository-code: https://github.com/xianyu564/divination-vs-science
-url: https://xianyu564.github.io/divination-vs-science/
-abstract: "A philosophical framework exploring the relationship between divination and science, providing methodologies for applying traditional wisdom in modern decision support. This repository serves as both a knowledge community and a startup cold-start platform for the Elephenotype project. 探索玄学与科学关系的哲学框架，为现代决策支持中应用传统智慧提供方法论。"
+url: https://github.com/xianyu564/divination-vs-science
+abstract: "A philosophical framework exploring the relationship between divination and science, providing methodologies for applying traditional wisdom in modern decision support. This repository serves as both a knowledge community and a startup cold-start platform for the Elephenotype project."
 keywords:
   - "divination"
   - "science"
@@ -18,17 +18,6 @@ keywords:
   - "decision-support"
   - "traditional-wisdom"
   - "startup-methodology"
-  - "xuanxue"
-  - "metaphysics"
-  - "feng-shui"
-  - "yijing"
-  - "falsifiability"
-  - "philosophy-of-science"
-  - "玄学"
-  - "科学"
-  - "哲学"
-  - "象数"
-  - "阴阳五行"
 authors:
   - family-names: ["Zhang", "张"]
     given-names: ["Ziyang", "子阳"]

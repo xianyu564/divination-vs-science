@@ -1,0 +1,31 @@
+# Robots.txt for Divination vs Science Web Portal
+User-agent: *
+Allow: /
+
+# Web portal - main content
+Allow: /web/
+Allow: /web/index.html
+Allow: /web/zh-tw/
+Allow: /web/en/
+
+# Knowledge base - open content
+Allow: /knowledge/
+Allow: /docs/
+Allow: /.github/assets/
+
+# Repository files
+Allow: /README.md
+Allow: /README_EN.md
+Allow: /CITATION.cff
+Allow: /LICENSE
+
+# Block sensitive directories
+Disallow: /.git/
+Disallow: /.github/workflows/
+Disallow: /node_modules/
+
+# Sitemap
+Sitemap: https://xianyu564.github.io/divination-vs-science/web/sitemap.xml
+
+# Crawl delay for respectful crawling
+Crawl-delay: 1

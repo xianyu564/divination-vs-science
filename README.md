@@ -55,10 +55,6 @@
 
 通过探讨玄学与科学的关系，我们逐步深入到**东方术数(命理、占卜、风水)**的哲学框架，探索这些传统智慧在当代科技社会中的意义，并探讨其在现代决策支持中的应用。
 
-🌍 **在线访问**: [https://xianyu564.github.io/divination-vs-science/](https://xianyu564.github.io/divination-vs-science/)
-
-📖 **学术引用**: 详见 [CITATION.cff](CITATION.cff) | [引用指南](https://xianyu564.github.io/divination-vs-science/xuanxue-vs-science/#引用本项目--how-to-cite)
-
 ## 📚 立即开始探索 / Start Exploring Now
 
 ### 🎯 核心内容（完全开放）
@@ -67,20 +63,13 @@
 </div>
 
 **所有用户均可访问的核心内容**：
-- 📖 **[讲座材料](https://xianyu564.github.io/divination-vs-science/lectures/)** - 完整的PPT演示和讲者笔记
-- 🔍 **[常见问题](https://xianyu564.github.io/divination-vs-science/faq/)** - 玄学与科学边界的FAQ
-- 📚 **[学术资源](https://xianyu564.github.io/divination-vs-science/academics/)** - 论文、书籍和链接
+- 📖 **[讲座材料](knowledge/lectures/)** - 完整的PPT演示和讲者笔记
+- 🔍 **[常见问题](knowledge/faq/)** - 玄学与科学边界的FAQ
+- 📚 **[学术资源](knowledge/resources/)** - 论文、书籍和链接
 - 💼 **[咨询服务](knowledge/consultation-service/)** - 专业咨询服务
 - 🎯 **[示例文件](knowledge/share-sample/)** - 框架展示用示例文件
-- 🎪 **[活动与讲座](https://xianyu564.github.io/divination-vs-science/events/)** - 学术活动和在线讨论
-- 📖 **[术语词典](https://xianyu564.github.io/divination-vs-science/glossary/)** - 专业术语定义和解释
 
-> 💡 **提示**：从[主页](https://xianyu564.github.io/divination-vs-science/xuanxue-vs-science/)开始快速理解核心概念，然后深入FAQ和学术资源。
-
-### 🌐 多语言支持 / Multilingual Support
-- 🇨🇳 [简体中文](https://xianyu564.github.io/divination-vs-science/xuanxue-vs-science/) - 主要版本
-- 🇹🇼 [繁體中文](https://xianyu564.github.io/divination-vs-science/zh-tw/xuanxue-vs-science/) - 港澳台用户
-- 🇺🇸 [English](https://xianyu564.github.io/divination-vs-science/en/xuanxue-vs-science/) - International users
+> 💡 **提示**：从讲座材料开始快速理解核心概念，然后深入FAQ和学术资源。
 
 ### 开源共享部分 / Open Source Shared Components
 - **哲学思辨**：关于玄学与科学关系的深度思考，人类智慧边界拓展的探索

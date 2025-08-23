@@ -11,7 +11,6 @@
     "format": "echo \"Formatting files...\""
   },
   "keywords": [
-    "xuanxue",
     "divination",
     "science",
     "philosophy",
@@ -19,22 +18,7 @@
     "decision-support",
     "chinese-philosophy",
     "metaphysics",
-    "feng-shui",
-    "yijing",
-    "i-ching",
-    "numerology",
-    "玄学",
-    "科学",
-    "哲学",
-    "象数",
-    "阴阳五行",
-    "风水",
-    "易经",
-    "命理",
-    "占卜",
-    "startup-methodology",
-    "falsifiability",
-    "philosophy-of-science"
+    "startup-methodology"
   ],
   "author": {
     "name": "Ziyang Zhang",
