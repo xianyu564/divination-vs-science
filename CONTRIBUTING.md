@@ -96,6 +96,7 @@ git push origin feature/your-feature-name
 - [Markdown 语法](https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax) / [Markdown Syntax](https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax)
 - [项目指导思想](docs/project-overview/项目概述_Project-Overview.md#指导思想) / [Project Guiding Principles](docs/project-overview/项目概述_Project-Overview.md#指导思想)
 - [多语言支持](docs/LANGUAGES.md) / [Multilingual Support](docs/LANGUAGES.md)
+- [术语词汇库](docs/GLOSSARY.md) / [Terminology Glossary](docs/GLOSSARY.md)
 
 ## 🆘 需要帮助？/ Need Help?
 

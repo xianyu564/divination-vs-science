@@ -37,6 +37,7 @@
 - `docs/license-citation/许可与引用_License-Citation.md` - 中英文对照
 - `docs/sponsorship/赞助支持_Sponsorship-Support.md` - 中英文对照
 - `docs/contributing/贡献指南_Contributing-Guide.md` - 中英文对照
+- `docs/GLOSSARY.md` - 术语词汇库（中英文对照）
 
 ## 🔄 翻译策略 / Translation Strategy
 

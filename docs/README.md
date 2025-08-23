@@ -44,6 +44,7 @@ Welcome to the "Is Fortune-Telling Science?" Project Documentation Center!
 
 - [捐赠者名单](sponsors-list.md) - 所有捐赠者的记录和统计 / Records and statistics of all donors
 - [多语言支持](LANGUAGES.md) - 多语言支持说明和翻译指南 / Multi-language support description and translation guide
+- [术语词汇库](GLOSSARY.md) - 核心术语的专业定义与辨析 / Professional definitions and analysis of core terminology
 
 ## 🔍 快速导航 / Quick Navigation
 
