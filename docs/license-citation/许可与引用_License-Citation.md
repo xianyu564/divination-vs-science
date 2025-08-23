@@ -3,16 +3,29 @@
 ## 🧾 许可证说明 / License Information
 
 ### 📄 许可证信息 / License Details
+
+#### 🔓 开放部分（哲学思辨材料）
 - **内容许可 (Content License)**: 文字、图片、幻灯片与讲义采用 **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)** 许可
   - ✅ 允许：署名后分享、教育使用、学术引用、翻译改编、讲义再整理 / Allowed: Attribution-based sharing, educational use, academic citation, translation adaptation, lecture notes reorganization
   - ✅ 改编要求：必须以相同许可条款分享改编作品 / Adaptation requirement: Must share adaptations under the same license terms
   - ❌ 禁止：商业使用 / Prohibited: Commercial use
   - 🔗 许可证详情：/ License details: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
-- **代码许可 (Code License)**: 脚本、工具和技术实现采用 **MIT License**，遵循开源社区标准
+#### 🔒 保留部分（技术实现）
+- **代码许可 (Code License)**: 开源工具和脚本采用 **MIT License**，遵循开源社区标准
   - ✅ 允许：商业使用、修改、分发、私人使用 / Allowed: Commercial use, modification, distribution, private use
   - 📋 要求：保留版权声明和许可证声明 / Required: Retain copyright notice and license statement
   - 🔗 许可证详情：/ License details: [MIT License](https://opensource.org/licenses/MIT)
+
+- **商业许可 (Commercial License)**: 专有技术和咨询服务采用**商业许可**
+  - ❌ 禁止：未经授权的商业使用 / Prohibited: Unauthorized commercial use
+  - 🔒 要求：获得商业许可证 / Required: Obtain commercial license
+  - 💰 费用：根据使用范围和商业价值确定 / Fee: Based on usage scope and commercial value
+
+#### 📋 详细许可证文件
+- [代码许可证](CODE-LICENSE.md) - 开源工具和脚本的MIT许可条款
+- [内容许可证](CONTENT-LICENSE.md) - 哲学思辨材料的CC BY-NC-SA 4.0许可条款  
+- [商业许可证](COMMERCIAL-LICENSE.md) - 技术实现和咨询服务的商业许可条款
 
 - **引用文献 (Referenced Materials)**: 已有文献按原文献版权进行转载引用，遵循原始许可条款 / Existing literature follows original copyright terms for reprint and citation
 

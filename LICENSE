@@ -1,0 +1,60 @@
+# 辩证开放理念与混合授权机制 / Dialectical Open Philosophy & Hybrid Licensing Mechanism
+
+## 🌟 核心理念 / Core Philosophy
+
+本项目采用**辩证开放理念与混合授权机制**，旨在实现哲学理念与法律机制的完美结合。
+
+This project adopts the **Dialectical Open Philosophy & Hybrid Licensing Mechanism**, aiming to achieve the perfect integration of philosophical concepts and legal mechanisms.
+
+## 📋 授权结构 / Licensing Structure
+
+### 🔓 开放部分（哲学思辨材料）/ Open Parts (Philosophical Materials)
+- **许可证**: CC BY-NC-SA 4.0
+- **范围**: 讲座材料、FAQ、学术资源、项目概述等
+- **说明**: 完全开放，欢迎学习、分享和改编
+
+### 🔒 保留部分（技术实现）/ Reserved Parts (Technical Implementation)
+- **许可证**: 商业许可
+- **范围**: 工具开发、模板、自动化脚本等
+- **说明**: 保留商业价值，用于支持"让传统智慧到达人们身边"的理想
+
+## 📁 详细许可证文件 / Detailed License Files
+
+### 代码许可 / Code License
+- 位置: `docs/license-citation/CODE-LICENSE.md`
+- 内容: 详细的代码使用条款和MIT许可说明
+
+### 内容许可 / Content License  
+- 位置: `docs/license-citation/CONTENT-LICENSE.md`
+- 内容: 详细的CC BY-NC-SA 4.0许可条款和引用规范
+
+### 商业许可 / Commercial License
+- 位置: `docs/license-citation/COMMERCIAL-LICENSE.md`
+- 内容: 商业使用条款和咨询服务许可
+
+### 综合说明 / Comprehensive Guide
+- 位置: `docs/license-citation/许可与引用_License-Citation.md`
+- 内容: 完整的许可证说明、引用规范和商业使用指南
+
+## 🔄 辩证开放原则 / Dialectical Open Principles
+
+1. **开放共享**: 哲学思辨材料完全开放，促进人类智慧边界拓展
+2. **价值保留**: 技术实现部分保留商业价值，支持可持续发展
+3. **平衡发展**: 通过商业价值支持开放理念，实现良性循环
+4. **社区共建**: 欢迎社区贡献，共同推动项目发展
+
+## 📞 许可证咨询 / License Consultation
+
+如有许可证相关问题，请联系：
+- **邮箱**: z_zz@u.nus.edu
+- **主题**: License Consultation
+- **详细文档**: [docs/license-citation/许可与引用_License-Citation.md](docs/license-citation/许可与引用_License-Citation.md)
+
+---
+
+**注意**: 本许可证遵循项目的辩证开放理念，具体条款请参考各子目录中的详细许可证文件。
+**Note**: This license follows the project's dialectical open philosophy. Please refer to the detailed license files in each subdirectory for specific terms.
+
+---
+
+**最后更新**: 2025年8月 / Last Updated: August 2025

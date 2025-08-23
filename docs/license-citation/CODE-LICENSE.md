@@ -1,4 +1,6 @@
-MIT License
+# 代码许可证 / Code License
+
+## 📜 MIT License
 
 Copyright (c) 2025 Ziyang (Xianyu) Zhang 
 
@@ -22,7 +24,7 @@ SOFTWARE.
 
 ---
 
-# MIT许可证（中译本）
+## 📜 MIT许可证（中译本）
 
 **注意：本中译本仅供参考，法律效力以英文版本为准。**
 
@@ -36,4 +38,29 @@ SOFTWARE.
 
 ---
 
+## 🔒 商业使用限制 / Commercial Use Restrictions
+
+### 适用范围 / Scope of Application
+本MIT许可证适用于项目中的**开源工具、模板和脚本**，但**不适用于**：
+
+- 咨询服务内容
+- 商业化的技术实现
+- 私密仓库中的专有代码
+- 其他明确标注为商业许可的部分
+
+### 商业许可 / Commercial License
+如需商业使用上述限制部分，请联系项目维护者获取商业许可证。
+
+---
+
+## 📞 许可证咨询 / License Consultation
+
+如有代码许可证相关问题，请联系：
+- **邮箱**: z_zz@u.nus.edu
+- **主题**: Code License Consultation
+
+---
+
 **Note: This Chinese translation is for reference only. The English version shall prevail for legal purposes.**
+
+**最后更新**: 2025年8月 / Last Updated: August 2025
