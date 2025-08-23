@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: 'zh-CN' }}">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  
+  <!-- Primary Meta Tags -->
+  <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
+  <meta name="title" content="{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}">
+  <meta name="description" content="{{ page.description | default: page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
+  <meta name="keywords" content="玄学,科学,哲学,传统智慧,决策支持,象数,阴阳五行,可证伪性,xuanxue,divination,science,philosophy,traditional wisdom,decision support">
+  <meta name="author" content="Ziyang Zhang (Xianyu)">
+  <meta name="robots" content="index, follow">
+  
+  <!-- Language and Locale -->
+  <meta name="language" content="{{ page.lang | default: 'zh-CN' }}">
+  <meta http-equiv="Content-Language" content="{{ page.lang | default: 'zh-CN' }}">
+  
+  <!-- Canonical URL -->
+  <link rel="canonical" href="{{ page.canonical_url | default: page.url | absolute_url }}">
+  
+  <!-- Alternate Language Links (hreflang) -->
+  {% if page.alternate_languages %}
+    {% for alt in page.alternate_languages %}
+      <link rel="alternate" hreflang="{{ alt.lang }}" href="{{ alt.url | absolute_url }}">
+    {% endfor %}
+  {% endif %}
+  
+  <!-- Default alternate languages for main pages -->
+  {% unless page.alternate_languages %}
+    {% if page.lang == 'zh-CN' or page.lang == nil %}
+      <link rel="alternate" hreflang="zh-CN" href="{{ page.url | absolute_url }}">
+      <link rel="alternate" hreflang="zh-TW" href="{{ '/zh-tw' | append: page.url | absolute_url }}">
+      <link rel="alternate" hreflang="en" href="{{ '/en' | append: page.url | absolute_url }}">
+    {% elsif page.lang == 'zh-TW' %}
+      <link rel="alternate" hreflang="zh-CN" href="{{ page.url | remove_first: '/zh-tw' | absolute_url }}">
+      <link rel="alternate" hreflang="zh-TW" href="{{ page.url | absolute_url }}">
+      <link rel="alternate" hreflang="en" href="{{ page.url | replace_first: '/zh-tw', '/en' | absolute_url }}">
+    {% elsif page.lang == 'en' %}
+      <link rel="alternate" hreflang="zh-CN" href="{{ page.url | remove_first: '/en' | absolute_url }}">
+      <link rel="alternate" hreflang="zh-TW" href="{{ page.url | replace_first: '/en', '/zh-tw' | absolute_url }}">
+      <link rel="alternate" hreflang="en" href="{{ page.url | absolute_url }}">
+    {% endif %}
+  {% endunless %}
+  
+  <!-- Open Graph / Facebook -->
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="{{ page.url | absolute_url }}">
+  <meta property="og:title" content="{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}">
+  <meta property="og:description" content="{{ page.description | default: page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
+  <meta property="og:image" content="{{ '/assets/images/og-image.png' | absolute_url }}">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta property="og:locale" content="{{ page.lang | default: 'zh_CN' | replace: '-', '_' }}">
+  <meta property="og:site_name" content="{{ site.title }}">
+  
+  <!-- Twitter -->
+  <meta property="twitter:card" content="summary_large_image">
+  <meta property="twitter:url" content="{{ page.url | absolute_url }}">
+  <meta property="twitter:title" content="{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}">
+  <meta property="twitter:description" content="{{ page.description | default: page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
+  <meta property="twitter:image" content="{{ '/assets/images/og-image.png' | absolute_url }}">
+  <meta property="twitter:creator" content="@xianyu564">
+  <meta property="twitter:site" content="@xianyu564">
+  
+  <!-- Google Scholar Meta Tags -->
+  {% if page.layout == 'lecture' or page.citation %}
+    <meta name="citation_title" content="{{ page.title | escape }}">
+    <meta name="citation_author" content="Zhang, Ziyang">
+    <meta name="citation_publication_date" content="{{ page.date | default: '2025-01-01' | date: '%Y/%m/%d' }}">
+    <meta name="citation_pdf_url" content="{{ page.pdf_url | absolute_url }}">
+    <meta name="citation_abstract_html_url" content="{{ page.url | absolute_url }}">
+    {% if page.doi %}
+      <meta name="citation_doi" content="{{ page.doi }}">
+    {% endif %}
+  {% endif %}
+  
+  <!-- Favicon -->
+  <link rel="icon" type="image/x-icon" href="{{ '/favicon.ico' | relative_url }}">
+  <link rel="apple-touch-icon" sizes="180x180" href="{{ '/assets/images/apple-touch-icon.png' | relative_url }}">
+  <link rel="icon" type="image/png" sizes="32x32" href="{{ '/assets/images/favicon-32x32.png' | relative_url }}">
+  <link rel="icon" type="image/png" sizes="16x16" href="{{ '/assets/images/favicon-16x16.png' | relative_url }}">
+  
+  <!-- CSS -->
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+  
+  <!-- Jekyll SEO plugin (if available) -->
+  {% seo title=false %}
+  
+  <!-- Google Analytics (if configured) -->
+  {% if site.google_analytics %}
+    <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', '{{ site.google_analytics }}');
+    </script>
+  {% endif %}
+  
+  <!-- Schema.org Organization markup -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "{{ site.title }}",
+    "url": "{{ site.url }}{{ site.baseurl }}",
+    "logo": "{{ '/assets/images/logo.png' | absolute_url }}",
+    "sameAs": [
+      "https://github.com/xianyu564/divination-vs-science",
+      "https://github.com/xianyu564"
+    ],
+    "founder": {
+      "@type": "Person",
+      "name": "Ziyang Zhang",
+      "alternateName": "Xianyu",
+      "email": "z_zz@u.nus.edu"
+    }
+  }
+  </script>
+  
+  <!-- Additional structured data from page -->
+  {{ content | extract_schema_json }}
+</head>
+
+<body class="{{ page.lang | default: 'zh-cn' }}">
+  
+  {% include header.html %}
+  
+  <main class="page-content" aria-label="Content">
+    <div class="wrapper">
+      {{ content }}
+    </div>
+  </main>
+  
+  {% include footer.html %}
+  
+  <!-- JavaScript -->
+  <script src="{{ '/assets/js/main.js' | relative_url }}"></script>
+  
+</body>
+</html>
