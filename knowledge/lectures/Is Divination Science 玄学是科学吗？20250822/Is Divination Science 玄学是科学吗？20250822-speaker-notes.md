@@ -1,26 +1,26 @@
-# 《玄学是科学吗？》讲者笔记
+# 《玄学是科学吗？》讲者笔记 | Speaker Notes for "Is Divination Science?"
 
-## 基本信息
-- 讲座标题：玄学是科学吗？
-- 日期：2025年8月22日
-- 时长：120分钟（含中场休息10分钟与Q&A）
-- 目标受众：对传统文化与现代科学关系感兴趣的学者、学生、创业者
-- 主讲人：张子阳 (衔瑜)
-- Slides总数：16张
+## 基本信息 | Basic Information
+- 讲座标题：玄学是科学吗？ | Lecture Title: Is Divination Science?
+- 日期：2025年8月22日 | Date: August 22, 2025
+- 时长：120分钟（含中场休息10分钟与Q&A） | Duration: 120 minutes (including 10-minute break and Q&A)
+- 目标受众：对传统文化与现代科学关系感兴趣的学者、学生、创业者 | Target Audience: Scholars, students, and entrepreneurs interested in the relationship between traditional culture and modern science
+- 主讲人：张子阳 (衔瑜) | Speaker: Zhang Ziyang (Xianyu)
+- Slides总数：16张 | Total Slides: 16
 
-## 讲座大纲
-1. 开场与问题提出 (3+4分钟，共7分钟)
-2. 科学 / 伪科学 / 玄学 (13+13+9分钟，共35分钟)
-3. 玄学实践与反思 (6+5+2+7+12+7+8+3分钟，共50分钟)
-4. 总结与交流 (6+8+4分钟，共18分钟)
-5. 中场休息与Q&A (10分钟)
+## 讲座大纲 | Lecture Outline
+1. 开场与问题提出 (3+4分钟，共7分钟) | Opening and Problem Statement (3+4 min, total 7 min)
+2. 科学 / 伪科学 / 玄学 (13+13+9分钟，共35分钟) | Science / Pseudoscience / Metaphysics (13+13+9 min, total 35 min)
+3. 玄学实践与反思 (6+5+2+7+12+7+8+3分钟，共50分钟) | Metaphysics Practice and Reflection (6+5+2+7+12+7+8+3 min, total 50 min)
+4. 总结与交流 (6+8+4分钟，共18分钟) | Summary and Discussion (6+8+4 min, total 18 min)
+5. 中场休息与Q&A (10分钟) | Break and Q&A (10 min)
 
-> **各部分合计：7+35+50+18+10=120分钟**
+> 各部分合计：7+35+50+18+10=120分钟 | Total: 7+35+50+18+10=120 minutes
 ---
 
-## 逐页演讲稿
+## 逐页演讲稿 | Slide-by-Slide Script
 
-### Slide 1：标题页
+### Slide 1：标题页 | Title Slide
 ![Slide1.PNG](Slides%20Backup/Slide1.PNG)
 
 #### 主要内容（3分钟）
@@ -30,7 +30,7 @@
 
 ---
 
-### Slide 2：分享大纲（标语：不要把孩子和洗脚水一起倒掉）
+### Slide 2：分享大纲（标语：不要把孩子和洗脚水一起倒掉） | Lecture Outline (Slogan: Don't throw away the baby with the bathwater)
 ![Slide2.PNG](Slides%20Backup/Slide2.PNG)
 
 #### 主要内容（4分钟）
@@ -40,7 +40,7 @@
 
 ---
 
-### Slide 3：什么是玄学（本讲含义紧缩在术数）
+### Slide 3：什么是玄学（本讲含义紧缩在术数） | What is Metaphysics (Focusing on Numerology in this Lecture)
 ![Slide3.PNG](Slides%20Backup/Slide3.PNG)
 
 #### 主要内容（13分钟）
@@ -54,7 +54,7 @@
 
 ---
 
-### Slide 4：什么是科学（自然 / 社会 / 形式）
+### Slide 4：什么是科学（自然 / 社会 / 形式） | What is Science (Natural / Social / Formal)
 ![Slide4.PNG](Slides%20Backup/Slide4.PNG)
 
 #### 主要内容（13分钟）
