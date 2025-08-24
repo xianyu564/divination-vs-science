@@ -69,7 +69,7 @@
 - 💼 **[咨询服务](knowledge/consultation-service/)** - 专业咨询服务
 - 🎯 **[示例文件](knowledge/share-sample/)** - 框架展示用示例文件
 
-> 💡 **提示**：从讲座材料开始快速理解核心概念，然后深入FAQ和学术资源。
+> 💡 **建议路径**：核心讲座 → FAQ解答 → 学术资源深入 → 实际应用探索
 
 ### 开源共享部分 / Open Source Shared Components
 - **哲学思辨**：关于玄学与科学关系的深度思考，人类智慧边界拓展的探索

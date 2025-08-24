@@ -5,9 +5,17 @@
 本仓库公开汇集我关于**"玄学是科学吗？"**这一核心问题的系统化思考与应用实践：  
 This repository openly compiles my systematic thinking and practical applications regarding the core question **"Is Fortune-Telling Science?"**:
 
-- 讲座用 **Slides**（PDF/PPTX） / Lecture **Slides** (PDF/PPTX)
-- 对应的 **讲者笔记**（逐页提词/口播稿） / Corresponding **Speaker Notes** (page-by-page prompts/scripts)
-- 面向读者与产品团队的 **延伸阅读**（学术门牌、方法论） / **Extended Readings** for readers and product teams (academic references, methodologies)
+### 🎯 核心内容 / Core Content
+- **[📺 核心讲座](../knowledge/lectures/Is%20Divination%20Science%20玄学是科学吗？20250822/)**：《玄学是科学吗？》（2025年8月22日）
+  - **16张精心设计的Slides**（PDF/PPTX格式）/ **16 carefully designed slides** (PDF/PPTX format)
+  - **完整演讲者逐字稿**（适合未到场听众的almost逐字稿）/ **Complete speaker script** (almost verbatim for absent audience)
+  - **Caption补充空间**（便于后续视频制作）/ **Caption supplement space** (for future video production)
+  - **60分钟系统性深度分析** / **60-minute systematic in-depth analysis**
+
+### 📚 扩展资源 / Extended Resources
+- **学术资源**（研究参考、方法论）/ **Academic Resources** (research references, methodologies)
+- **FAQ问答**（常见问题解答）/ **FAQ** (frequently asked questions)
+- **应用指南**（决策支持框架）/ **Application Guide** (decision support framework)
 
 通过探讨玄学与科学的关系，我们逐步深入到**东方术数(命理、占卜、风水)**的哲学框架，并探讨其在现代决策支持中的应用。
 Through exploring the relationship between divination and science, we gradually delve into the philosophical framework of **Eastern divination systems (numerology, fortune-telling, feng shui)** and discuss their application in modern decision support.
