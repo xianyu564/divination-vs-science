@@ -37,7 +37,15 @@ Welcome to the "Is Fortune-Telling Science?" Project Documentation Center!
 > 💡 **Note**: This `docs/` folder contains **technical documentation**, for **philosophical materials** please visit the `knowledge/` folder
 
 ### 🧠 哲学思辨材料 / Philosophical Materials
-- [讲座材料](../knowledge/lectures/) - 探索命理、占卜、风水等传统智慧在当代科技社会中的意义 / Exploring the significance of traditional wisdom (divination, fortune-telling, feng shui) in contemporary technological society
+
+#### 🎯 核心讲座 / Core Lecture
+- **[📺 《玄学是科学吗？》（2025.08.22）](../knowledge/lectures/Is%20Divination%20Science%20玄学是科学吗？20250822/)**
+  - 🎯 **16张精心设计的Slides** + **完整演讲者逐字稿**
+  - ⏱️ **120分钟**系统性深度分析
+  - 📝 **多层次内容组织**（主要内容+延伸思考）
+  - 🔍 探索传统智慧在现代社会中的价值与应用
+
+#### 📚 扩展资源 / Extended Resources
 - [常见问题](../knowledge/faq/) - 玄学与科学边界的哲学探讨 / Philosophical exploration of the boundary between metaphysics and science
 - [学术资源](../knowledge/resources/) - 人类智慧边界拓展的研究资料 / Research materials on expanding the boundaries of human wisdom
 - [咨询服务](../knowledge/consultation-service/) - 基于哲学框架的专业指导 / Professional guidance based on philosophical framework
