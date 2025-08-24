@@ -65,16 +65,17 @@ knowledge/
 
 **讲座概览 | Lecture Overview:**
 - **🎯 核心问题**: 探讨玄学与科学的关系，提供多元认知框架
-- **⏱️ 时长**: 60分钟（含Q&A）
+- **⏱️ 时长**: 120分钟（含中场休息与Q&A）
 - **🎯 目标受众**: 学者、学生、创业者及对传统文化与现代科学关系感兴趣的人群
 - **📊 内容结构**: 16张精心设计的slides，完整覆盖从定义到应用的全流程思考
 
 **完整材料包 | Complete Materials:**
 - 📄 **PDF版本**: 完整的讲座演示文稿（16张slides） / Complete lecture presentation (16 slides)
 - 🎨 **PPT版本**: 可编辑的PowerPoint文件，便于个性化调整 / Editable PowerPoint file for customization
-  - 详细的演讲脚本（适合未到场听众的几乎逐字的演讲稿）
-  - Caption补充空间（便于后续视频制作）
-  - 时间控制提示和互动建议
+- 📝 **演讲者笔记**: 详细的speaker notes，包含：
+  - 主要内容（每页核心演讲内容）
+  - 延伸思考（基于slides的深层思考）
+  - 时间控制（120分钟详细分配）
   - 常见问题应对策略
   - 技术实施指南
 

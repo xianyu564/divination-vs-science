@@ -40,9 +40,9 @@ Welcome to the "Is Fortune-Telling Science?" Project Documentation Center!
 
 #### 🎯 核心讲座 / Core Lecture
 - **[📺 《玄学是科学吗？》（2025.08.22）](../knowledge/lectures/Is%20Divination%20Science%20玄学是科学吗？20250822/)**
-  - 🎯 **16张slides** + **完整演讲者逐字稿**
-  - ⏱️ **60分钟**系统性深度分析
-  - 📝 **Caption补充空间**便于视频制作
+  - 🎯 **16张精心设计的Slides** + **完整演讲者逐字稿**
+  - ⏱️ **120分钟**系统性深度分析
+  - 📝 **多层次内容组织**（主要内容+延伸思考）
   - 🔍 探索传统智慧在现代社会中的价值与应用
 
 #### 📚 扩展资源 / Extended Resources
