@@ -72,8 +72,7 @@ knowledge/
 **完整材料包 | Complete Materials:**
 - 📄 **PDF版本**: 完整的讲座演示文稿（16张slides） / Complete lecture presentation (16 slides)
 - 🎨 **PPT版本**: 可编辑的PowerPoint文件，便于个性化调整 / Editable PowerPoint file for customization
-- 📝 **Speaker Notes**: 【全新升级】逐张slide的演讲者逐字稿，包含：
-  - 详细的演讲脚本（适合未到场听众的almost逐字稿）
+  - 详细的演讲脚本（适合未到场听众的几乎逐字的演讲稿）
   - Caption补充空间（便于后续视频制作）
   - 时间控制提示和互动建议
   - 常见问题应对策略
