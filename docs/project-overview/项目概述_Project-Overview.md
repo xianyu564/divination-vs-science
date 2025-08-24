@@ -8,9 +8,9 @@ This repository openly compiles my systematic thinking and practical application
 ### 🎯 核心内容 / Core Content
 - **[📺 核心讲座](../knowledge/lectures/Is%20Divination%20Science%20玄学是科学吗？20250822/)**：《玄学是科学吗？》（2025年8月22日）
   - **16张精心设计的Slides**（PDF/PPTX格式）/ **16 carefully designed slides** (PDF/PPTX format)
-  - **完整演讲者逐字稿**（适合未到场听众的almost逐字稿）/ **Complete speaker script** (almost verbatim for absent audience)
-  - **Caption补充空间**（便于后续视频制作）/ **Caption supplement space** (for future video production)
-  - **60分钟系统性深度分析** / **60-minute systematic in-depth analysis**
+  - **完整演讲者逐字稿**（含主要内容与延伸思考）/ **Complete speaker script** (including main content and extended thoughts)
+  - **结构化讲座笔记**（120分钟详细时间分配）/ **Structured lecture notes** (120-minute detailed time allocation)
+  - **多层次内容组织**（主要内容+小字补充）/ **Multi-level content organization** (main content + supplementary notes)
 
 ### 📚 扩展资源 / Extended Resources
 - **学术资源**（研究参考、方法论）/ **Academic Resources** (research references, methodologies)

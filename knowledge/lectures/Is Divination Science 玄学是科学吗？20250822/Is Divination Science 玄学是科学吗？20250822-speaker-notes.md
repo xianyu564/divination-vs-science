@@ -68,7 +68,7 @@
 
 ---
 
-### Slide 5：科学的尽头是玄学吗？——更接近“真相”的可检验表述
+### Slide 5：科学的尽头是玄学吗？——更接近"真相"的可检验表述 | Is Science's End Metaphysics? — Testable Statements Closer to "Truth"
 ![Slide5.PNG](Slides%20Backup/Slide5.PNG)
 
 #### 主要内容（9分钟）
@@ -80,7 +80,7 @@
 
 ---
 
-### Slide 6：练习题——生肖的断点（时间—历法—体系差异）
+### Slide 6：练习题——生肖的断点（时间—历法—体系差异） | Exercise: Zodiac Boundary Points (Time-Calendar-System Differences)
 ![Slide6.PNG](Slides%20Backup/Slide6.PNG)
 
 #### 主要内容（6分钟）
@@ -91,7 +91,7 @@
 
 ---
 
-### Slide 7：农历 / 黄历（阴阳合历与时令）
+### Slide 7：农历 / 黄历（阴阳合历与时令） | Tung  - ShingLunar Calendar / Almanac (Lunisolar Calendar and Seasons) 
 ![Slide7.PNG](Slides%20Backup/Slide7.PNG)
 
 #### 主要内容（5分钟）
@@ -103,7 +103,7 @@
 
 ---
 
-### Slide 8：阶段小结（后半场议题提示）
+### Slide 8：阶段小结（后半场议题提示） | Interim Summary (Second Half Topics Preview)
 ![Slide8.PNG](Slides%20Backup/Slide8.PNG)
 
 #### 主要内容（2分钟）
@@ -113,7 +113,7 @@
 
 ---
 
-### Slide 9：五行与相关网络（木火土金水）
+### Slide 9：五行与相关网络（木火土金水） | Five Elements and Related Networks (Wood-Fire-Earth-Metal-Water)
 ![Slide9.PNG](Slides%20Backup/Slide9.PNG)
 
 #### 主要内容（7分钟）
@@ -126,7 +126,7 @@
 
 ---
 
-### Slide 10：四柱八字与子平法（实务骨架）
+### Slide 10：四柱八字与子平法（实务骨架） | Four Pillars and Ziping Method (Practical Framework)
 ![Slide10.PNG](Slides%20Backup/Slide10.PNG)
 
 #### 主要内容（12分钟）
@@ -139,7 +139,7 @@
 
 ---
 
-### Slide 11：命可以改吗？——“命/象/调”的区分
+### Slide 11：命可以改吗？——"命/象/调"的区分 | Can Fate Be Changed? — Distinction Between Fate/Symbol/Adjustment
 ![Slide11.PNG](Slides%20Backup/Slide11.PNG)
 
 #### 主要内容（7分钟）
@@ -151,7 +151,7 @@
 
 ---
 
-### Slide 12：卦不走空吗？——误差来源与学科视角
+### Slide 12：卦不走空吗？——误差来源与学科视角 | Don't Hexagrams Fail? — Error Sources and Disciplinary Perspectives
 ![Slide12.PNG](Slides%20Backup/Slide12.PNG)
 
 #### 主要内容（8分钟）
@@ -164,7 +164,7 @@
 
 ---
 
-### Slide 13：术数后传——伦理与边界
+### Slide 13：术数后传——伦理与边界 | Numerology's Legacy — Ethics and Boundaries
 ![Slide13.PNG](Slides%20Backup/Slide13.PNG)
 
 #### 主要内容（3分钟）
@@ -176,7 +176,7 @@
 
 ---
 
-### Slide 14：复盘要点（方法框架与应用准绳）
+### Slide 14：复盘要点（方法框架与应用准绳） | Review Key Points (Methodological Framework and Application Guidelines)
 ![Slide14.PNG](Slides%20Backup/Slide14.PNG)
 
 #### 主要内容（6分钟）
@@ -188,7 +188,7 @@
 
 ---
 
-### Slide 15：延伸资源与交流方式
+### Slide 15：延伸资源与交流方式 | Extended Resources and Communication Channels
 ![Slide15.PNG](Slides%20Backup/Slide15.PNG)
 
 #### 主要内容（8分钟）
@@ -203,7 +203,7 @@
 
 ---
 
-### Slide 16：结语与Q&A
+### Slide 16：结语与Q&A | Conclusion and Q&A
 ![Slide16.PNG](Slides%20Backup/Slide16.PNG)
 
 #### 主要内容（4分钟）
@@ -220,26 +220,26 @@
 
 ---
 
-## 讲座实施指南
+## 讲座实施指南 | Lecture Implementation Guide
 
-### 演讲注意事项
+### 演讲注意事项 | Speaking Guidelines
 - 语调：克制而清晰，避免“站队式”表态；围绕“定义—证据—校准”展开。
 - 节奏：遵循每页时间；遇到互动热时，用“问题四件套（对象—测量—协议—模型）”把讨论拉回可检验层面。
 - 互动：就地取材做**小校准**（如让听众给出具体时间/地点/口径，再对比不同规则的结论）。
 - 争议：以**方法学**而非“信仰立场”作回应。
 
-### 技术准备
+### 技术准备 | Technical Preparation
 - 设备：投影/麦克风/激光笔；计时器可见。  
 - 备份：PDF一份；关键页纸质备份。  
 - 网络：如需现场查表或演示，请提前测试网络与备用方案。
 
-### 备用材料库（按需抽取）
+### 备用材料库（按需抽取） | Backup Materials (Use as Needed)
 - 历法与节气的“口径差异”实例卡。  
 - 人类学/心理学关于占卜与“为什么觉得准”的条目卡。  
 - 子平法实务“查根/结根/合不化”的流程卡。  
 - “误差与校准”的生活化示例（体脂秤、油耗、马力、不确定度写法）。
 
-### 常见问题应对（示例口径）
+### 常见问题应对（示例口径） | FAQ Responses (Sample Approaches)
 - **Q：玄学能预测未来吗？**  
   **A：** 能提供**结构化的思考框架**与**情境建模**；若声称“可重复、可证伪”的预测，就进入了科学的检验区，需给出协议与数据。
 - **Q：如何区分玄学与迷信？**  
@@ -250,7 +250,7 @@
 
 ---
 
-## 使用说明
+## 使用说明 | Usage Instructions
 - 每页包含三部分：  
-  **主要内容**（讲什么）＋ **小字补充**（由此页联想到什么）＋ **时间控制**（见每页标题后括注）。  
-- 讲述中尽量用“对象—测量—协议—模型”的四件套串联，减少抽象口号，保留可检验与可落地的部分。
+  主要内容（讲什么）＋ 小字补充（由此页联想到什么）＋ 时间控制（见每页标题后括注）。  
+- 讲述中尽量用"对象—测量—协议—模型"的四件套串联，减少抽象口号，保留可检验与可落地的部分。
