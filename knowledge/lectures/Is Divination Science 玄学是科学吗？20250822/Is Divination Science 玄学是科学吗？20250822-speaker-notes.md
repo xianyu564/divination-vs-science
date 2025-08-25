@@ -14,26 +14,26 @@
 > 总讲时 90 分钟：上半场至第 8 页；下半场为第 9–16 页；中间休息 10 分钟；最后 Q\&A 15–20 分钟。
 > Talk time 90 minutes: Part I through Slide 8; Part II Slides 9–16; 10-minute break in between; 15–20-minute Q\&A at the end.
 
-1. Slide 1 标题页 / Title — 3′
-2. Slide 2 分享大纲 / Outline — 3′
-3. Slide 3 什么是玄学（聚焦术数）/ What is “Metaphysics” (Numerology focus) — 10′
-4. Slide 4 什么是科学 / What is Science — 10′
-5. Slide 5 “科学的尽头是玄学吗？” / Is Science’s End Metaphysics? — 6′
-6. Slide 6 练习：生肖断点 / Exercise: Zodiac Boundaries — 5′
-7. Slide 7 农历与节气 / Lunisolar Calendar & Seasons — 4′
-8. Slide 8 阶段小结 / Interim Summary — 4′
+Slide 1 标题页 / Title — 3′
+Slide 2 分享大纲 / Outline — 3′
+Slide 3 什么是玄学（聚焦术数）/ What is “Metaphysics” (Numerology focus) — 10′
+Slide 4 什么是科学 / What is Science — 12′
+Slide 5 “科学的尽头是玄学吗？” / Is Science’s End Metaphysics? — 9′
+Slide 6 练习：生肖断点 / Exercise: Zodiac Boundaries — 2′
+Slide 7 农历与节气 / Lunisolar Calendar & Seasons — 4′
+Slide 8 阶段小结 / Interim Summary — 2′
    小计 / Subtotal：45′
 
 — 中场休息 Intermission：10′ —
 
-9. Slide 9 五行与网络 / Five-Element Networks — 6′
-10. Slide 10 四柱与子平法 / Four Pillars & Ziping — 12′
-11. Slide 11 命/象/调的区分 / Fate vs. Symbols vs. Adjustment — 6′
-12. Slide 12 误差来源与学科视角 / Error Sources & Disciplinary Views — 6′
-13. Slide 13 伦理与边界 / Ethics & Boundaries — 3′
-14. Slide 14 复盘要点 / Review & Guidelines — 5′
-15. Slide 15 延伸资源 / Extended Resources — 4′
-16. Slide 16 结语 / Conclusion — 3′
+Slide 9 五行与网络 / Five-Element Networks — 3′
+Slide 10 四柱与子平法 / Four Pillars & Ziping — 12′
+Slide 11 命/象/调的区分 / Fate vs. Symbols vs. Adjustment — 9′
+Slide 12 误差来源与学科视角 / Error Sources & Disciplinary Views — 6′
+Slide 13 伦理与边界 / Ethics & Boundaries — 7′
+Slide 14 复盘要点 / Review & Guidelines — 5′
+Slide 15 延伸资源 / Extended Resources — 2′
+Slide 16 结语 / Conclusion — 1′
     小计 / Subtotal：45′
 
 > 时间结构总览 | Timing at a Glance
@@ -56,7 +56,7 @@
 ### Slide 2：分享大纲（标语：不要把孩子和洗脚水一起倒掉） | Lecture Outline (Slogan: Don't throw away the baby with the bathwater)
 ![Slide2.PNG](Slides%20Backup/Slide2.PNG)
 
-#### 主要内容（4分钟）
+#### 主要内容（3分钟）
 整体路径：先厘清“玄学 / 科学 / 伪科学”的边界，再进入实践与反思，最后留出时间做交流。提醒：讨论时区分“是否可检验”与“是否有用”的不同维度，避免把有害的迷信与可启发的传统方法一起丢掉。
 
 <small>**补充**：该标语用于提醒：清理伪科学与夸大宣传的同时，保留可转化的经验智慧与启发式。</small>
@@ -66,7 +66,7 @@
 ### Slide 3：什么是玄学（本讲含义紧缩在术数） | What is Metaphysics (Focusing on Numerology in this Lecture)
 ![Slide3.PNG](Slides%20Backup/Slide3.PNG)
 
-#### 主要内容（13分钟）
+#### 主要内容（10分钟）
 工作定义聚焦“术数”：
 - **方法**：紫微斗数、四柱八字（子平法）、大/小六壬、六爻/梅花易数、面相手相、天相、风水（玄空飞星）、奇门、太乙等。
 - **载体**：测字、签辞、筊杯、龟卜、蓍筮、物候等。
@@ -80,7 +80,7 @@
 ### Slide 4：什么是科学（自然 / 社会 / 形式） | What is Science (Natural / Social / Formal)
 ![Slide4.PNG](Slides%20Backup/Slide4.PNG)
 
-#### 主要内容（13分钟）
+#### 主要内容（12分钟）
 - **自然科学**：可证伪、可复现的经验主张（实验与观测）。
 - **社会科学**：田野/实验/统计/模型，产出可检验结论（“研究玄学”属于社会科学）。
 - **形式科学**：数学/逻辑/计算等符号系统内部的自洽推演（象数系统可形式化为符号系统，但**形式自洽≠经验真**）。
@@ -106,7 +106,7 @@
 ### Slide 6：练习题——生肖的断点（时间—历法—体系差异） | Exercise: Zodiac Boundary Points (Time-Calendar-System Differences)
 ![Slide6.PNG](Slides%20Backup/Slide6.PNG)
 
-#### 主要内容（6分钟）
+#### 主要内容（2分钟）
 - 设问：2025-01-03 09:42、2025-01-30 11:22、立春 2025-02-03 22:10 / 22:22 等时点的“生肖”如何判？
 - 讨论：民俗空间 vs 四柱八字体系的“年界”不同；“立春”“正月初一”并不总重合；同一时刻在不同地点可能有不同纪时与适用口径。
 
@@ -117,7 +117,7 @@
 ### Slide 7：农历 / 黄历（阴阳合历与时令） | Tung  - ShingLunar Calendar / Almanac (Lunisolar Calendar and Seasons) 
 ![Slide7.PNG](Slides%20Backup/Slide7.PNG)
 
-#### 主要内容（5分钟）
+#### 主要内容（4分钟）
 - 农历是**阴阳合历**：月相节律（阴）与太阳周年（阳）叠加；黄历承载生产与民俗时令。
 - 经典提示：“在天成象，在地成形，变化见矣。”
 - 二十四节气与“三候”是古人对时间—气候—物候的系统编码。
@@ -139,7 +139,7 @@
 ### Slide 9：五行与相关网络（木火土金水） | Five Elements and Related Networks (Wood-Fire-Earth-Metal-Water)
 ![Slide9.PNG](Slides%20Backup/Slide9.PNG)
 
-#### 主要内容（7分钟）
+#### 主要内容（3分钟）
 - 常识性象法：生克制化并非静态表；**靠近—条件—通关**决定具体走向。
 - 用“结构/情境”讲五行：  
   木盛水缩；水大木漂；木多火晦；火多土焦；土重金埋；金多水浊。
@@ -165,7 +165,7 @@
 ### Slide 11：命可以改吗？——"命/象/调"的区分 | Can Fate Be Changed? — Distinction Between Fate/Symbol/Adjustment
 ![Slide11.PNG](Slides%20Backup/Slide11.PNG)
 
-#### 主要内容（7分钟）
+#### 主要内容（9分钟）
 - **天—地—人三盘**：天盘（出生定参，年级别）；地盘（环境与反馈，季度级别）；人盘（主观能动，两周期别）。  
 - 命不可改，**象可调**：通过“配方—卷积/权重”的比喻理解“调象”。
 - 双胞胎问题：同天盘但地/人盘不同，路径与结局可分化。
@@ -177,7 +177,7 @@
 ### Slide 12：卦不走空吗？——误差来源与学科视角 | Don't Hexagrams Fail? — Error Sources and Disciplinary Perspectives
 ![Slide12.PNG](Slides%20Backup/Slide12.PNG)
 
-#### 主要内容（8分钟）
+#### 主要内容（6分钟）
 - **自然科学视角**：尝试用高维相关/同时性做启发性解释（非定论）。  
 - **社会科学视角**：巴纳姆效应、自利偏差、冷读术；占卜在人类学中的功能（框架—秩序—减焦虑）。  
 - **形式科学视角**：象征系统内部可比优劣，但经验主张仍须外部证据。
@@ -190,7 +190,7 @@
 ### Slide 13：术数后传——伦理与边界 | Numerology's Legacy — Ethics and Boundaries
 ![Slide13.PNG](Slides%20Backup/Slide13.PNG)
 
-#### 主要内容（3分钟）
+#### 主要内容（7分钟）
 - **善易者不常卜**：避免占卜替代日常问题解决能力。  
 - **底线**：反伦理、反常识、伤害性的做法应入故纸堆；依法远离邪教与精神控制。  
 - 提醒：术数用于**趋利避害与行动组织**，不是制造依赖与恐惧。
@@ -202,7 +202,7 @@
 ### Slide 14：复盘要点（方法框架与应用准绳） | Review Key Points (Methodological Framework and Application Guidelines)
 ![Slide14.PNG](Slides%20Backup/Slide14.PNG)
 
-#### 主要内容（6分钟）
+#### 主要内容（5分钟）
 - 工作准绳：**遵循自然科学的认知框架**，**启发式使用术数方法**。  
 - 心态：**模型皆错但可有用**；以证据与校准留下“有用的部分”。  
 - 面向需求的两轴：**可触达的精度** × **可负担的成本**，清楚“何时停手”。
@@ -214,7 +214,7 @@
 ### Slide 15：延伸资源与交流方式 | Extended Resources and Communication Channels
 ![Slide15.PNG](Slides%20Backup/Slide15.PNG)
 
-#### 主要内容（8分钟）
+#### 主要内容（2分钟）
 - **交流**：邮箱/社媒（投屏中的二维码/链接）。  
 - **延伸阅读**（精选）：易学与术数经典；科学哲学入门；人类学的占卜研究；当代“类科学”讨论；神经科学与复杂性科学的若干综述。
 - 建议把读书与小规模自建数据/日志结合，形成个人的“证据—校准”循环。
@@ -229,7 +229,7 @@
 ### Slide 16：结语与Q&A | Conclusion and Q&A
 ![Slide16.PNG](Slides%20Backup/Slide16.PNG)
 
-#### 主要内容（4分钟）
+#### 主要内容（1分钟）
 - 今日要点：  
   1) 玄学与科学是不同层级方法；  
   2) 玄学不等于科学，但可作**象数化启发与情境建模**；  
