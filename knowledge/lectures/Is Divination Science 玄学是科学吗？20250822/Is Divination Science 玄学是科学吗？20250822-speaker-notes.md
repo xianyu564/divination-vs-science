@@ -219,6 +219,17 @@ Slide 16 结语 / Conclusion — 1′
 
 ---
 
+<div align="center">
+  <span>
+    <img src=".github/assets/icon/抽象.jpg" alt="象对论 LOGO" width="120" style="vertical-align: middle; border-radius: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
+    <img src=".github/assets/icon/象画蚂.jpg" alt="象对论 LOGO" width="120" style="vertical-align: middle; border-radius: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
+  </span>
+  <h1>中场休息</h1>
+</div>
+
+---
+
+
 ### Slide 9：五行与相关网络（木火土金水） | Five Elements and Related Networks (Wood-Fire-Earth-Metal-Water)
 ![Slide9.PNG](Slides%20Backup/Slide9.PNG)
 
@@ -235,16 +246,6 @@ Slide 16 结语 / Conclusion — 1′
 - 为什么河流上面要建桥？为什么陨石掉入陨石坑？为什么他不欺负别人，专门来欺负你？
 
 <small>**补充**：为什么是十天干和十二地支。本质上我们喜欢六六大顺、八方来财这样，是一种民俗学朗朗上口还是什么呢？我以为，这是一些朴素的人民对于美好生活的愿景。这是前面没讲的祝由。</small>
-
----
-
-<div align="center">
-  <span>
-    <img src=".github/assets/icon/抽象.jpg" alt="象对论 LOGO" width="120" style="vertical-align: middle; border-radius: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
-    <img src=".github/assets/icon/象画蚂.jpg" alt="象对论 LOGO" width="120" style="vertical-align: middle; border-radius: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
-  </span>
-  <h1>中场休息</h1>
-</div>
 
 ---
 
