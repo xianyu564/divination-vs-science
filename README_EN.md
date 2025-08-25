@@ -15,8 +15,8 @@
 [![GitHub last commit](https://img.shields.io/github/last-commit/xianyu564/divination-vs-science)](https://github.com/xianyu564/divination-vs-science/commits/main)
 [![GitHub contributors](https://img.shields.io/github/contributors/xianyu564/divination-vs-science)](https://github.com/xianyu564/divination-vs-science/graphs/contributors)
 [![GitHub repo size](https://img.shields.io/github/repo-size/xianyu564/divination-vs-science)](https://github.com/xianyu564/divination-vs-science)
-[![GitHub language count](https://img.shields.io/github/languages/count/xianyu564/divination-vs-science)](https://github.com/xianyu564/divination-vs-science)
-[![GitHub top language](https://img.shields.io/github/languages/top/xianyu564/divination-vs-science)](https://github.com/xianyu564/divination-vs-science)
+[![GitHub license](https://img.shields.io/github/license/xianyu564/divination-vs-science)](https://github.com/xianyu564/divination-vs-science/blob/main/LICENSE)
+[![GitHub issues](https://img.shields.io/github/issues/xianyu564/divination-vs-science)](https://github.com/xianyu564/divination-vs-science/issues)
 
 ## 🌍 Language Versions
 **[English](README_EN.md)** | **[中文](README.md)** | **[More Languages](docs/LANGUAGES.md)**
