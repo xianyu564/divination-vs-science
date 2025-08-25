@@ -6,7 +6,7 @@
 - 时长：总计 120 分钟（90 分钟演讲 + 10 分钟中场休息 + 15–20 分钟 Q&A） | Duration: 120 minutes total (90-minute talk + 10-minute break + 15–20-minute Q&A)
 - 目标受众：多层次的跨学科公众——包含理工/人文社科领域的学者与研究生、产业从业者与创业者、对“传统文化 × 科学方法 × 决策”有兴趣的普通听众，以及已退休或长期脱离专业训练的朋友；零基础亦可听，欢迎不同立场参与理性讨论。 | Target Audience: A multi-layered, cross-disciplinary public—including STEM & HSS scholars and graduate students, industry practitioners & entrepreneurs, general audience interested in “traditional culture × scientific method × decision-making,” and retirees/out-of-practice learners; no prior background required, open to diverse viewpoints.
 - 主讲人：张子阳 (衔瑜) 博士 | Speaker: Dr. Zhang Ziyang (Xianyu)
-- 语调：接地气同时不失专业度 | 
+- 语调：接地气、克制而专业；用生活化的有趣实例解释抽象概念；尊重证据、不过度渲染；适度幽默但不打断逻辑。 | Tone : Conversational and grounded, yet professional; explain abstract ideas with relatable real-life examples; evidence-minded with no hype; light, appropriate humor without derailing the logic.
 - 幻灯片总数：16张 | Total Slides: 16
 
 ---
@@ -67,9 +67,12 @@ Slide 16 结语 / Conclusion — 1′
 ![Slide2.PNG](Slides%20Backup/Slide2.PNG)
 
 #### 主要内容（3分钟）
-整体路径：先厘清“玄学 / 科学 / 伪科学”的边界，再进入实践与反思，最后留出时间做交流。提醒：讨论时区分“是否可检验”与“是否有用”的不同维度，避免把有害的迷信与可启发的传统方法一起丢掉。
 
-<small>**补充**：该标语用于提醒：清理伪科学与夸大宣传的同时，保留可转化的经验智慧与启发式。</small>
+刚才第一页抛出的那些问题——会全部在今晚的两部分里回应。整体安排：上半场先把“科学／伪科学／玄学”的边界讲清楚，说明我们用什么口径与证据来判断；中场休息十分钟；下半场进入具体做法与反思，包括四柱、五行、误差来源与伦理边界；最后统一 Q&A。
+
+也请先打个预防针：玄学里有大量糟粕，但并非一无是处。今晚会沿用大家熟悉的固有名词（如“克妻/克夫”等）推进讲解，但这些词并不自动等于“科学结论”，除非你弄明白了前因后果。比如克，其先决条件是关系很近。正负电荷如果不接近，那么它们不会中和，也克不到一起。所以克的条件首先是近，然后再看是往好了管理还是往差了管理。今晚我们会对很多词汇提出解释，从玄学源流和我的科学背景一起提出想法，其目的是希望大家不要把孩子和洗脚水一起倒掉。
+
+<small>补充：常见误解名词之赏析。</small>
 
 ---
 
