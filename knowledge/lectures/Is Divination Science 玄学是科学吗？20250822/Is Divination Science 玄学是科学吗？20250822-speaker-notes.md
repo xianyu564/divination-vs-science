@@ -3,19 +3,42 @@
 ## 基本信息 | Basic Information
 - 讲座标题：玄学是科学吗？ | Lecture Title: Is Divination Science?
 - 日期：2025年8月22日 | Date: August 22, 2025
-- 时长：120分钟（含中场休息10分钟与Q&A） | Duration: 120 minutes (including 10-minute break and Q&A)
-- 目标受众：对传统文化与现代科学关系感兴趣的学者、学生、创业者 | Target Audience: Scholars, students, and entrepreneurs interested in the relationship between traditional culture and modern science
-- 主讲人：张子阳 (衔瑜) | Speaker: Zhang Ziyang (Xianyu)
-- Slides总数：16张 | Total Slides: 16
+- 时长：总计 120 分钟（90 分钟演讲 + 10 分钟中场休息 + 15–20 分钟 Q&A） | Duration: 120 minutes total (90-minute talk + 10-minute break + 15–20-minute Q&A)
+- 目标受众：多层次的跨学科公众——包含理工/人文社科领域的学者与研究生、产业从业者与创业者、对“传统文化 × 科学方法 × 决策”有兴趣的普通听众，以及已退休或长期脱离专业训练的朋友；零基础亦可听，欢迎不同立场参与理性讨论。 | Target Audience: A multi-layered, cross-disciplinary public—including STEM & HSS scholars and graduate students, industry practitioners & entrepreneurs, general audience interested in “traditional culture × scientific method × decision-making,” and retirees/out-of-practice learners; no prior background required, open to diverse viewpoints.
+- 主讲人：张子阳 (衔瑜) 博士 | Speaker: Dr. Zhang Ziyang (Xianyu)
+- 幻灯片总数：16张 | Total Slides: 16
+
+---
 
 ## 讲座大纲 | Lecture Outline
-1. 开场与问题提出 (3+4分钟，共7分钟) | Opening and Problem Statement (3+4 min, total 7 min)
-2. 科学 / 伪科学 / 玄学 (13+13+9分钟，共35分钟) | Science / Pseudoscience / Metaphysics (13+13+9 min, total 35 min)
-3. 玄学实践与反思 (6+5+2+7+12+7+8+3分钟，共50分钟) | Metaphysics Practice and Reflection (6+5+2+7+12+7+8+3 min, total 50 min)
-4. 总结与交流 (6+8+4分钟，共18分钟) | Summary and Discussion (6+8+4 min, total 18 min)
-5. 中场休息与Q&A (10分钟) | Break and Q&A (10 min)
+> 总讲时 90 分钟：上半场至第 8 页；下半场为第 9–16 页；中间休息 10 分钟；最后 Q\&A 15–20 分钟。
+> Talk time 90 minutes: Part I through Slide 8; Part II Slides 9–16; 10-minute break in between; 15–20-minute Q\&A at the end.
 
-> 各部分合计：7+35+50+18+10=120分钟 | Total: 7+35+50+18+10=120 minutes
+1. Slide 1 标题页 / Title — 3′
+2. Slide 2 分享大纲 / Outline — 3′
+3. Slide 3 什么是玄学（聚焦术数）/ What is “Metaphysics” (Numerology focus) — 10′
+4. Slide 4 什么是科学 / What is Science — 10′
+5. Slide 5 “科学的尽头是玄学吗？” / Is Science’s End Metaphysics? — 6′
+6. Slide 6 练习：生肖断点 / Exercise: Zodiac Boundaries — 5′
+7. Slide 7 农历与节气 / Lunisolar Calendar & Seasons — 4′
+8. Slide 8 阶段小结 / Interim Summary — 4′
+   小计 / Subtotal：45′
+
+— 中场休息 Intermission：10′ —
+
+9. Slide 9 五行与网络 / Five-Element Networks — 6′
+10. Slide 10 四柱与子平法 / Four Pillars & Ziping — 12′
+11. Slide 11 命/象/调的区分 / Fate vs. Symbols vs. Adjustment — 6′
+12. Slide 12 误差来源与学科视角 / Error Sources & Disciplinary Views — 6′
+13. Slide 13 伦理与边界 / Ethics & Boundaries — 3′
+14. Slide 14 复盘要点 / Review & Guidelines — 5′
+15. Slide 15 延伸资源 / Extended Resources — 4′
+16. Slide 16 结语 / Conclusion — 3′
+    小计 / Subtotal：45′
+
+> 时间结构总览 | Timing at a Glance
+> 45′（1–8）＋10′ 休息/Rest ＋45′（9–16）＋15–20′ Q&A = 115–120′
+
 ---
 
 ## 逐页演讲稿 | Slide-by-Slide Script
