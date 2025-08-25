@@ -14,14 +14,14 @@
 > 总讲时 90 分钟：上半场至第 8 页；下半场为第 9–16 页；中间休息 10 分钟；最后 Q\&A 15–20 分钟。
 > Talk time 90 minutes: Part I through Slide 8; Part II Slides 9–16; 10-minute break in between; 15–20-minute Q\&A at the end.
 
-Slide 1 标题页 / Title — 3′
+Slide 1 标题页 / Title — 2′
 Slide 2 分享大纲 / Outline — 3′
 Slide 3 什么是玄学（聚焦术数）/ What is “Metaphysics” (Numerology focus) — 10′
 Slide 4 什么是科学 / What is Science — 12′
 Slide 5 “科学的尽头是玄学吗？” / Is Science’s End Metaphysics? — 9′
 Slide 6 练习：生肖断点 / Exercise: Zodiac Boundaries — 2′
 Slide 7 农历与节气 / Lunisolar Calendar & Seasons — 4′
-Slide 8 阶段小结 / Interim Summary — 2′
+Slide 8 阶段小结 / Interim Summary — 3′
    小计 / Subtotal：45′
 
 — 中场休息 Intermission：10′ —
@@ -46,7 +46,7 @@ Slide 16 结语 / Conclusion — 1′
 ### Slide 1：标题页 | Title Slide
 ![Slide1.PNG](Slides%20Backup/Slide1.PNG)
 
-#### 主要内容（3分钟）
+#### 主要内容（2分钟）
 自我介绍与背景：理工出身、医学工程与AI交叉，近年在“象对论”方向做方法学探索。今天讨论的核心不是“立场站哪边”，而是如何在清晰语境下把问题说清楚、做得更准。
 
 <small>**补充**：背景中的项目经历与“象对论”的命题：用“象—对—论证”的方式，把象数系统中的“类比、结构、情境”转换为可校准的假设与操作。</small>
@@ -129,7 +129,7 @@ Slide 16 结语 / Conclusion — 1′
 ### Slide 8：阶段小结（后半场议题提示） | Interim Summary (Second Half Topics Preview)
 ![Slide8.PNG](Slides%20Backup/Slide8.PNG)
 
-#### 主要内容（2分钟）
+#### 主要内容（3分钟）
 后续聚焦：四柱八字的方法学、命与“象”的区分、占卜的边界与误差来源、术数的伦理与现代转化路径。
 
 <small>**补充**：保持“问题—对象—测量—模型”的四件套，在后半部分把案例与校准做扎实。</small>
