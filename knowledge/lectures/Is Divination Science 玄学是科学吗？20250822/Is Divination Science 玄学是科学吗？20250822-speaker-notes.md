@@ -214,9 +214,8 @@ Slide 16 结语 / Conclusion — 1′
 ![Slide8.PNG](Slides%20Backup/Slide8.PNG)
 
 #### 主要内容（3分钟）
-后续聚焦：四柱八字的方法学、命与“象”的区分、占卜的边界与误差来源、术数的伦理与现代转化路径。
-
-<small>**补充**：保持“问题—对象—测量—模型”的四件套，在后半部分把案例与校准做扎实。</small>
+无，简单收束。
+<small>**补充**：随机应变。</small>
 
 ---
 
@@ -236,6 +235,16 @@ Slide 16 结语 / Conclusion — 1′
 - 为什么河流上面要建桥？为什么陨石掉入陨石坑？为什么他不欺负别人，专门来欺负你？
 
 <small>**补充**：为什么是十天干和十二地支。本质上我们喜欢六六大顺、八方来财这样，是一种民俗学朗朗上口还是什么呢？我以为，这是一些朴素的人民对于美好生活的愿景。这是前面没讲的祝由。</small>
+
+---
+
+<div align="center">
+  <span>
+    <img src=".github/assets/icon/抽象.jpg" alt="象对论 LOGO" width="120" style="vertical-align: middle; border-radius: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
+    <img src=".github/assets/icon/象画蚂.jpg" alt="象对论 LOGO" width="120" style="vertical-align: middle; border-radius: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
+  </span>
+  <h1>中场休息</h1>
+</div>
 
 ---
 
