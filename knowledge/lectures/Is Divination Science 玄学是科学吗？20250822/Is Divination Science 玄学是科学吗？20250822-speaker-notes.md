@@ -227,11 +227,18 @@ Slide 15 延伸资源和结语 / Extended Resources and Conclusion — 2′
 <div align="center">
   <span>
       <img src="../../../.github/assets/icon/抽象.jpg" alt="象对论 LOGO" width="120" style="vertical-align: middle; border-radius: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
-  <img src="../../../.github/assets/icon/象画蚂.jpg" alt="象对论 LOGO" width="120" style="vertical-align: middle; border-radius: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
   </span>
+</div>
+
+<div align="center">
   <h1>中场休息</h1>
 </div>
 
+<div align="center">
+  <span>
+      <img src="../../../.github/assets/icon/象画蚂.jpg" alt="象对论 LOGO" width="120" style="vertical-align: middle; border-radius: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
+  </span>
+</div>
 
 ---
 
