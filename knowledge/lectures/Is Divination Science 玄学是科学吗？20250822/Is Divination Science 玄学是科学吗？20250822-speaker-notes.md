@@ -471,6 +471,6 @@ Slide 15 延伸资源和结语 / Extended Resources and Conclusion — 2′
 
 
 <div align="center">
-  <img src="../../../.github/assets/icon/Back Bag.PNG" alt="象对论 Back Bag" width="300" style="border-radius: 15px; box-shadow: 0 6px 12px rgba(0,0,0,0.15);" />
+  <img src="../../../.github/assets/icon/Front Bag.PNG" alt="象对论 Back Bag" width="300" style="border-radius: 15px; box-shadow: 0 6px 12px rgba(0,0,0,0.15);" />
   <img src="../../../.github/assets/icon/Back Bag.PNG" alt="Elephenotype Back Bag" width="300" style="border-radius: 15px; box-shadow: 0 6px 12px rgba(0,0,0,0.15);" />
 </div>
