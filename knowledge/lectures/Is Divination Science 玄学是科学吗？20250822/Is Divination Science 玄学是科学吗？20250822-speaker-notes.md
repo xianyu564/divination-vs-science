@@ -6,6 +6,7 @@
 - 时长：总计 120 分钟（90 分钟演讲 + 10 分钟中场休息 + 15–20 分钟 Q&A） | Duration: 120 minutes total (90-minute talk + 10-minute break + 15–20-minute Q&A)
 - 目标受众：多层次的跨学科公众——包含理工/人文社科领域的学者与研究生、产业从业者与创业者、对“传统文化 × 科学方法 × 决策”有兴趣的普通听众，以及已退休或长期脱离专业训练的朋友；零基础亦可听，欢迎不同立场参与理性讨论。 | Target Audience: A multi-layered, cross-disciplinary public—including STEM & HSS scholars and graduate students, industry practitioners & entrepreneurs, general audience interested in “traditional culture × scientific method × decision-making,” and retirees/out-of-practice learners; no prior background required, open to diverse viewpoints.
 - 主讲人：张子阳 (衔瑜) 博士 | Speaker: Dr. Zhang Ziyang (Xianyu)
+- 语调：接地气同时不失专业度 | 
 - 幻灯片总数：16张 | Total Slides: 16
 
 ---
@@ -47,9 +48,18 @@ Slide 16 结语 / Conclusion — 1′
 ![Slide1.PNG](Slides%20Backup/Slide1.PNG)
 
 #### 主要内容（2分钟）
-自我介绍与背景：理工出身、医学工程与AI交叉，近年在“象对论”方向做方法学探索。今天讨论的核心不是“立场站哪边”，而是如何在清晰语境下把问题说清楚、做得更准。
+各位晚上好，首先感谢主办方与承办团队的邀请，也感谢在场与线上所有朋友、以及志愿者的支持。
 
-<small>**补充**：背景中的项目经历与“象对论”的命题：用“象—对—论证”的方式，把象数系统中的“类比、结构、情境”转换为可校准的假设与操作。</small>
+我们都很熟悉“命”这个词：命好、命硬、命里有或没有。那今天从小问题开个头，请大家在心里给出自己的答案——
+
+- 同一天出生的两个人，一位选调一位创业，走出完全不同的人生，这是“命不同”，还是环境与选择不同？
+- 择日搬家/开工/结婚/改名真的会“改命”吗？是心理暗示、环境因素，还是别的机制？
+- 算命师可以算我家狗狗现在在想什么吗？
+- 手机 App/AI 看手相面相会不会比师傅更准？
+
+如果“命中注定”，我们为什么还要做选择？选择与命的关系是什么？
+
+<small>补充：开场用问题聚焦注意力是常见而有效的做法——很多演讲法（如 Monroe’s Motivated Sequence 的 Attention 步）都建议用发问、故事或数据切入；高校写作与演讲中心也提醒在开头通过问题让主题与听众相关，并在需要真实回应时明确说明、留出停顿。这些做法有助于提高参与度与记忆度。</small>
 
 ---
 
