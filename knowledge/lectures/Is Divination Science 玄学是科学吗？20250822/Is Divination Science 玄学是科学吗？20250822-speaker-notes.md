@@ -15,25 +15,25 @@
 > 总讲时 90 分钟：上半场至第 8 页；下半场为第 9–16 页；中间休息 10 分钟；最后 Q\&A 15–20 分钟。
 > Talk time 90 minutes: Part I through Slide 8; Part II Slides 9–16; 10-minute break in between; 15–20-minute Q\&A at the end.
 
-Slide 1 标题页 / Title — 2′
-Slide 2 分享大纲 / Outline — 3′
-Slide 3 什么是玄学（聚焦术数）/ What is “Metaphysics” (Numerology focus) — 10′
-Slide 4 什么是科学 / What is Science — 12′
-Slide 5 “科学的尽头是玄学吗？” / Is Science’s End Metaphysics? — 9′
-Slide 6 练习：生肖断点 / Exercise: Zodiac Boundaries — 2′
-Slide 7 农历与节气 / Lunisolar Calendar & Seasons — 4′
-Slide 8 阶段小结 / Interim Summary — 3′
+Slide 1 标题页 / Title — 2′<br>
+Slide 2 分享大纲 / Outline — 3′<br>
+Slide 3 什么是玄学（聚焦术数）/ What is “Metaphysics” (Numerology focus) — 10′<br>
+Slide 4 什么是科学 / What is Science — 12′<br>
+Slide 5 “科学的尽头是玄学吗？” / Is Science’s End Metaphysics? — 9′<br>
+Slide 6 练习：生肖断点 / Exercise: Zodiac Boundaries — 2′<br>
+Slide 7 农历与节气 / Lunisolar Calendar & Seasons — 4′<br>
+Slide 8 阶段小结 / Interim Summary — 3′<br>
    小计 / Subtotal：45′
 
 — 中场休息 Intermission：10′ —
 
-Slide 9 五行与网络 / Five-Element Networks — 3′
-Slide 10 四柱与子平法 / Four Pillars & Ziping — 12′
-Slide 11 命/象/调的区分 / Fate vs. Symbols vs. Adjustment — 9′
-Slide 12 误差来源与学科视角 / Error Sources & Disciplinary Views — 9′
-Slide 13 伦理与边界 / Ethics & Boundaries — 7′
-Slide 14 复盘要点 / Review & Guidelines — 3′
-Slide 15 延伸资源和结语 / Extended Resources and Conclusion — 2′
+Slide 9 五行与网络 / Five-Element Networks — 3′<br>
+Slide 10 四柱与子平法 / Four Pillars & Ziping — 12′<br>
+Slide 11 命/象/调的区分 / Fate vs. Symbols vs. Adjustment — 9′<br>
+Slide 12 误差来源与学科视角 / Error Sources & Disciplinary Views — 9′<br>
+Slide 13 伦理与边界 / Ethics & Boundaries — 7′<br>
+Slide 14 复盘要点 / Review & Guidelines — 3′<br>
+Slide 15 延伸资源和结语 / Extended Resources and Conclusion — 2′<br>
     小计 / Subtotal：45′
 
 > 时间结构总览 | Timing at a Glance
