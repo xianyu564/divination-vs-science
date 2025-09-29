@@ -1,0 +1,15 @@
+/* 五行色（可按品牌色修改） */
+:root {
+  --wuxing-wood:  #4CAF50;
+  --wuxing-fire:  #F44336;
+  --wuxing-earth: #BCAAA4;
+  --wuxing-metal: #9E9E9E;
+  --wuxing-water: #2196F3;
+}
+
+/* Mermaid 节点配色（HTML 导出时生效） */
+.mermaid svg .nodeLabel { font-weight: 600; }
+.mermaid svg .node circle, .mermaid svg .node rect {
+  stroke-width: 2px;
+}
+/* 可进一步选择性为不同节点命名并上色 */

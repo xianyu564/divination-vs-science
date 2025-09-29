@@ -1,11 +1,16 @@
-# 占卜与科学：概述与思考
+# 玄学与科学：哲学框架与应用概述
+## Divination vs Science: Philosophical Framework and Application Overview
 
-## 基本信息
-- **主题**: 占卜与科学的关系探讨
-- **难度等级**: 中级
-- **预计阅读时间**: 15-20分钟
-- **相关讲座**: 《玄学是科学吗？》
-- **最后更新**: 2025-08-22
+## 基本信息 / Basic Information
+- **主题 / Topic**: 玄学与科学的关系探讨及其现代应用 / Exploration of the relationship between divination and science and its modern applications
+- **难度等级 / Difficulty Level**: 中级 / Intermediate
+- **预计阅读时间 / Estimated Reading Time**: 20-25分钟 / 20-25 minutes
+- **核心讲座 / Core Lecture**: 
+  - 📺 **[《玄学是科学吗？》（2025年8月22日）](../lectures/Is%20Divination%20Science%20玄学是科学吗？20250822/)**
+  - 🎯 **16张slides + 完整演讲者逐字稿**
+  - ⏱️ **60分钟系统性深度分析**
+- **关联资源 / Related Resources**: [讲座材料包](../lectures/), [FAQ](../faq/), [学术资源](academic/)
+- **最后更新 / Last Updated**: 2025-08-22
 
 ## 摘要
 本文档探讨占卜与科学的关系，分析它们的异同点，以及在现代社会中如何理性看待和应用这些知识体系。

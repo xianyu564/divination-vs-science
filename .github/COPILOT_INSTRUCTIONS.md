@@ -34,6 +34,7 @@
 │   └── sponsors-list.md        # 赞助者名单
 ├── .github/                    # GitHub配置 / GitHub Configuration
 │   ├── assets/                 # 图片资源（二维码等）
+│   │   ├── sponsor-qr-code/    # 赞助二维码
 │   ├── templates/              # 模板文件
 │   ├── workflows/              # 工作流
 │   └── COPILOT_INSTRUCTIONS.md # 本文档

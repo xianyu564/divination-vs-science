@@ -1,19 +1,32 @@
-# 玄学是科学吗？/ Is Fortune-Telling Science?
+<div align="center">
+  <span>
+    <img src=".github/assets/icon/抽象.jpg" alt="象对论 LOGO" width="120" style="vertical-align: middle; border-radius: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
+    <img src=".github/assets/icon/象画蚂.jpg" alt="象对论 LOGO" width="120" style="vertical-align: middle; border-radius: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
+  </span>
+  <h1>玄学是科学吗？/ Is Fortune-Telling Science?</h1>
+</div>
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
-[![GitHub stars](https://img.shields.io/badge/GitHub%20stars-0-brightgreen)](https://github.com/xianyu564/divination-vs-science/stargazers)
-[![GitHub forks](https://img.shields.io/badge/GitHub%20forks-0-brightgreen)](https://github.com/xianyu564/divination-vs-science/network)
-[![GitHub issues](https://img.shields.io/badge/GitHub%20issues-0-brightgreen)](https://github.com/xianyu564/divination-vs-science/issues)
-[![GitHub pull requests](https://img.shields.io/badge/GitHub%20PRs-0-brightgreen)](https://github.com/xianyu564/divination-vs-science/pulls)
+[![GitHub stars](https://img.shields.io/github/stars/xianyu564/divination-vs-science?style=social&label=Star)](https://github.com/xianyu564/divination-vs-science)
+[![GitHub forks](https://img.shields.io/github/forks/xianyu564/divination-vs-science?style=social&label=Fork)](https://github.com/xianyu564/divination-vs-science)
+[![GitHub issues](https://img.shields.io/github/issues/xianyu564/divination-vs-science)](https://github.com/xianyu564/divination-vs-science/issues)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/xianyu564/divination-vs-science)](https://github.com/xianyu564/divination-vs-science/pulls)
+[![GitHub last commit](https://img.shields.io/github/last-commit/xianyu564/divination-vs-science)](https://github.com/xianyu564/divination-vs-science/commits/main)
+[![GitHub contributors](https://img.shields.io/github/contributors/xianyu564/divination-vs-science)](https://github.com/xianyu564/divination-vs-science/graphs/contributors)
+[![GitHub repo size](https://img.shields.io/github/repo-size/xianyu564/divination-vs-science)](https://github.com/xianyu564/divination-vs-science)
 
 ## 🌍 语言版本 / Language Versions
-**[中文](README.md)** | **[English](README_EN.md)** | **[更多语言](LANGUAGES.md)**
+**[中文](README.md)** | **[English](README_EN.md)** | **[更多语言](docs/LANGUAGES.md)**
 
 > 知识社区 · 哲学框架 · 创业冷启动  
 > Knowledge Community · Philosophical Framework · Startup Cold Start
 
 ## 🎯 项目定位 / Project Positioning
+
+<div align="center">
+  <img src=".github/assets/icon/Front Bag.PNG" alt="象对论 Front Bag" width="300" style="border-radius: 15px; box-shadow: 0 6px 12px rgba(0,0,0,0.15);" />
+</div>
 
 ### 🚨 重要说明：部分开源仓库 / Important Note: Partially Open Source Repository
 **本仓库采用混合授权模式**：
@@ -44,7 +57,7 @@
 
 ### 🎯 核心内容（完全开放）
 <div align="center">
-  <img src=".github/assets/Slides Front Page.png" alt="玄学是科学吗？讲座封面" width="600" />
+  <img src=".github/assets/Slides Front Page.png" alt="玄学是科学吗？讲座封面" width="600" style="border-radius: 15px; box-shadow: 0 8px 16px rgba(0,0,0,0.2);" />
 </div>
 
 **所有用户均可访问的核心内容**：
@@ -54,7 +67,7 @@
 - 💼 **[咨询服务](knowledge/consultation-service/)** - 专业咨询服务
 - 🎯 **[示例文件](knowledge/share-sample/)** - 框架展示用示例文件
 
-> 💡 **提示**：从讲座材料开始快速理解核心概念，然后深入FAQ和学术资源。
+> 💡 **建议路径**：核心讲座 → FAQ解答 → 学术资源深入 → 实际应用探索
 
 ### 开源共享部分 / Open Source Shared Components
 - **哲学思辨**：关于玄学与科学关系的深度思考，人类智慧边界拓展的探索
@@ -97,6 +110,10 @@
 3. 探讨长期合作可能性
 
 ## 📂 项目结构 / Project Structure
+
+<div align="center">
+  <img src=".github/assets/icon/Back Bag.PNG" alt="象对论 Back Bag" width="300" style="border-radius: 15px; box-shadow: 0 6px 12px rgba(0,0,0,0.15);" />
+</div>
 
 ```
 .
@@ -157,14 +174,14 @@
 #### 2️⃣ 个人赞助 / Personal Sponsorship
 **个人支持者，支持作者的科研工作**
 <div align="center">
-  <img src=".github/assets/WeChat Sponsor Code.jpg" alt="微信赞助码" width="150" />
-  <img src=".github/assets/SG PayNow Sponsor Code.jpg" alt="PayNow赞助码" width="150" />
+  <img src=".github/assets/sponsor-qr-code/WeChat Sponsor Code.jpg" alt="微信赞助码" width="150" />
+<img src=".github/assets/sponsor-qr-code/SG PayNow Sponsor Code.jpg" alt="PayNow赞助码" width="150" />
 </div>
 
 #### 3️⃣ 公司赞助 / Corporate Sponsorship
 **企业/组织，支持创业项目发展**
 <div align="center">
-  <img src=".github/assets/Start-up Company Code.PNG" alt="创业公司聚合码" width="150" />
+  <img src=".github/assets/sponsor-qr-code/Start-up Company Code.PNG" alt="创业公司聚合码" width="150" />
 </div>
 
 **注意**：通过微信/PayNow/公司二维码赞助后，请发送邮件至 z_zz@u.nus.edu 获取私密仓库访问权限。如希望接受传统回礼，可在邮件中留下收货地址。**未来计划**：当我们获得足够的研究支持后，该社科研究仓库将向所有用户开放。
@@ -172,8 +189,9 @@
 ## 🔗 重要链接 / Important Links
 
 - 📚 [详细文档](docs/README.md) - 完整项目文档
+- 📖 [许可证说明](docs/license-citation/README.md) - 完整的许可证说明和引用规范
 - 🤝 [贡献指南](docs/contributing/贡献指南_Contributing-Guide.md) - 如何参与
-- 📄 [许可信息](docs/license-citation/许可与引用_License-Citation.md) - 使用条款和引用
+- 📖 [术语词汇库](docs/GLOSSARY.md) - 核心术语的专业定义与辨析
 - 💝 [赞助支持](docs/sponsorship/赞助支持_Sponsorship-Support.md) - 赞助详情和权益
 - 💼 [咨询服务](knowledge/consultation-service/) - 商业服务详情
 - 📊 [项目状态](PROJECT_STATUS.md) - 当前进展和计划

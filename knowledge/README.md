@@ -60,10 +60,30 @@ knowledge/
 ## 🎓 讲座材料 / Lecture Materials
 
 ### 当前讲座 / Current Lectures
-- **[Is Divination Science 玄学是科学吗？20250822](lectures/Is%20Divination%20Science%20玄学是科学吗？20250822/)**
-  - 📄 PDF版本：完整的讲座演示文稿 / PDF version: Complete lecture presentation
-  - 🎨 PPT版本：可编辑的PowerPoint文件 / PPT version: Editable PowerPoint file
-  - 📝 讲者笔记：逐页详细说明和脚本 / Speaker notes: Page-by-page detailed explanations and scripts
+
+#### **[🎯 核心讲座：《玄学是科学吗？》（2025年8月22日）](lectures/Is%20Divination%20Science%20玄学是科学吗？20250822/)**
+
+**讲座概览 | Lecture Overview:**
+- **🎯 核心问题**: 探讨玄学与科学的关系，提供多元认知框架
+- **⏱️ 时长**: 120分钟（含中场休息与Q&A）
+- **🎯 目标受众**: 学者、学生、创业者及对传统文化与现代科学关系感兴趣的人群
+- **📊 内容结构**: 16张精心设计的slides，完整覆盖从定义到应用的全流程思考
+
+**完整材料包 | Complete Materials:**
+- 📄 **PDF版本**: 完整的讲座演示文稿（16张slides） / Complete lecture presentation (16 slides)
+- 🎨 **PPT版本**: 可编辑的PowerPoint文件，便于个性化调整 / Editable PowerPoint file for customization
+- 📝 **演讲者笔记**: 详细的speaker notes，包含：
+  - 主要内容（每页核心演讲内容）
+  - 延伸思考（基于slides的深层思考）
+  - 时间控制（120分钟详细分配）
+  - 常见问题应对策略
+  - 技术实施指南
+
+**核心价值 | Core Value:**
+- 🔍 **理论深度**: 从哲学、历史、认知科学多维度分析
+- 🎯 **实用性**: 提供现代决策支持的思维框架
+- 🌉 **桥梁作用**: 连接传统智慧与现代理性思维
+- 📚 **教育价值**: 适合学术讨论和公众教育
 
 ### 未来计划 / Future Plans
 - 录音transcript（讲座录音的文字记录）/ Audio transcript (text record of lecture recordings)

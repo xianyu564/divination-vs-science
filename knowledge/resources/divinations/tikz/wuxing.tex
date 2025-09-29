@@ -1,0 +1,48 @@
+\documentclass[tikz,border=6pt]{standalone}
+\usepackage{xeCJK}
+\setCJKmainfont{Source Han Serif SC}
+\usetikzlibrary{arrows.meta,calc,decorations.markings}
+
+% 颜色（可按需调整）
+\definecolor{Wood}{HTML}{4CAF50}
+\definecolor{Fire}{HTML}{F44336}
+\definecolor{Earth}{HTML}{BCAAA4}
+\definecolor{Metal}{HTML}{9E9E9E}
+\definecolor{Water}{HTML}{2196F3}
+
+% 箭头样式
+\tikzset{
+  >={Stealth[length=3mm,width=2mm]},
+  sheng/.style={very thick, draw=black},
+  ke/.style={thick, dashed, draw=black},
+  elem/.style={circle, minimum size=9mm, inner sep=0pt, text=white, font=\bfseries}
+}
+
+\begin{document}
+\begin{tikzpicture}[scale=2]
+  % 五个顶点（顺时针：木、火、土、金、水）放在正五边形上
+  \foreach \i/\name/\col in {
+    90/木/Wood,
+    18/火/Fire,
+    -54/土/Earth,
+    -126/金/Metal,
+    162/水/Water
+  }{
+    \path ({cos(\i)},{sin(\i)}) node[elem, fill=\col] (\name) {\name};
+  }
+
+  % 生（顺时针环）
+  \draw[sheng] (木) edge[bend left=12] (火);
+  \draw[sheng] (火) edge[bend left=12] (土);
+  \draw[sheng] (土) edge[bend left=12] (金);
+  \draw[sheng] (金) edge[bend left=12] (水);
+  \draw[sheng] (水) edge[bend left=12] (木);
+
+  % 克（五角星）
+  \draw[ke] (木) -- (土);
+  \draw[ke] (土) -- (水);
+  \draw[ke] (水) -- (火);
+  \draw[ke] (火) -- (金);
+  \draw[ke] (金) -- (木);
+\end{tikzpicture}
+\end{document}

@@ -1,6 +1,16 @@
 # 文档中心 / Documentation Center
 
-欢迎来到"玄学是科学吗？"项目的文档中心！
+<div align="center">
+  <img src="../.github/assets/icon/抽象.jpg" alt="象对论 LOGO" width="100" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
+  <h2>欢迎来到"玄学是科学吗？"项目的文档中心！</h2>
+  <img src="../.github/assets/icon/象画蚂.jpg" alt="象对论 LOGO" width="100" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
+</div>
+
+[![GitHub stars](https://img.shields.io/github/stars/xianyu564/divination-vs-science?style=social&label=Star)](https://github.com/xianyu564/divination-vs-science)
+[![GitHub forks](https://img.shields.io/github/forks/xianyu564/divination-vs-science?style=social&label=Fork)](https://github.com/xianyu564/divination-vs-science)
+[![GitHub issues](https://img.shields.io/github/issues/xianyu564/divination-vs-science)](https://github.com/xianyu564/divination-vs-science/issues)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/xianyu564/divination-vs-science)](https://github.com/xianyu564/divination-vs-science/pulls)
+[![GitHub last commit](https://img.shields.io/github/last-commit/xianyu564/divination-vs-science)](https://github.com/xianyu564/divination-vs-science/commits/main)
 
 Welcome to the "Is Fortune-Telling Science?" Project Documentation Center!
 
@@ -27,7 +37,15 @@ Welcome to the "Is Fortune-Telling Science?" Project Documentation Center!
 > 💡 **Note**: This `docs/` folder contains **technical documentation**, for **philosophical materials** please visit the `knowledge/` folder
 
 ### 🧠 哲学思辨材料 / Philosophical Materials
-- [讲座材料](../knowledge/lectures/) - 探索命理、占卜、风水等传统智慧在当代科技社会中的意义 / Exploring the significance of traditional wisdom (divination, fortune-telling, feng shui) in contemporary technological society
+
+#### 🎯 核心讲座 / Core Lecture
+- **[📺 《玄学是科学吗？》（2025.08.22）](../knowledge/lectures/Is%20Divination%20Science%20玄学是科学吗？20250822/)**
+  - 🎯 **16张精心设计的Slides** + **完整演讲者逐字稿**
+  - ⏱️ **120分钟**系统性深度分析
+  - 📝 **多层次内容组织**（主要内容+延伸思考）
+  - 🔍 探索传统智慧在现代社会中的价值与应用
+
+#### 📚 扩展资源 / Extended Resources
 - [常见问题](../knowledge/faq/) - 玄学与科学边界的哲学探讨 / Philosophical exploration of the boundary between metaphysics and science
 - [学术资源](../knowledge/resources/) - 人类智慧边界拓展的研究资料 / Research materials on expanding the boundaries of human wisdom
 - [咨询服务](../knowledge/consultation-service/) - 基于哲学框架的专业指导 / Professional guidance based on philosophical framework
@@ -36,14 +54,21 @@ Welcome to the "Is Fortune-Telling Science?" Project Documentation Center!
 
 ### 中英文合并文档 / Bilingual Documents
 - [项目概述](project-overview/项目概述_Project-Overview.md) - 项目简介、指导思想、目录结构 / Project introduction, guiding principles, directory structure
-- [许可与引用](license-citation/许可与引用_License-Citation.md) - 许可证说明、学术引用、免责声明 / License information, academic citations, disclaimers
+- [许可与引用](license-citation/README.md) - 许可证说明、学术引用、免责声明 / License information, academic citations, disclaimers
+- [MIT 许可证](license-citation/MIT-LICENSE.md) - 开源工具的MIT许可条款（英文版） / MIT license terms for open source tools (English)
+- [MIT 许可证（中文版）](license-citation/MIT-LICENSE-中文.md) - 开源工具的MIT许可条款（中文版） / MIT license terms for open source tools (Chinese)
+- [CC BY-NC-SA 许可证](license-citation/CC-BY-NC-SA-LICENSE.md) - 哲学思辨材料的CC许可条款（英文版） / CC license terms for philosophical materials (English)
+- [CC BY-NC-SA 许可证（中文版）](license-citation/CC-BY-NC-SA-LICENSE-中文.md) - 哲学思辨材料的CC许可条款（中文版） / CC license terms for philosophical materials (Chinese)
+- [商业许可证（中文版）](license-citation/COMMERCIAL-LICENSE-中文.md) - 技术实现和咨询服务的商业许可（中文版） / Commercial license for technical implementation and consultation services (Chinese)
+- [Commercial License (English)](license-citation/COMMERCIAL-LICENSE-EN.md) - 技术实现和咨询服务的商业许可（英文版） / Commercial license for technical implementation and consultation services (English)
 - [赞助支持](sponsorship/赞助支持_Sponsorship-Support.md) - 赞助性质、用途、捐赠者权益 / Sponsorship nature, fund usage, donor benefits
 - [贡献指南](contributing/贡献指南_Contributing-Guide.md) - 如何贡献、流程、规范 / How to contribute, process, guidelines
 
 ## 📚 通用文档 / Common Documents
 
 - [捐赠者名单](sponsors-list.md) - 所有捐赠者的记录和统计 / Records and statistics of all donors
-- [多语言支持](../LANGUAGES.md) - 多语言支持说明和翻译指南 / Multi-language support description and translation guide
+- [多语言支持](LANGUAGES.md) - 多语言支持说明和翻译指南 / Multi-language support description and translation guide
+- [术语词汇库](GLOSSARY.md) - 核心术语的专业定义与辨析 / Professional definitions and analysis of core terminology
 
 ## 🔍 快速导航 / Quick Navigation
 
@@ -65,6 +90,10 @@ Welcome to the "Is Fortune-Telling Science?" Project Documentation Center!
 
 ### 💰 快速赞助 / Quick Sponsorship
 
+<div align="center">
+  <img src="../.github/assets/icon/Front Bag.PNG" alt="象对论 Front Bag" width="200" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
+</div>
+
 #### GitHub Sponsors（推荐 / Recommended）
 [![GitHub Sponsors](https://img.shields.io/badge/GitHub%20Sponsors-Support%20Me-red?style=for-the-badge&logo=github)](https://github.com/sponsors/xianyu564)
 
@@ -72,13 +101,13 @@ Welcome to the "Is Fortune-Telling Science?" Project Documentation Center!
 
 **个人赞助 / Personal Sponsorship**
 <div align="center">
-  <img src="../.github/assets/WeChat Sponsor Code.jpg" alt="微信赞助码" width="120" />
-  <img src="../.github/assets/SG PayNow Sponsor Code.jpg" alt="PayNow赞助码" width="120" />
+  <img src="../.github/assets/sponsor-qr-code/WeChat Sponsor Code.jpg" alt="微信赞助码" width="120" />
+<img src="../.github/assets/sponsor-qr-code/SG PayNow Sponsor Code.jpg" alt="PayNow赞助码" width="120" />
 </div>
 
 **公司赞助 / Corporate Sponsorship**
 <div align="center">
-  <img src="../.github/assets/Start-up Company Code.PNG" alt="创业公司聚合码" width="120" />
+  <img src="../.github/assets/sponsor-qr-code/Start-up Company Code.PNG" alt="创业公司聚合码" width="120" />
 </div>
 
 ### 商业客户 / Business Clients
