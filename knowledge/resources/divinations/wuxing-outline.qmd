@@ -1,6 +1,6 @@
 ---
-title: "八字论命总纲（模板）"
-author: "你的名字"
+title: "八字论命总纲"
+author: "张衔瑜"
 format:
   html:
     theme: [litera, styles/variables.scss]
@@ -9,8 +9,11 @@ format:
   pdf:
     include-in-header: styles/latex-preamble.tex
     geometry: margin=2.5cm
-    fig-format: pdf
-    fig-dpi: 300
+    # fig-format: pdf
+    # fig-dpi: 300
+    mermaid:
+      format: png    # 建议 png 最稳（svg 需要额外依赖）
+      background: transparent
 lang: zh
 ---
 
