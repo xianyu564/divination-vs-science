@@ -154,7 +154,7 @@ lang: zh
 
 ## 6) 判读流程图（复核用）
 
-```mermaid
+```{mermaid}
 flowchart TD
 
 A[确定四柱 & 时间协议] --> B{日主旺衰<br/>(得令/通根/助制/合冲)}
