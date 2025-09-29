@@ -21,6 +21,41 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
+/* CSS for syntax highlighting */
+html { -webkit-text-size-adjust: 100%; }
+pre > code.sourceCode { white-space: pre; position: relative; }
+pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
+pre > code.sourceCode > span:empty { height: 1.2em; }
+.sourceCode { overflow: visible; }
+code.sourceCode > span { color: inherit; text-decoration: inherit; }
+div.sourceCode { margin: 1em 0; }
+pre.sourceCode { margin: 0; }
+@media screen {
+div.sourceCode { overflow: auto; }
+}
+@media print {
+pre > code.sourceCode { white-space: pre-wrap; }
+pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
+}
+pre.numberSource code
+  { counter-reset: source-line 0; }
+pre.numberSource code > span
+  { position: relative; left: -4em; counter-increment: source-line; }
+pre.numberSource code > span > a:first-child::before
+  { content: counter(source-line);
+    position: relative; left: -1em; text-align: right; vertical-align: baseline;
+    border: none; display: inline-block;
+    -webkit-touch-callout: none; -webkit-user-select: none;
+    -khtml-user-select: none; -moz-user-select: none;
+    -ms-user-select: none; user-select: none;
+    padding: 0 4px; width: 4em;
+  }
+pre.numberSource { margin-left: 3em;  padding-left: 4px; }
+div.sourceCode
+  {   }
+@media screen {
+pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
+}
 </style>
 
 
@@ -36,6 +71,9 @@ ul.task-list li input[type="checkbox"] {
 <script src="wuxing-outline_files/libs/bootstrap/bootstrap.min.js"></script>
 <link href="wuxing-outline_files/libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="wuxing-outline_files/libs/bootstrap/bootstrap-4df6672df3eda4fe1cc9360372a663df.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script src="wuxing-outline_files/libs/quarto-diagram/mermaid.min.js"></script>
+<script src="wuxing-outline_files/libs/quarto-diagram/mermaid-init.js"></script>
+<link href="wuxing-outline_files/libs/quarto-diagram/mermaid.css" rel="stylesheet">
 
 
 </head>
@@ -49,7 +87,7 @@ ul.task-list li input[type="checkbox"] {
    
   <ul>
   <li><a href="#最简七步示例占位" id="toc-最简七步示例占位" class="nav-link active" data-scroll-target="#最简七步示例占位">最简七步（示例占位）</a></li>
-  <li><a href="#五行生克关系图mermaid-快速版" id="toc-五行生克关系图mermaid-快速版" class="nav-link" data-scroll-target="#五行生克关系图mermaid-快速版">五行“生/克”关系图（Mermaid 快速版）</a></li>
+  <li><a href="#五行生克关系图" id="toc-五行生克关系图" class="nav-link" data-scroll-target="#五行生克关系图">五行”生/克”关系图</a></li>
   <li><a href="#用神行动映射示例表" id="toc-用神行动映射示例表" class="nav-link" data-scroll-target="#用神行动映射示例表">用神→行动映射（示例表）</a></li>
   <li><a href="#口袋口诀示例占位" id="toc-口袋口诀示例占位" class="nav-link" data-scroll-target="#口袋口诀示例占位">口袋口诀（示例占位）</a></li>
   </ul>
@@ -107,10 +145,14 @@ ul.task-list li input[type="checkbox"] {
 </div>
 </div>
 </section>
-<section id="五行生克关系图mermaid-快速版" class="level1">
-<h1>五行“生/克”关系图（Mermaid 快速版）</h1>
-<!-- 若在某些环境需启用 mermaid，请在 Quarto 全局或本页启用 -->
-<pre class="mermaid"><code>graph TD
+<section id="五行生克关系图" class="level1">
+<h1>五行”生/克”关系图</h1>
+<div class="cell" data-fig-format="pdf" data-fig-width="6" data-fig-height="4" data-layout-align="default">
+<div class="cell-output-display">
+<div>
+<p></p><figure class="figure"><p></p>
+<div>
+<pre class="mermaid mermaid-js">graph TD
   木((木))--&gt;火((火))
   火((火))--&gt;土((土))
   土((土))--&gt;金((金))
@@ -121,10 +163,28 @@ ul.task-list li input[type="checkbox"] {
   土-.克.-&gt;水
   水-.克.-&gt;火
   火-.克.-&gt;金
-  金-.克.-&gt;木</code></pre>
-<blockquote class="blockquote">
-<p>需要更高质量/可控配色的图，请改用 <code>tikz/wuxing.pdf</code> 并在此处插图。</p>
-</blockquote>
+  金-.克.-&gt;木
+</pre>
+</div>
+<p></p><figcaption> 五行相生相克关系图</figcaption> </figure><p></p>
+</div>
+</div>
+</div>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+注记
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p><strong>说明</strong>: 此图展示了五行相生（→）和相克（-.克.-&gt;）的关系。相生循环：木生火，火生土，土生金，金生水，水生木。相克循环：木克土，土克水，水克火，火克金，金克木。</p>
+<p><strong>替代方案</strong>: 如果需要更高质量/可控配色的图表，可以使用 <code>tikz/wuxing.tex</code> 生成PDF图表，然后在此处插入：</p>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb1"><pre class="sourceCode tex code-with-copy"><code class="sourceCode latex"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a>![五行生克图](tikz/wuxing.pdf){width="<span class="fu">\\</span>textwidth"}</span></code></pre></div><button title="复制到剪贴板" class="code-copy-button"><i class="bi"></i></button></div>
+</div>
+</div>
 </section>
 <section id="用神行动映射示例表" class="level1">
 <h1>用神→行动映射（示例表）</h1>

@@ -9,6 +9,9 @@ format:
   pdf:
     include-in-header: styles/latex-preamble.tex
     geometry: margin=2.5cm
+    fig-format: pdf
+    fig-dpi: 300
+    mermaid-format: pdf
 lang: zh-CN
 ---
 
@@ -25,11 +28,13 @@ lang: zh-CN
 **口诀**（可替换）：寒先温，热先凉，燥先润，湿先燥；强则泄制，弱则生扶；大运是底色，流年是按钮。
 :::
 
-# 五行“生/克”关系图（Mermaid 快速版）
-```{=html}
-<!-- 若在某些环境需启用 mermaid，请在 Quarto 全局或本页启用 -->
-```
-```mermaid
+# 五行"生/克"关系图
+
+```{mermaid}
+%%| fig-cap: "五行相生相克关系图"
+%%| fig-format: pdf
+%%| fig-width: 6
+%%| fig-height: 4
 graph TD
   木((木))-->火((火))
   火((火))-->土((土))
@@ -44,7 +49,15 @@ graph TD
   金-.克.->木
 ```
 
-> 需要更高质量/可控配色的图，请改用 `tikz/wuxing.pdf` 并在此处插图。
+::: {.callout-note}
+**说明**: 此图展示了五行相生（→）和相克（-.克.->）的关系。相生循环：木生火，火生土，土生金，金生水，水生木。相克循环：木克土，土克水，水克火，火克金，金克木。
+
+**替代方案**: 如果需要更高质量/可控配色的图表，可以使用 `tikz/wuxing.tex` 生成PDF图表，然后在此处插入：
+
+```tex
+![五行生克图](tikz/wuxing.pdf){width="\\textwidth"}
+```
+:::
 
 # 用神→行动映射（示例表）
 
