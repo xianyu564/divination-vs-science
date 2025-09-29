@@ -1,0 +1,16 @@
+---
+pdf-engine: xelatex
+---
+
+project:
+  type: website
+  output-dir: _site
+format:
+  html:
+    theme: [litera, styles/variables.scss]
+    toc: true
+    number-sections: false
+  pdf:
+    include-in-header: styles/latex-preamble.tex
+    geometry: margin=2.5cm
+lang: zh-CN
