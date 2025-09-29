@@ -11,7 +11,6 @@ format:
     geometry: margin=2.5cm
     fig-format: pdf
     fig-dpi: 300
-    mermaid-format: pdf
 lang: zh-CN
 ---
 
@@ -31,14 +30,14 @@ lang: zh-CN
 # 五行"生/克"关系图
 
 ```{=tex}
+\usetikzlibrary{arrows.meta,calc} % 确保需要的库已加载
 \begin{tikzpicture}[scale=1.2]
-  % 颜色定义
+  % 颜色定义在 tikzpicture 内部，以避免作用域问题
   \definecolor{wuxingWood}{HTML}{4CAF50}
   \definecolor{wuxingFire}{HTML}{F44336}
   \definecolor{wuxingEarth}{HTML}{BCAAA4}
   \definecolor{wuxingMetal}{HTML}{9E9E9E}
   \definecolor{wuxingWater}{HTML}{2196F3}
-
   % 箭头样式
   \tikzset{
     >={Stealth[length=3mm,width=2mm]},
@@ -48,13 +47,8 @@ lang: zh-CN
   }
 
   % 五个顶点（顺时针：木、火、土、金、水）放在正五边形上
-  \foreach \i/\name/\col in {
-    90/木/wuxingWood,
-    18/火/wuxingFire,
-    -54/土/wuxingEarth,
-    -126/金/wuxingMetal,
-    162/水/wuxingWater
-  }{
+  % 重要：写成一行、无空格列表，并在结尾加 % 吞掉行尾空白，避免颜色名被带空格
+  \foreach \i/\name/\col in {90/木/wuxingWood,18/火/wuxingFire,-54/土/wuxingEarth,-126/金/wuxingMetal,162/水/wuxingWater}{%
     \path ({cos(\i)},{sin(\i)}) node[elem, fill={\col}] (\name) {\name};
   }
 
@@ -73,16 +67,6 @@ lang: zh-CN
   \draw[ke] (金) -- (木);
 \end{tikzpicture}
 ```
-
-::: {.callout-note}
-**说明**: 此图展示了五行相生和相克的关系，形成完美的圆形闭环布局：
-- **相生循环**（实线箭头）：木生火，火生土，土生金，金生水，水生木
-- **相克循环**（虚线箭头）：木克土，土克水，水克火，火克金，金克木
-
-**备选方案**: 如果需要更高质量/可控配色的图表，可以：
-1. 编译 `tikz/wuxing.tex` 生成PDF图表
-2. 然后在此处插入：`![五行生克图](tikz/wuxing.pdf){width="\\textwidth"}`
-:::
 
 # 用神→行动映射（示例表）
 
