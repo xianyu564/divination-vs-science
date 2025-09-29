@@ -1,5 +1,4 @@
 ---
-pdf-engine: xelatex
 ---
 
 project:
@@ -11,6 +10,7 @@ format:
     toc: true
     number-sections: false
   pdf:
+    pdf-engine: xelatex
     include-in-header: styles/latex-preamble.tex
     geometry: margin=2.5cm
 lang: zh-CN
